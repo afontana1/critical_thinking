@@ -1,4 +1,4 @@
-# Resources for [Philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy) and [Critical Thinking](https://www.uwindsor.ca/crrar/)
+# [Resources](https://en.wikipedia.org/wiki/Portal:Philosophy) for [Philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy) and [Critical Thinking](https://www.uwindsor.ca/crrar/)
 
 1. [Assumption](https://en.wikipedia.org/wiki/Category:Assumption_(reasoning))
 2. [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking)
@@ -28,8 +28,22 @@
 4. [Teleology](https://en.wikipedia.org/wiki/Teleology)
 5. [Argumentation & Reasoning](https://philpeople.org/profiles/41605/publication_attributions?app=&order=added&page=6)
 6. [Types & Tokens](https://plato.stanford.edu/entries/types-tokens/)
-7. [Argument From Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
-8. [Reductio Ad Absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
+7. [Occams Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+8. [Argument From Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
+9. [Reductio Ad Absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
+10. [Fact-Value](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction)
+11. [Is-Ought](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
+12. [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity)
+13. [Map-Territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
+
+## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
+
+1. https://en.wikipedia.org/wiki/Metonymy
+2. https://en.wikipedia.org/wiki/Kettle_logic
+3. https://en.wikipedia.org/wiki/Reification_(fallacy)
+4. https://en.wikipedia.org/wiki/Naturalistic_fallacy
+5. https://en.wikipedia.org/wiki/False_dilemma
+6. 
 
 ### Scientific [Method](https://plato.stanford.edu/entries/scientific-method/)
 
@@ -47,6 +61,7 @@
 12. [Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/)
 13. [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
 14. [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
+15. [Macroevolution](https://plato.stanford.edu/entries/macroevolution/)
 
 ## Books
 
@@ -67,8 +82,50 @@
 ### 19th Century
 
 1. [Peirce](https://plato.stanford.edu/entries/peirce/)
+2. [William James](https://en.wikipedia.org/wiki/William_James)
 
 ### 20th Century
 
 1. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
 	- [papers](https://scholar.google.ca/citations?user=iRzoJwcAAAAJ&hl=en)
+
+### Ancient Greece and Rome
+
+- https://en.wikipedia.org/wiki/Pyrrhonism
+- https://en.wikipedia.org/wiki/Democritus
+- https://plato.stanford.edu/entries/epicurus/
+- https://plato.stanford.edu/entries/lucretius/
+- https://plato.stanford.edu/entries/parmenides/
+- https://plato.stanford.edu/entries/zeno-elea/
+- https://plato.stanford.edu/entries/presocratics/
+- https://en.wikipedia.org/wiki/Hellenistic_period
+- https://en.wikipedia.org/wiki/Socrates
+- https://en.wikipedia.org/wiki/Plato
+- https://en.wikipedia.org/wiki/Aristotle
+- https://en.wikipedia.org/wiki/Gorgias_(dialogue)
+
+## Historical Information
+
+- https://en.wikipedia.org/wiki/Alexander_the_Great
+- https://en.wikipedia.org/wiki/Greece_in_the_Roman_era
+- https://en.wikipedia.org/wiki/Ancient_Rome
+- https://en.wikipedia.org/wiki/Roman_Republic
+- https://en.wikipedia.org/wiki/Roman_Kingdom
+
+
+### Religion
+
+1. [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
+
+## Concepts
+
+- https://en.wikipedia.org/wiki/Abrahamic_religions
+- https://en.wikipedia.org/wiki/Criticism_of_atheism
+- https://en.wikipedia.org/wiki/Secular_humanism
+- https://en.wikipedia.org/wiki/Euthyphro_dilemma
+- https://en.wikipedia.org/wiki/Taoism
+- https://en.wikipedia.org/wiki/Confucianism
+- https://en.wikipedia.org/wiki/Religion_in_ancient_Rome
+- https://en.wikipedia.org/wiki/Bactria
+- https://en.wikipedia.org/wiki/Greco-Buddhism
+- https://en.wikipedia.org/wiki/Gymnosophists
