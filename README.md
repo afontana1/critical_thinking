@@ -35,6 +35,7 @@
 11. [Is-Ought](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
 12. [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity)
 13. [Map-Territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
+14. [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 
@@ -43,9 +44,21 @@
 3. https://en.wikipedia.org/wiki/Reification_(fallacy)
 4. https://en.wikipedia.org/wiki/Naturalistic_fallacy
 5. https://en.wikipedia.org/wiki/False_dilemma
-6. 
 
-### Scientific [Method](https://plato.stanford.edu/entries/scientific-method/)
+## Statistical and Causality
+
+1. https://en.wikipedia.org/wiki/Simpson%27s_paradox
+2. https://en.wikipedia.org/wiki/Reference_class_problem
+3. https://en.wikipedia.org/wiki/Base_rate_fallacy
+
+## [Logic](https://en.wikipedia.org/wiki/Category:Logic)
+
+1. https://en.wikipedia.org/wiki/Category:Modal_logic
+2. https://en.wikipedia.org/wiki/Category:Philosophical_logic
+3. https://en.wikipedia.org/wiki/Category:Mathematical_logic
+4. https://en.wikipedia.org/wiki/Category:Semantics
+
+## Scientific [Method](https://plato.stanford.edu/entries/scientific-method/)
 
 1. [Outline of Scientific Process](https://en.wikipedia.org/wiki/Outline_of_scientific_method)
 2. [Structure](https://plato.stanford.edu/entries/structure-scientific-theories/)
@@ -69,7 +82,7 @@
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
-### Enlightenment
+## Enlightenment
 
 1. [Mill](https://plato.stanford.edu/entries/mill/)
 2. [Locke](https://plato.stanford.edu/entries/locke/)
@@ -78,33 +91,46 @@
 5. [Bacon](https://plato.stanford.edu/entries/francis-bacon/)
 6. [Berkeley](https://plato.stanford.edu/entries/berkeley/)
 7. [Libertarian Thinkers](https://principledlibertarian.com/2019/04/10/libertarian-thinkers/)
+8. [Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli)
 
-### 19th Century
+## 19th Century
 
 1. [Peirce](https://plato.stanford.edu/entries/peirce/)
 2. [William James](https://en.wikipedia.org/wiki/William_James)
 
-### 20th Century
+## [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 
 1. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
 	- [papers](https://scholar.google.ca/citations?user=iRzoJwcAAAAJ&hl=en)
+2. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams)
 
-### Ancient Greece and Rome
+## [Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions)
 
+## Ancient Greece and Rome
+
+- https://en.wikipedia.org/wiki/Ancient_Greek_philosophy
+- https://en.wikipedia.org/wiki/Category:Presocratic_philosophy
+- https://en.wikipedia.org/wiki/Hellenistic_philosophy
 - https://en.wikipedia.org/wiki/Pyrrhonism
-- https://en.wikipedia.org/wiki/Democritus
-- https://plato.stanford.edu/entries/epicurus/
-- https://plato.stanford.edu/entries/lucretius/
-- https://plato.stanford.edu/entries/parmenides/
-- https://plato.stanford.edu/entries/zeno-elea/
-- https://plato.stanford.edu/entries/presocratics/
 - https://en.wikipedia.org/wiki/Hellenistic_period
-- https://en.wikipedia.org/wiki/Socrates
-- https://en.wikipedia.org/wiki/Plato
-- https://en.wikipedia.org/wiki/Aristotle
 - https://en.wikipedia.org/wiki/Gorgias_(dialogue)
 
-## Historical Information
+### People
+
+1. [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus)
+2. [Zeno Elea](https://plato.stanford.edu/entries/zeno-elea/)
+3. [PreSocratics](https://plato.stanford.edu/entries/presocratics/)
+4. [Democritus](https://en.wikipedia.org/wiki/Democritus)
+5. [Epicurus](https://plato.stanford.edu/entries/epicurus/)
+6. [Lucretius](https://plato.stanford.edu/entries/lucretius/)
+7. [parmenides](https://plato.stanford.edu/entries/parmenides/)
+8. [Protagoras](https://en.wikipedia.org/wiki/Protagoras)
+9. [Socrates](https://en.wikipedia.org/wiki/Socrates)
+10. [Plato](https://en.wikipedia.org/wiki/Plato)
+11. [Aristotle](https://en.wikipedia.org/wiki/Aristotle)
+
+
+### Historical Information
 
 - https://en.wikipedia.org/wiki/Alexander_the_Great
 - https://en.wikipedia.org/wiki/Greece_in_the_Roman_era
@@ -113,15 +139,16 @@
 - https://en.wikipedia.org/wiki/Roman_Kingdom
 
 
-### Religion
+## Religion
 
 1. [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
 
-## Concepts
+### Concepts
 
 - https://en.wikipedia.org/wiki/Abrahamic_religions
 - https://en.wikipedia.org/wiki/Criticism_of_atheism
-- https://en.wikipedia.org/wiki/Secular_humanism
+- https://plato.stanford.edu/entries/atheism-agnosticism/
+- https://en.wikipedia.org/wiki/Secularism
 - https://en.wikipedia.org/wiki/Euthyphro_dilemma
 - https://en.wikipedia.org/wiki/Taoism
 - https://en.wikipedia.org/wiki/Confucianism
@@ -129,3 +156,5 @@
 - https://en.wikipedia.org/wiki/Bactria
 - https://en.wikipedia.org/wiki/Greco-Buddhism
 - https://en.wikipedia.org/wiki/Gymnosophists
+- https://en.wikipedia.org/wiki/History_of_atheism
+- https://www.knowledgesnacks.com/articles/atheistic-religions/
