@@ -8,7 +8,7 @@
 6. [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 7. [Case Based Reasoning](https://en.wikipedia.org/wiki/Case-based_reasoning#)
 8. [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning)
-9. [Critical Thinking Skills](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
+9. [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking) and [Critical Thinking Skills](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
 10. [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
 11. [Evidence](https://en.wikipedia.org/wiki/Category:Evidence)
 12. [Inductive Fallacies](https://en.wikipedia.org/wiki/Category:Inductive_fallacies)
@@ -19,6 +19,9 @@
 17. [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
 18. [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
 19. [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics)
+20. [Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
+21. [Deception](https://en.wikipedia.org/wiki/Category:Deception)
+22. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
 
 ## [Philosophical Concepts](https://plato.stanford.edu/index.html)
 
@@ -44,6 +47,7 @@
 3. https://en.wikipedia.org/wiki/Reification_(fallacy)
 4. https://en.wikipedia.org/wiki/Naturalistic_fallacy
 5. https://en.wikipedia.org/wiki/False_dilemma
+6. https://en.wikipedia.org/wiki/Processing_fluency
 
 ## Statistical and Causality
 
@@ -51,14 +55,17 @@
 2. https://en.wikipedia.org/wiki/Reference_class_problem
 3. https://en.wikipedia.org/wiki/Base_rate_fallacy
 
-## [Logic](https://en.wikipedia.org/wiki/Category:Logic)
+## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 
 1. https://en.wikipedia.org/wiki/Category:Modal_logic
 2. https://en.wikipedia.org/wiki/Category:Philosophical_logic
 3. https://en.wikipedia.org/wiki/Category:Mathematical_logic
 4. https://en.wikipedia.org/wiki/Category:Semantics
+5. https://en.wikipedia.org/wiki/Informal_logic
+6. https://en.wikipedia.org/wiki/Argumentation_theory
+7. https://en.wikipedia.org/wiki/Deductive_reasoning
 
-## Scientific [Method](https://plato.stanford.edu/entries/scientific-method/)
+## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/)
 
 1. [Outline of Scientific Process](https://en.wikipedia.org/wiki/Outline_of_scientific_method)
 2. [Structure](https://plato.stanford.edu/entries/structure-scientific-theories/)
@@ -75,6 +82,9 @@
 13. [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
 14. [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
 15. [Macroevolution](https://plato.stanford.edu/entries/macroevolution/)
+16. [Research Methods](https://en.wikipedia.org/wiki/Category:Research_methods)
+17. [Methodology](https://en.wikipedia.org/wiki/Category:Methodology)
+18. [Evaluation Methods](https://en.wikipedia.org/wiki/Category:Evaluation_methods)
 
 ## Books
 
@@ -103,6 +113,7 @@
 1. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
 	- [papers](https://scholar.google.ca/citations?user=iRzoJwcAAAAJ&hl=en)
 2. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams)
+3. [Leo Strauss](https://en.wikipedia.org/wiki/Leo_Strauss)
 
 ## [Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions)
 
