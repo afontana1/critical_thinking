@@ -50,6 +50,8 @@
 21. [Essence](https://en.wikipedia.org/wiki/Essence)
 22. [Monotonicity of Entailment](https://en.wikipedia.org/wiki/Monotonicity_of_entailment)
 23. [Difference](https://en.wikipedia.org/wiki/Category:Difference)
+34. [Abstract vs Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
+25. [Kantian Categories](https://en.wikipedia.org/wiki/Category_(Kant)#The_table_of_judgments)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
@@ -172,6 +174,9 @@
 10. [Plato](https://en.wikipedia.org/wiki/Plato)
 11. [Aristotle](https://en.wikipedia.org/wiki/Aristotle)
 12. [Carneades](https://en.wikipedia.org/wiki/Carneades)
+13. [Cicero](https://en.wikipedia.org/wiki/Cicero)
+14. [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
+15. [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus)
 
 
 #### Historical Information
@@ -182,11 +187,14 @@
 - https://en.wikipedia.org/wiki/Roman_Republic
 - https://en.wikipedia.org/wiki/Roman_Kingdom
 
-### Medieval
+### [Medieval](https://en.wikipedia.org/wiki/Medieval_philosophy) and [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)
 
 1. [Ockham](https://en.wikipedia.org/wiki/William_of_Ockham)
 2. [Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas)
 3. [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
+4. [Duns Scotus](https://en.wikipedia.org/wiki/Duns_Scotus)
+5. [Christian Philosophy](https://en.wikipedia.org/wiki/Category:Christian_philosophy)
+6. [Aristotelianism](https://en.wikipedia.org/wiki/Aristotelianism)
 
 ### Enlightenment
 
@@ -199,6 +207,8 @@
 7. [Libertarian Thinkers](https://principledlibertarian.com/2019/04/10/libertarian-thinkers/)
 8. [Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli)
 9. [Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes)
+10. [Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+11. [David Hume](https://en.wikipedia.org/wiki/David_Hume)
 
 ### 19th Century
 
@@ -215,7 +225,7 @@
 
 ## [Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions)
 
-1. [Empiricism](https://en.wikipedia.org/wiki/Empiricism)
+1. [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricists)
 2. [Information Philosophy](https://www.informationphilosopher.com/solutions/scientists/klemm/)
 3. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
 
