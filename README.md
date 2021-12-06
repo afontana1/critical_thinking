@@ -149,10 +149,44 @@
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
+### Ancient Greece and Rome
+
+- https://en.wikipedia.org/wiki/Ancient_Greek_philosophy
+- https://en.wikipedia.org/wiki/Category:Presocratic_philosophy
+- https://en.wikipedia.org/wiki/Hellenistic_philosophy
+- https://en.wikipedia.org/wiki/Pyrrhonism
+- https://en.wikipedia.org/wiki/Hellenistic_period
+- https://en.wikipedia.org/wiki/Gorgias_(dialogue)
+
+#### People
+
+1. [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus)
+2. [Zeno Elea](https://plato.stanford.edu/entries/zeno-elea/)
+3. [PreSocratics](https://plato.stanford.edu/entries/presocratics/)
+4. [Democritus](https://en.wikipedia.org/wiki/Democritus)
+5. [Epicurus](https://plato.stanford.edu/entries/epicurus/)
+6. [Lucretius](https://plato.stanford.edu/entries/lucretius/)
+7. [parmenides](https://plato.stanford.edu/entries/parmenides/)
+8. [Protagoras](https://en.wikipedia.org/wiki/Protagoras)
+9. [Socrates](https://en.wikipedia.org/wiki/Socrates)
+10. [Plato](https://en.wikipedia.org/wiki/Plato)
+11. [Aristotle](https://en.wikipedia.org/wiki/Aristotle)
+12. [Carneades](https://en.wikipedia.org/wiki/Carneades)
+
+
+#### Historical Information
+
+- https://en.wikipedia.org/wiki/Alexander_the_Great
+- https://en.wikipedia.org/wiki/Greece_in_the_Roman_era
+- https://en.wikipedia.org/wiki/Ancient_Rome
+- https://en.wikipedia.org/wiki/Roman_Republic
+- https://en.wikipedia.org/wiki/Roman_Kingdom
+
 ### Medieval
 
 1. [Ockham](https://en.wikipedia.org/wiki/William_of_Ockham)
 2. [Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas)
+3. [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
 
 ### Enlightenment
 
@@ -185,47 +219,12 @@
 2. [Information Philosophy](https://www.informationphilosopher.com/solutions/scientists/klemm/)
 3. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
 
-## [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
+## Categories
 
-### Ancient Greece and Rome
-
-- https://en.wikipedia.org/wiki/Ancient_Greek_philosophy
-- https://en.wikipedia.org/wiki/Category:Presocratic_philosophy
-- https://en.wikipedia.org/wiki/Hellenistic_philosophy
-- https://en.wikipedia.org/wiki/Pyrrhonism
-- https://en.wikipedia.org/wiki/Hellenistic_period
-- https://en.wikipedia.org/wiki/Gorgias_(dialogue)
-
-### People
-
-1. [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus)
-2. [Zeno Elea](https://plato.stanford.edu/entries/zeno-elea/)
-3. [PreSocratics](https://plato.stanford.edu/entries/presocratics/)
-4. [Democritus](https://en.wikipedia.org/wiki/Democritus)
-5. [Epicurus](https://plato.stanford.edu/entries/epicurus/)
-6. [Lucretius](https://plato.stanford.edu/entries/lucretius/)
-7. [parmenides](https://plato.stanford.edu/entries/parmenides/)
-8. [Protagoras](https://en.wikipedia.org/wiki/Protagoras)
-9. [Socrates](https://en.wikipedia.org/wiki/Socrates)
-10. [Plato](https://en.wikipedia.org/wiki/Plato)
-11. [Aristotle](https://en.wikipedia.org/wiki/Aristotle)
-12. [Carneades](https://en.wikipedia.org/wiki/Carneades)
-
-
-### Historical Information
-
-- https://en.wikipedia.org/wiki/Alexander_the_Great
-- https://en.wikipedia.org/wiki/Greece_in_the_Roman_era
-- https://en.wikipedia.org/wiki/Ancient_Rome
-- https://en.wikipedia.org/wiki/Roman_Republic
-- https://en.wikipedia.org/wiki/Roman_Kingdom
+1. [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
 
 
 ## [Religion](https://en.wikipedia.org/wiki/Category:Religion), [Religious Doctrine](https://en.wikipedia.org/wiki/Category:Religious_belief_and_doctrine), and [Belief](https://en.wikipedia.org/wiki/Category:Belief)
-
-1. [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
-2. [Theism](https://en.wikipedia.org/wiki/Category:Theism)
-3. [Deism](https://en.wikipedia.org/wiki/Deism)
 
 ### Concepts
 
@@ -233,7 +232,6 @@
 - https://en.wikipedia.org/wiki/Criticism_of_atheism
 - https://plato.stanford.edu/entries/atheism-agnosticism/
 - https://en.wikipedia.org/wiki/Secularism
-- https://en.wikipedia.org/wiki/God
 - https://en.wikipedia.org/wiki/Euthyphro_dilemma
 - https://en.wikipedia.org/wiki/Taoism
 - https://en.wikipedia.org/wiki/Confucianism
