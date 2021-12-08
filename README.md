@@ -90,15 +90,15 @@
 
 ## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act)
 
-1. https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy)
-2. https://en.wikipedia.org/wiki/Formal_proof
-3. https://en.wikipedia.org/wiki/Mathematical_proof
-4. https://en.wikipedia.org/wiki/Proof_complexity
-5. https://en.wikipedia.org/wiki/Proof_theory
-6. https://en.wikipedia.org/wiki/Statistical_proof
-7. https://en.wikipedia.org/wiki/Category:Evidence_law
-8. https://en.wikipedia.org/wiki/Burden_of_proof_(law)
-9. https://en.wikipedia.org/wiki/Justification_(jurisprudence)
+1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
+2. [Formal Proof](https://en.wikipedia.org/wiki/Formal_proof)
+3. [Mathematical Proof](https://en.wikipedia.org/wiki/Mathematical_proof)
+4. [Proof Complexity](https://en.wikipedia.org/wiki/Proof_complexity)
+5. [Proof Theory](https://en.wikipedia.org/wiki/Proof_theory)
+6. [Statistical Proof](https://en.wikipedia.org/wiki/Statistical_proof)
+7. [Evidence in Law](https://en.wikipedia.org/wiki/Category:Evidence_law)
+8. [Burden of Proof in Law](https://en.wikipedia.org/wiki/Burden_of_proof_(law))
+9. [Jurisprudence](https://en.wikipedia.org/wiki/Justification_(jurisprudence))
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) and [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning)
 
@@ -153,12 +153,12 @@
 
 ### Ancient Greece and Rome
 
-- https://en.wikipedia.org/wiki/Ancient_Greek_philosophy
-- https://en.wikipedia.org/wiki/Category:Presocratic_philosophy
-- https://en.wikipedia.org/wiki/Hellenistic_philosophy
-- https://en.wikipedia.org/wiki/Pyrrhonism
-- https://en.wikipedia.org/wiki/Hellenistic_period
-- https://en.wikipedia.org/wiki/Gorgias_(dialogue)
+1. [Ancient_Greek_philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
+2. [Presocratic_philosophy](https://en.wikipedia.org/wiki/Category:Presocratic_philosophy)
+3. [Hellenistic_philosophy](https://en.wikipedia.org/wiki/Hellenistic_philosophy)
+4. [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
+5. [Hellenistic_period](https://en.wikipedia.org/wiki/Hellenistic_period)
+6. [Gorgias](https://en.wikipedia.org/wiki/Gorgias_(dialogue))
 
 #### People
 
@@ -181,11 +181,11 @@
 
 #### Historical Information
 
-- https://en.wikipedia.org/wiki/Alexander_the_Great
-- https://en.wikipedia.org/wiki/Greece_in_the_Roman_era
-- https://en.wikipedia.org/wiki/Ancient_Rome
-- https://en.wikipedia.org/wiki/Roman_Republic
-- https://en.wikipedia.org/wiki/Roman_Kingdom
+1. [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
+2. [Greece in Roman Era](https://en.wikipedia.org/wiki/Greece_in_the_Roman_era)
+3. [Ancient Rome](https://en.wikipedia.org/wiki/Ancient_Rome)
+4. [Roman Republic](https://en.wikipedia.org/wiki/Roman_Republic)
+5. [Roman Kingdom](https://en.wikipedia.org/wiki/Roman_Kingdom)
 
 ### [Medieval](https://en.wikipedia.org/wiki/Medieval_philosophy) and [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)
 
@@ -234,23 +234,53 @@
 1. [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
 
 
-## [Religion](https://en.wikipedia.org/wiki/Category:Religion), [Religious Doctrine](https://en.wikipedia.org/wiki/Category:Religious_belief_and_doctrine), and [Belief](https://en.wikipedia.org/wiki/Category:Belief)
+## [Ethics](https://en.wikipedia.org/wiki/Category:Ethics), [Philosophy of Religion](https://en.wikipedia.org/wiki/Philosophy_of_religion), and [Belief](https://en.wikipedia.org/wiki/Category:Belief)
+
+### Famous Arguments
+
+1. [Telological Argument](https://en.wikipedia.org/wiki/Teleological_argument)
+2. [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
+3. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
+4. [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
+5. [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
 
 ### Concepts
 
-- https://en.wikipedia.org/wiki/Abrahamic_religions
-- https://en.wikipedia.org/wiki/Criticism_of_atheism
-- https://plato.stanford.edu/entries/atheism-agnosticism/
-- https://en.wikipedia.org/wiki/Secularism
-- https://en.wikipedia.org/wiki/Euthyphro_dilemma
-- https://en.wikipedia.org/wiki/Taoism
-- https://en.wikipedia.org/wiki/Confucianism
-- https://en.wikipedia.org/wiki/Religion_in_ancient_Rome
-- https://en.wikipedia.org/wiki/Bactria
-- https://en.wikipedia.org/wiki/Greco-Buddhism
-- https://en.wikipedia.org/wiki/Gymnosophists
-- https://en.wikipedia.org/wiki/History_of_atheism
-- https://www.knowledgesnacks.com/articles/atheistic-religions/
-- https://en.wikipedia.org/wiki/Religious_liberalism
-- https://en.wikipedia.org/wiki/Hellenistic_Judaism
-- https://en.wikipedia.org/wiki/Shinto
+1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
+
+### Ethics
+
+1. [History of Ethics](https://en.wikipedia.org/wiki/Category:History_of_ethics)
+2. [Ancient Greek Ethics](https://en.wikipedia.org/wiki/Category:Concepts_in_ancient_Greek_ethics)
+3. [Morality](https://en.wikipedia.org/wiki/Category:Morality)
+4. [Moral Universalism](https://en.wikipedia.org/wiki/Moral_universalism)
+5. [Ethical Principles](https://en.wikipedia.org/wiki/Category:Ethical_principles)
+6. [Concepts in Ethics](https://en.wikipedia.org/wiki/Category:Concepts_in_ethics)
+7. [Ethical Theories](https://en.wikipedia.org/wiki/Category:Ethical_theories)
+8. [Religious Ethics](https://en.wikipedia.org/wiki/Category:Religious_ethics)
+9. [History of Ethics](https://en.wikipedia.org/wiki/History_of_ethics)
+10. [Normative Ethics](https://en.wikipedia.org/wiki/Normative_ethics)
+11. [Divine Command Theory](https://en.wikipedia.org/wiki/Divine_command_theory)
+12. [Morality](https://en.wikipedia.org/wiki/Category:Morality)
+13. [Meta Ethics](https://en.wikipedia.org/wiki/Category:Meta-ethics)
+14. [Deontological Ethics](https://en.wikipedia.org/wiki/Category:Deontological_ethics)
+15. [Miscarriage of justice](https://en.wikipedia.org/wiki/Miscarriage_of_justice)
+
+### Religious Systems
+
+1. [Abrahamic Religions](https://en.wikipedia.org/wiki/Abrahamic_religions)
+2. [Criticism of Atheism](https://en.wikipedia.org/wiki/Criticism_of_atheism)
+3. [Atheism-Agnosticism](https://plato.stanford.edu/entries/atheism-agnosticism/)
+4. [Taosim](https://en.wikipedia.org/wiki/Taoism)
+5. [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
+6. [Religion in Ancient Rome](https://en.wikipedia.org/wiki/Religion_in_ancient_Rome)
+7. [Bactria](https://en.wikipedia.org/wiki/Bactria)
+8. [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
+9. [Gymnosophists](https://en.wikipedia.org/wiki/Gymnosophists)
+10. [History of Atheism](https://en.wikipedia.org/wiki/History_of_atheism)
+11. [Atheistic Religions](https://www.knowledgesnacks.com/articles/atheistic-religions/)
+12. [Religious Liberalism](https://en.wikipedia.org/wiki/Religious_liberalism)
+13. [Hellenistic Judaism](https://en.wikipedia.org/wiki/Hellenistic_Judaism)
+14. [Shinto](https://en.wikipedia.org/wiki/Shinto)
+
+
