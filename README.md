@@ -30,7 +30,7 @@
 1. [Events](https://plato.stanford.edu/entries/events/)
 2. [Properties](https://plato.stanford.edu/entries/properties/)
 3. [Platonism](https://en.wikipedia.org/wiki/Platonism)
-4. [Teleology](https://en.wikipedia.org/wiki/Teleology)
+4. [Teleology](https://en.wikipedia.org/wiki/Category:Teleology)
 5. [Argumentation & Reasoning](https://philpeople.org/profiles/41605/publication_attributions?app=&order=added&page=6)
 6. [Types & Tokens](https://plato.stanford.edu/entries/types-tokens/)
 7. [Occams Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
@@ -50,8 +50,9 @@
 21. [Essence](https://en.wikipedia.org/wiki/Essence)
 22. [Monotonicity of Entailment](https://en.wikipedia.org/wiki/Monotonicity_of_entailment)
 23. [Difference](https://en.wikipedia.org/wiki/Category:Difference)
-34. [Abstract vs Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
+24. [Abstract vs Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
 25. [Kantian Categories](https://en.wikipedia.org/wiki/Category_(Kant)#The_table_of_judgments)
+26. [Dualism](https://plato.stanford.edu/entries/dualism/)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
@@ -72,7 +73,7 @@
 15. [Category: Ignorance](https://en.wikipedia.org/wiki/Category:Ignorance)
 16. [Begging the Question](https://en.wikipedia.org/wiki/Begging_the_question)
 
-## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causal_fallacies), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
+## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
 
 1. [Simpsons Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 2. [Reference Class Problem](https://en.wikipedia.org/wiki/Reference_class_problem)
@@ -87,6 +88,7 @@
 11. [Data Dredging](https://en.wikipedia.org/wiki/Data_dredging)
 12. [Correlation vs Cause](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
 13. [Prosecutor Fallacy](https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy)
+14. [Causal Fallacies](https://en.wikipedia.org/wiki/Category:Causal_fallacies)
 
 ## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act)
 
@@ -143,6 +145,8 @@
 17. [Methodology](https://en.wikipedia.org/wiki/Category:Methodology)
 18. [Evaluation Methods](https://en.wikipedia.org/wiki/Category:Evaluation_methods)
 19. [Scientific Modeling](https://plato.stanford.edu/entries/models-science/)
+20. [Reductionism](https://en.wikipedia.org/wiki/Category:Reductionism)
+21. [Emergence](https://en.wikipedia.org/wiki/Category:Emergence)
 
 ## Books
 
@@ -209,6 +213,11 @@
 9. [Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes)
 10. [Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 11. [David Hume](https://en.wikipedia.org/wiki/David_Hume)
+12. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
+
+### 18th Century
+
+1. [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
 
 ### 19th Century
 
@@ -232,6 +241,8 @@
 ## Categories
 
 1. [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
+2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
+3. [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
 
 
 ## [Ethics](https://en.wikipedia.org/wiki/Category:Ethics), [Philosophy of Religion](https://en.wikipedia.org/wiki/Philosophy_of_religion), and [Belief](https://en.wikipedia.org/wiki/Category:Belief)
@@ -243,10 +254,12 @@
 3. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
 4. [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
 5. [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
+6. [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
 
 ### Concepts
 
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
+2. [Mind-Body Dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
 
 ### Ethics
 
@@ -265,6 +278,8 @@
 13. [Meta Ethics](https://en.wikipedia.org/wiki/Category:Meta-ethics)
 14. [Deontological Ethics](https://en.wikipedia.org/wiki/Category:Deontological_ethics)
 15. [Miscarriage of justice](https://en.wikipedia.org/wiki/Miscarriage_of_justice)
+16. [Consequentialism](https://en.wikipedia.org/wiki/Category:Consequentialism)
+17. [Utilitarianism](https://en.wikipedia.org/wiki/Category:Utilitarianism)
 
 ### Religious Systems
 
