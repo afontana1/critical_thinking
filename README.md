@@ -24,6 +24,10 @@
 22. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
 23. [Doubt](https://en.wikipedia.org/wiki/Category:Doubt)
 24. [Barriers to Critical Thinking](https://en.wikipedia.org/wiki/Category:Barriers_to_critical_thinking)
+25. [Presumption](https://en.wikipedia.org/wiki/Presumption)
+26. [Fact](https://en.wikipedia.org/wiki/Fact)
+27. [Statements](https://en.wikipedia.org/wiki/Category:Statements)
+28. [Truth](https://en.wikipedia.org/wiki/Category:Truth)
 
 ## [Philosophical Concepts](https://plato.stanford.edu/index.html) and [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
 
@@ -54,6 +58,12 @@
 25. [Kantian Categories](https://en.wikipedia.org/wiki/Category_(Kant)#The_table_of_judgments)
 26. [Dualism](https://plato.stanford.edu/entries/dualism/)
 27. [Kantian Metaphysics](https://plato.stanford.edu/entries/kant-metaphysics/)
+28. [State of Affairs](https://plato.stanford.edu/entries/states-of-affairs/)
+29. [Facts & Knowledge](https://plato.stanford.edu/entries/facts/)
+30. [Vacuous Truth](https://en.wikipedia.org/wiki/Vacuous_truth)
+31. [Necessity and Sufficiency](https://en.wikipedia.org/wiki/Category:Necessity_and_sufficiency)
+32. [Dichotomies](https://en.wikipedia.org/wiki/Category:Dichotomies)
+33. [Principle of Sufficient Reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
@@ -90,6 +100,8 @@
 12. [Correlation vs Cause](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
 13. [Prosecutor Fallacy](https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy)
 14. [Causal Fallacies](https://en.wikipedia.org/wiki/Category:Causal_fallacies)
+15. [Information](https://en.wikipedia.org/wiki/Category:Information)
+16. [Stylized Fact](https://en.wikipedia.org/wiki/Stylized_fact)
 
 ## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act)
 
@@ -306,5 +318,3 @@
 12. [Religious Liberalism](https://en.wikipedia.org/wiki/Religious_liberalism)
 13. [Hellenistic Judaism](https://en.wikipedia.org/wiki/Hellenistic_Judaism)
 14. [Shinto](https://en.wikipedia.org/wiki/Shinto)
-
-
