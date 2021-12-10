@@ -53,6 +53,7 @@
 24. [Abstract vs Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
 25. [Kantian Categories](https://en.wikipedia.org/wiki/Category_(Kant)#The_table_of_judgments)
 26. [Dualism](https://plato.stanford.edu/entries/dualism/)
+27. [Kantian Metaphysics](https://plato.stanford.edu/entries/kant-metaphysics/)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
@@ -123,6 +124,7 @@
 17. [Counterfactual Conditionals](https://en.wikipedia.org/wiki/Counterfactual_conditional)
 18. [Deontic Logic](https://plato.stanford.edu/entries/logic-deontic/): [article](https://en.wikipedia.org/wiki/Deontic_logic)
 19. [Non Classical Logic](https://en.wikipedia.org/wiki/Category:Non-classical_logic)
+20. [Kants Account of Reason](https://plato.stanford.edu/entries/kant-reason/)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/)
 
@@ -218,11 +220,15 @@
 ### 18th Century
 
 1. [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
+2. [Arthur_Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 
 ### 19th Century
 
 1. [Peirce](https://plato.stanford.edu/entries/peirce/)
 2. [William James](https://en.wikipedia.org/wiki/William_James)
+3. [Ludwig_Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
+4. [feyerabend](https://plato.stanford.edu/entries/feyerabend/)
+5. [Imre_Lakatos](https://en.wikipedia.org/wiki/Imre_Lakatos)
 
 ### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 
@@ -255,6 +261,8 @@
 4. [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
 5. [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
 6. [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
+7. [List of Ontological Arguments](https://plato.stanford.edu/entries/ontological-arguments/)
+8. [Ontological Argument Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
 
 ### Concepts
 
