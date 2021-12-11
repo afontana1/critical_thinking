@@ -64,6 +64,7 @@
 31. [Necessity and Sufficiency](https://en.wikipedia.org/wiki/Category:Necessity_and_sufficiency)
 32. [Dichotomies](https://en.wikipedia.org/wiki/Category:Dichotomies)
 33. [Principle of Sufficient Reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
+34. [Belief](https://en.wikipedia.org/wiki/Belief_revision) [Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
