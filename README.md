@@ -115,6 +115,7 @@
 7. [Evidence in Law](https://en.wikipedia.org/wiki/Category:Evidence_law)
 8. [Burden of Proof in Law](https://en.wikipedia.org/wiki/Burden_of_proof_(law))
 9. [Jurisprudence](https://en.wikipedia.org/wiki/Justification_(jurisprudence))
+10. [Legal Concept of Evidence](https://plato.stanford.edu/entries/evidence-legal/)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) and [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning)
 
@@ -131,13 +132,14 @@
 11. [Reasoning by Precedent](https://plato.stanford.edu/entries/legal-reas-prec/)
 12. [Metaphorical Reasoning](https://plato.stanford.edu/entries/metaphor/)
 13. [Default Logic](https://en.wikipedia.org/wiki/Default_logic)
-14. [Defeasible Reasoning](https://en.wikipedia.org/wiki/Defeasible_logic)
+14. [Defeasible Logic](https://en.wikipedia.org/wiki/Defeasible_logic)
 15. [Abductive Reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
 16. [Case Based Reasoning](https://en.wikipedia.org/wiki/Case-based_reasoning)
 17. [Counterfactual Conditionals](https://en.wikipedia.org/wiki/Counterfactual_conditional)
 18. [Deontic Logic](https://plato.stanford.edu/entries/logic-deontic/): [article](https://en.wikipedia.org/wiki/Deontic_logic)
 19. [Non Classical Logic](https://en.wikipedia.org/wiki/Category:Non-classical_logic)
 20. [Kants Account of Reason](https://plato.stanford.edu/entries/kant-reason/)
+21. [Defeasible Reasoning](https://plato.stanford.edu/entries/reasoning-defeasible/)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/)
 
