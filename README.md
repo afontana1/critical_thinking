@@ -242,6 +242,8 @@
 3. [Ludwig_Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 4. [feyerabend](https://plato.stanford.edu/entries/feyerabend/)
 5. [Imre_Lakatos](https://en.wikipedia.org/wiki/Imre_Lakatos)
+6. [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
+7. [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)
 
 ### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 
@@ -275,12 +277,13 @@
 5. [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
 6. [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
 7. [List of Ontological Arguments](https://plato.stanford.edu/entries/ontological-arguments/)
-8. [Ontological Argument Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
+8. [Ontological](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/) [Argument](https://www.thetablet.co.uk/student-zone/philosophy-of-religion/ontological/kant) [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
 
 ### Concepts
 
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
 2. [Mind-Body Dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
+3. [Strauss](https://en.wikipedia.org/wiki/David_Strauss)
 
 ### Ethics
 
@@ -313,7 +316,7 @@
 7. [Bactria](https://en.wikipedia.org/wiki/Bactria)
 8. [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
 9. [Gymnosophists](https://en.wikipedia.org/wiki/Gymnosophists)
-10. [History of Atheism](https://en.wikipedia.org/wiki/History_of_atheism)
+10. [Criticism of Religion](https://en.wikipedia.org/wiki/Category:Criticism_of_religion)
 11. [Atheistic Religions](https://www.knowledgesnacks.com/articles/atheistic-religions/)
 12. [Religious Liberalism](https://en.wikipedia.org/wiki/Religious_liberalism)
 13. [Hellenistic Judaism](https://en.wikipedia.org/wiki/Hellenistic_Judaism)
