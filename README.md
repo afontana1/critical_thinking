@@ -116,6 +116,7 @@
 8. [Burden of Proof in Law](https://en.wikipedia.org/wiki/Burden_of_proof_(law))
 9. [Jurisprudence](https://en.wikipedia.org/wiki/Justification_(jurisprudence))
 10. [Legal Concept of Evidence](https://plato.stanford.edu/entries/evidence-legal/)
+11. [Scientific Evidence](https://en.wikipedia.org/wiki/Scientific_evidence)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) and [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning)
 
