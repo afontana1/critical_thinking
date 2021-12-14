@@ -141,6 +141,7 @@
 19. [Non Classical Logic](https://en.wikipedia.org/wiki/Category:Non-classical_logic)
 20. [Kants Account of Reason](https://plato.stanford.edu/entries/kant-reason/)
 21. [Defeasible Reasoning](https://plato.stanford.edu/entries/reasoning-defeasible/)
+22. [Doxastic Logic](https://en.wikipedia.org/wiki/Doxastic_logic)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/)
 
@@ -166,6 +167,7 @@
 20. [Reductionism](https://en.wikipedia.org/wiki/Category:Reductionism)
 21. [Emergence](https://en.wikipedia.org/wiki/Category:Emergence)
 22. [Experiments](https://en.wikipedia.org/wiki/Category:Experiments)
+23. [History_of_scientific_method](https://en.wikipedia.org/wiki/History_of_scientific_method)
 
 ## Books
 
@@ -238,6 +240,8 @@
 
 1. [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
 2. [Arthur_Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+3. [Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+4. [Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham)
 
 ### 19th Century
 
