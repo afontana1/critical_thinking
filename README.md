@@ -29,60 +29,24 @@
 27. [Statements](https://en.wikipedia.org/wiki/Category:Statements)
 28. [Truth](https://en.wikipedia.org/wiki/Category:Truth)
 
-## [Philosophical Concepts](https://plato.stanford.edu/index.html) and [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
-
-1. [Events](https://plato.stanford.edu/entries/events/)
-2. [Properties](https://plato.stanford.edu/entries/properties/)
-3. [Platonism](https://en.wikipedia.org/wiki/Platonism)
-4. [Teleology](https://en.wikipedia.org/wiki/Category:Teleology)
-5. [Argumentation & Reasoning](https://philpeople.org/profiles/41605/publication_attributions?app=&order=added&page=6)
-6. [Types & Tokens](https://plato.stanford.edu/entries/types-tokens/)
-7. [Occams Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
-8. [Argument From Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
-9. [Reductio Ad Absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
-10. [Fact-Value](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction)
-11. [Is-Ought](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
-12. [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity)
-13. [Map-Territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
-14. [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
-15. [Statistical Syllogism](https://en.wikipedia.org/wiki/Statistical_syllogism)
-16. [Just World Hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
-17. [A priori A Posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
-18. [Humes Fork](https://en.wikipedia.org/wiki/Hume%27s_fork)
-19. [Analytic - Synthetic](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction)
-20. [Potentiality vs Actuality](https://en.wikipedia.org/wiki/Potentiality_and_actuality)
-21. [Essence](https://en.wikipedia.org/wiki/Essence)
-22. [Monotonicity of Entailment](https://en.wikipedia.org/wiki/Monotonicity_of_entailment)
-23. [Difference](https://en.wikipedia.org/wiki/Category:Difference)
-24. [Abstract vs Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
-25. [Kantian Categories](https://en.wikipedia.org/wiki/Category_(Kant)#The_table_of_judgments)
-26. [Dualism](https://plato.stanford.edu/entries/dualism/)
-27. [Kantian Metaphysics](https://plato.stanford.edu/entries/kant-metaphysics/)
-28. [State of Affairs](https://plato.stanford.edu/entries/states-of-affairs/)
-29. [Facts & Knowledge](https://plato.stanford.edu/entries/facts/)
-30. [Vacuous Truth](https://en.wikipedia.org/wiki/Vacuous_truth)
-31. [Necessity and Sufficiency](https://en.wikipedia.org/wiki/Category:Necessity_and_sufficiency)
-32. [Dichotomies](https://en.wikipedia.org/wiki/Category:Dichotomies)
-33. [Principle of Sufficient Reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
-34. [Belief](https://en.wikipedia.org/wiki/Belief_revision) [Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 1. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
-2. [Metonymy](https://en.wikipedia.org/wiki/Metonymy)
-3. [Kettle Logic](https://en.wikipedia.org/wiki/Kettle_logic)
-4. [Reification](https://en.wikipedia.org/wiki/Reification_(fallacy))
+2. [Category: Relevance Fallacies](https://en.wikipedia.org/wiki/Category:Relevance_fallacies)
+3. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
+4. [Category: Ignorance](https://en.wikipedia.org/wiki/Category:Ignorance)
 5. [Naturalistic_fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy)
 6. [False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)
 7. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
 8. [Tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)
 9. [Rationalization](https://en.wikipedia.org/wiki/Rationalization_(psychology))
 10. [Proof by Assertion](https://en.wikipedia.org/wiki/Proof_by_assertion)
-11. [Category: Relevance Fallacies](https://en.wikipedia.org/wiki/Category:Relevance_fallacies)
-12. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
+11. [Metonymy](https://en.wikipedia.org/wiki/Metonymy)
+12. [Kettle Logic](https://en.wikipedia.org/wiki/Kettle_logic)
 13. [Outcome Bias](https://en.wikipedia.org/wiki/Outcome_bias)
 14. [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
-15. [Category: Ignorance](https://en.wikipedia.org/wiki/Category:Ignorance)
+15. [Reification](https://en.wikipedia.org/wiki/Reification_(fallacy))
 16. [Begging the Question](https://en.wikipedia.org/wiki/Begging_the_question)
 
 ## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
@@ -117,8 +81,10 @@
 9. [Jurisprudence](https://en.wikipedia.org/wiki/Justification_(jurisprudence))
 10. [Legal Concept of Evidence](https://plato.stanford.edu/entries/evidence-legal/)
 11. [Scientific Evidence](https://en.wikipedia.org/wiki/Scientific_evidence)
+12. [Theories](https://en.wikipedia.org/wiki/Category:Theories)
+13. [Hypotheses](https://en.wikipedia.org/wiki/Category:Hypotheses)
 
-## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) and [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning)
+## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 
 1. [Modal Logic](https://en.wikipedia.org/wiki/Category:Modal_logic)
 2. [Philosophical Logic](https://en.wikipedia.org/wiki/Category:Philosophical_logic)
@@ -142,8 +108,9 @@
 20. [Kants Account of Reason](https://plato.stanford.edu/entries/kant-reason/)
 21. [Defeasible Reasoning](https://plato.stanford.edu/entries/reasoning-defeasible/)
 22. [Doxastic Logic](https://en.wikipedia.org/wiki/Doxastic_logic)
+23. [Rules of Inference](https://en.wikipedia.org/wiki/Category:Rules_of_inference)
 
-## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/)
+## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 
 1. [Outline of Scientific Process](https://en.wikipedia.org/wiki/Outline_of_scientific_method)
 2. [Structure](https://plato.stanford.edu/entries/structure-scientific-theories/)
@@ -168,6 +135,7 @@
 21. [Emergence](https://en.wikipedia.org/wiki/Category:Emergence)
 22. [Experiments](https://en.wikipedia.org/wiki/Category:Experiments)
 23. [History_of_scientific_method](https://en.wikipedia.org/wiki/History_of_scientific_method)
+24. [Branches of Science](https://en.wikipedia.org/wiki/Category:Branches_of_science)
 
 ## Books
 
@@ -180,12 +148,13 @@
 
 1. [Ancient_Greek_philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
 2. [Presocratic_philosophy](https://en.wikipedia.org/wiki/Category:Presocratic_philosophy)
-3. [Hellenistic_philosophy](https://en.wikipedia.org/wiki/Hellenistic_philosophy)
+3. [Hellenistic_philosophy](https://en.wikipedia.org/wiki/Category:Hellenistic_philosophy)
 4. [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
 5. [Hellenistic_period](https://en.wikipedia.org/wiki/Hellenistic_period)
 6. [Gorgias](https://en.wikipedia.org/wiki/Gorgias_(dialogue))
+7. [Epilogism](https://en.wikipedia.org/wiki/Epilogism)
 
-#### People
+#### [Classical](https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers) and [Presocratic](https://en.wikipedia.org/wiki/Category:Presocratic_philosophers) Philosophers
 
 1. [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus)
 2. [Zeno Elea](https://plato.stanford.edu/entries/zeno-elea/)
@@ -202,6 +171,7 @@
 13. [Cicero](https://en.wikipedia.org/wiki/Cicero)
 14. [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 15. [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus)
+16. [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho)
 
 
 #### Historical Information
@@ -272,60 +242,3 @@
 1. [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 3. [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
-
-
-## [Ethics](https://en.wikipedia.org/wiki/Category:Ethics), [Philosophy of Religion](https://en.wikipedia.org/wiki/Philosophy_of_religion), and [Belief](https://en.wikipedia.org/wiki/Category:Belief)
-
-### Famous Arguments
-
-1. [Telological Argument](https://en.wikipedia.org/wiki/Teleological_argument)
-2. [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
-3. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
-4. [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
-5. [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
-6. [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
-7. [List of Ontological Arguments](https://plato.stanford.edu/entries/ontological-arguments/)
-8. [Ontological](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/) [Argument](https://www.thetablet.co.uk/student-zone/philosophy-of-religion/ontological/kant) [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
-
-### Concepts
-
-1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
-2. [Mind-Body Dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
-3. [Strauss](https://en.wikipedia.org/wiki/David_Strauss)
-
-### Ethics
-
-1. [History of Ethics](https://en.wikipedia.org/wiki/Category:History_of_ethics)
-2. [Ancient Greek Ethics](https://en.wikipedia.org/wiki/Category:Concepts_in_ancient_Greek_ethics)
-3. [Morality](https://en.wikipedia.org/wiki/Category:Morality)
-4. [Moral Universalism](https://en.wikipedia.org/wiki/Moral_universalism)
-5. [Ethical Principles](https://en.wikipedia.org/wiki/Category:Ethical_principles)
-6. [Concepts in Ethics](https://en.wikipedia.org/wiki/Category:Concepts_in_ethics)
-7. [Ethical Theories](https://en.wikipedia.org/wiki/Category:Ethical_theories)
-8. [Religious Ethics](https://en.wikipedia.org/wiki/Category:Religious_ethics)
-9. [History of Ethics](https://en.wikipedia.org/wiki/History_of_ethics)
-10. [Normative Ethics](https://en.wikipedia.org/wiki/Normative_ethics)
-11. [Divine Command Theory](https://en.wikipedia.org/wiki/Divine_command_theory)
-12. [Morality](https://en.wikipedia.org/wiki/Category:Morality)
-13. [Meta Ethics](https://en.wikipedia.org/wiki/Category:Meta-ethics)
-14. [Deontological Ethics](https://en.wikipedia.org/wiki/Category:Deontological_ethics)
-15. [Miscarriage of justice](https://en.wikipedia.org/wiki/Miscarriage_of_justice)
-16. [Consequentialism](https://en.wikipedia.org/wiki/Category:Consequentialism)
-17. [Utilitarianism](https://en.wikipedia.org/wiki/Category:Utilitarianism)
-
-### Religious Systems
-
-1. [Abrahamic Religions](https://en.wikipedia.org/wiki/Abrahamic_religions)
-2. [Criticism of Atheism](https://en.wikipedia.org/wiki/Criticism_of_atheism)
-3. [Atheism-Agnosticism](https://plato.stanford.edu/entries/atheism-agnosticism/)
-4. [Taosim](https://en.wikipedia.org/wiki/Taoism)
-5. [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
-6. [Religion in Ancient Rome](https://en.wikipedia.org/wiki/Religion_in_ancient_Rome)
-7. [Bactria](https://en.wikipedia.org/wiki/Bactria)
-8. [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
-9. [Gymnosophists](https://en.wikipedia.org/wiki/Gymnosophists)
-10. [Criticism of Religion](https://en.wikipedia.org/wiki/Category:Criticism_of_religion)
-11. [Atheistic Religions](https://www.knowledgesnacks.com/articles/atheistic-religions/)
-12. [Religious Liberalism](https://en.wikipedia.org/wiki/Religious_liberalism)
-13. [Hellenistic Judaism](https://en.wikipedia.org/wiki/Hellenistic_Judaism)
-14. [Shinto](https://en.wikipedia.org/wiki/Shinto)
