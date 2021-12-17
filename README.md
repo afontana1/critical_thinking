@@ -18,7 +18,7 @@
 14. [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
 15. [Reification](https://en.wikipedia.org/wiki/Reification_(fallacy))
 16. [Begging the Question](https://en.wikipedia.org/wiki/Begging_the_question)
-17. [List_of_cognitive_biases]((https://en.wikipedia.org/wiki/List_of_cognitive_biases))
+17. [List_of_cognitive_biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 18. [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
 19. [No True Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
 20. [Naturalistic_fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy)
@@ -66,6 +66,8 @@
 15. [Fact](https://en.wikipedia.org/wiki/Fact)
 16. [Statements](https://en.wikipedia.org/wiki/Category:Statements)
 17. [Truth](https://en.wikipedia.org/wiki/Category:Truth)
+18. [Belief_revision](https://en.wikipedia.org/wiki/Belief_revision)
+19. [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 
@@ -94,7 +96,7 @@
 23. [Rules of Inference](https://en.wikipedia.org/wiki/Category:Rules_of_inference)
 24. [Possibility](https://en.wikipedia.org/wiki/Category:Possibility)
 25. [Arguments from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
-26. [Assumption]((https://en.wikipedia.org/wiki/Category:Assumption_(reasoning))
+26. [Assumption](https://en.wikipedia.org/wiki/Category:Assumption_(reasoning))
 27. [Presumption](https://en.wikipedia.org/wiki/Presumption)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
