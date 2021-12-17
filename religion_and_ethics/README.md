@@ -19,6 +19,10 @@
 15. [Why Is There Anything At All](https://en.wikipedia.org/wiki/Why_there_is_anything_at_all)
 16. [Inconsistent Revelations](https://en.wikipedia.org/wiki/Argument_from_inconsistent_revelations)
 17. [Pascals Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager) and [Atheist Wager](https://en.wikipedia.org/wiki/Atheist%27s_Wager)
+18. [Copleston Russell Debate](https://en.wikipedia.org/wiki/Copleston%E2%80%93Russell_debate)
+19. [Omnipotence Paradox](https://en.wikipedia.org/wiki/Omnipotence_paradox)
+20. [Argument_from_consciousness](https://en.wikipedia.org/wiki/Argument_from_consciousness)
+21. [Lack of Empirical Proof Argument](http://christiancadre.blogspot.com/2019/03/why-there-is-no-empirical-proof-that.html) and [Counterargument](https://theskepticzone.blogspot.com/2016/10/hinmans-argument-from-god-corrolate.html)
 
 ## Concepts
 
