@@ -35,3 +35,6 @@
 33. [Principle of Sufficient Reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 34. [Belief](https://en.wikipedia.org/wiki/Belief_revision) [Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
 35. [transcendental arguments](https://plato.stanford.edu/entries/transcendental-arguments/)
+36. [Objectivity](https://en.wikipedia.org/wiki/Objectivity_(philosophy))
+37. [Philosophical Razors](https://en.wikipedia.org/wiki/Category:Razors_(philosophy))
+38. [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))

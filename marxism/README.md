@@ -1,22 +1,4 @@
-# Network representation of Thinkers influenced by Marx
-
-## Process
-
-- Using [this guide](https://memgraph.com/blog/how-to-visualize-a-social-network-in-python-with-a-graph-database) to host an interactive web app. Using [this repo](https://github.com/scholarly-python-package/scholarly) to help with the accessing scholar citations. Using [This wikipedia api](https://github.com/goldsmith/Wikipedia) to access the links and other metadata.
-
-- Examples of flask/dash webapps w/ bokeh:
-	* https://betterprogramming.pub/deploy-interactive-real-time-data-visualizations-on-flask-with-bokeh-311239273838
-	* https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7
-	* https://realpython.com/python-data-visualization-bokeh/
-	* https://medium.com/@n.j.marey/my-experience-with-flask-and-bokeh-plus-a-small-tutorial-7b49b2e38c76
-	* https://stackoverflow.com/questions/58430994/color-network-graph-node-lines-on-click-in-bokeh-python
-	* https://docs.bokeh.org/en/latest/docs/user_guide/graph.html
-	* https://docs.bokeh.org/en/latest/docs/user_guide/embed.html
-	* https://www.fullstackpython.com/blog/responsive-bar-charts-bokeh-flask-python-3.html
-	* https://plotly.com/python/network-graphs/
-	* https://hussainather.com/2019/12/21/interactive-network-graphs/
-
-## Subject content
+# Subject content
 
 - **Organizations:**
 	* [Frankfurt School](https://en.wikipedia.org/wiki/Frankfurt_School)

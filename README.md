@@ -1,42 +1,12 @@
-# [Resources](https://en.wikipedia.org/wiki/Portal:Philosophy) for [Philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy) and [Critical Thinking](https://www.uwindsor.ca/crrar/)
+# [Resources](https://en.wikipedia.org/wiki/Category:Critical_thinking) for [Philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy) and [Critical Thinking Skills](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
 
-1. [Assumption](https://en.wikipedia.org/wiki/Category:Assumption_(reasoning))
-2. [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking)
-3. [Philosophical Logic](https://en.wikipedia.org/wiki/Category:Philosophical_logic)
-4. [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies)
-5. [Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
-6. [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
-7. [Case Based Reasoning](https://en.wikipedia.org/wiki/Case-based_reasoning#)
-8. [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning)
-9. [Critical Thinking Skills](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
-10. [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
-11. [Evidence](https://en.wikipedia.org/wiki/Category:Evidence)
-12. [Inductive Fallacies](https://en.wikipedia.org/wiki/Category:Inductive_fallacies)
-13. [Cognitive Inertia](https://en.wikipedia.org/wiki/Category:Cognitive_inertia)
-14. [Narrative Techniques](https://en.wikipedia.org/wiki/Category:Narrative_techniques)
-15. [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
-16. [Propaganda Techniques](https://en.wikipedia.org/wiki/Category:Propaganda_techniques)
-17. [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
-18. [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
-19. [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics)
-20. [Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
-21. [Deception](https://en.wikipedia.org/wiki/Category:Deception)
-22. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
-23. [Doubt](https://en.wikipedia.org/wiki/Category:Doubt)
-24. [Barriers to Critical Thinking](https://en.wikipedia.org/wiki/Category:Barriers_to_critical_thinking)
-25. [Presumption](https://en.wikipedia.org/wiki/Presumption)
-26. [Fact](https://en.wikipedia.org/wiki/Fact)
-27. [Statements](https://en.wikipedia.org/wiki/Category:Statements)
-28. [Truth](https://en.wikipedia.org/wiki/Category:Truth)
-
-
-## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/Category:Bias)
 
 1. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
 2. [Category: Relevance Fallacies](https://en.wikipedia.org/wiki/Category:Relevance_fallacies)
 3. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
 4. [Category: Ignorance](https://en.wikipedia.org/wiki/Category:Ignorance)
-5. [Naturalistic_fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy)
+5. [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
 6. [False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)
 7. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
 8. [Tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)
@@ -48,6 +18,14 @@
 14. [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
 15. [Reification](https://en.wikipedia.org/wiki/Reification_(fallacy))
 16. [Begging the Question](https://en.wikipedia.org/wiki/Begging_the_question)
+17. [List_of_cognitive_biases]((https://en.wikipedia.org/wiki/List_of_cognitive_biases))
+18. [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
+19. [No True Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
+20. [Naturalistic_fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy)
+21. [Category: Inductive Fallacies](https://en.wikipedia.org/wiki/Category:Inductive_fallacies)
+22. [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
+23. [Narrative Techniques](https://en.wikipedia.org/wiki/Category:Narrative_techniques)
+24. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
 
 ## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
 
@@ -67,8 +45,9 @@
 14. [Causal Fallacies](https://en.wikipedia.org/wiki/Category:Causal_fallacies)
 15. [Information](https://en.wikipedia.org/wiki/Category:Information)
 16. [Stylized Fact](https://en.wikipedia.org/wiki/Stylized_fact)
+17. [Conditional Probability](https://en.wikipedia.org/wiki/Category:Conditional_probability)
 
-## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act)
+## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act), and [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 2. [Formal Proof](https://en.wikipedia.org/wiki/Formal_proof)
@@ -83,6 +62,10 @@
 11. [Scientific Evidence](https://en.wikipedia.org/wiki/Scientific_evidence)
 12. [Theories](https://en.wikipedia.org/wiki/Category:Theories)
 13. [Hypotheses](https://en.wikipedia.org/wiki/Category:Hypotheses)
+14. [Doubt](https://en.wikipedia.org/wiki/Category:Doubt)
+15. [Fact](https://en.wikipedia.org/wiki/Fact)
+16. [Statements](https://en.wikipedia.org/wiki/Category:Statements)
+17. [Truth](https://en.wikipedia.org/wiki/Category:Truth)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 
@@ -109,6 +92,10 @@
 21. [Defeasible Reasoning](https://plato.stanford.edu/entries/reasoning-defeasible/)
 22. [Doxastic Logic](https://en.wikipedia.org/wiki/Doxastic_logic)
 23. [Rules of Inference](https://en.wikipedia.org/wiki/Category:Rules_of_inference)
+24. [Possibility](https://en.wikipedia.org/wiki/Category:Possibility)
+25. [Arguments from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
+26. [Assumption]((https://en.wikipedia.org/wiki/Category:Assumption_(reasoning))
+27. [Presumption](https://en.wikipedia.org/wiki/Presumption)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 
@@ -136,11 +123,41 @@
 22. [Experiments](https://en.wikipedia.org/wiki/Category:Experiments)
 23. [History_of_scientific_method](https://en.wikipedia.org/wiki/History_of_scientific_method)
 24. [Branches of Science](https://en.wikipedia.org/wiki/Category:Branches_of_science)
+25. [Systems Sciences and Computation](https://github.com/afontana1/Computer-Sciences/tree/master/Computational%20Sciences)
+26. [Breakdown of Scientific Modeling](https://en.wikipedia.org/wiki/Scientific_modelling)
+27. [Computational Fields of Study](https://en.wikipedia.org/wiki/Category:Computational_fields_of_study)
 
-## Books
+## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty) and [Probability](https://en.wikipedia.org/wiki/Category:Probability)
 
-1. [Kant: Critique of Pure Reason](https://en.wikipedia.org/wiki/Critique_of_Pure_Reason)
-2. [Two Dogmas of Empiricism](https://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism)
+1. [Probability Interpretations](https://en.wikipedia.org/wiki/Category:Probability_interpretations)
+2. [Prospect Theory](https://en.wikipedia.org/wiki/Category:Prospect_theory)
+3. [Utility](https://en.wikipedia.org/wiki/Category:Utility)
+4. [Decision Theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
+5. [Decision Making](https://en.wikipedia.org/wiki/Category:Decision-making)
+6. [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
+7. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
+8. [Risk](https://en.wikipedia.org/wiki/Category:Risk)
+
+## Academics
+
+1. [Criticism_of_academia](https://en.wikipedia.org/wiki/Category:Criticism_of_academia)
+2. [Academic_publishing](https://en.wikipedia.org/wiki/Category:Academic_publishing)
+3. [Peer Review](https://en.wikipedia.org/wiki/Category:Peer_review)
+4. [Scholarly_communication](https://en.wikipedia.org/wiki/Category:Scholarly_communication)
+5. [Collaboration](https://en.wikipedia.org/wiki/Category:Collaboration)
+6. [Metascience](https://en.wikipedia.org/wiki/Category:Metascience)
+7. [Evidence based practices](https://en.wikipedia.org/wiki/Category:Evidence-based_practices)
+8. [Research](https://en.wikipedia.org/wiki/Category:Research)
+
+
+## [Deception](https://en.wikipedia.org/wiki/Category:Deception)
+
+1. [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
+2. [Propaganda Techniques](https://en.wikipedia.org/wiki/Category:Propaganda_techniques)
+3. [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
+4. [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
+5. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
+
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -153,6 +170,8 @@
 5. [Hellenistic_period](https://en.wikipedia.org/wiki/Hellenistic_period)
 6. [Gorgias](https://en.wikipedia.org/wiki/Gorgias_(dialogue))
 7. [Epilogism](https://en.wikipedia.org/wiki/Epilogism)
+8. [Milesian School](https://en.wikipedia.org/wiki/Milesian_school)
+9. [Eleatic School](https://en.wikipedia.org/wiki/Category:Eleatic_school)
 
 #### [Classical](https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers) and [Presocratic](https://en.wikipedia.org/wiki/Category:Presocratic_philosophers) Philosophers
 
@@ -212,6 +231,8 @@
 2. [Arthur_Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 3. [Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 4. [Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham)
+5. [Friedrich_Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
+6. [Frege](https://en.wikipedia.org/wiki/Gottlob_Frege)
 
 ### 19th Century
 
@@ -222,6 +243,8 @@
 5. [Imre_Lakatos](https://en.wikipedia.org/wiki/Imre_Lakatos)
 6. [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
 7. [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)
+8. [Vienna Circle](https://en.wikipedia.org/wiki/Vienna_Circle)
+9. [AJ Ayer](https://en.wikipedia.org/wiki/A._J._Ayer)
 
 ### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 
@@ -230,15 +253,23 @@
 2. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams)
 3. [Leo Strauss](https://en.wikipedia.org/wiki/Leo_Strauss)
 4. [Stephen Toulmin](https://en.wikipedia.org/wiki/Stephen_Toulmin)
+5. [John Pollock](https://johnpollock.us/)
 
-## [Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions)
+## [Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions), [Traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions), [Movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements), and [Theories](https://en.wikipedia.org/wiki/Category:Philosophical_theories)
 
 1. [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricists)
 2. [Information Philosophy](https://www.informationphilosopher.com/solutions/scientists/klemm/)
 3. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
+4. [Analytical Philosophy](https://en.wikipedia.org/wiki/Category:Analytic_philosophy)
+5. [Logical_positivism](https://en.wikipedia.org/wiki/Logical_positivism)
+6. [Evidentialism](https://en.wikipedia.org/wiki/Evidentialism)
 
 ## Categories
 
 1. [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
+	- [Epistemological_theories](https://en.wikipedia.org/wiki/Category:Epistemological_theories)
+	- [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology))
+	- [Concepts_in_epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
+	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 3. [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)

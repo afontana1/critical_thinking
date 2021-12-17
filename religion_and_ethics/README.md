@@ -10,6 +10,15 @@
 6. [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
 7. [List of Ontological Arguments](https://plato.stanford.edu/entries/ontological-arguments/)
 8. [Ontological](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/) [Argument](https://www.thetablet.co.uk/student-zone/philosophy-of-religion/ontological/kant) [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
+9. [Cosmological Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
+10. [Argument from a Proper Basis](https://en.wikipedia.org/wiki/Argument_from_a_proper_basis)
+11. [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
+12. [Theological Non Cognitivism](https://en.wikipedia.org/wiki/Theological_noncognitivism)
+13. [Argument from Reason](https://en.wikipedia.org/wiki/Argument_from_reason)
+14. [Argument from Non-Belief](https://en.wikipedia.org/wiki/Argument_from_nonbelief)
+15. [Why Is There Anything At All](https://en.wikipedia.org/wiki/Why_there_is_anything_at_all)
+16. [Inconsistent Revelations](https://en.wikipedia.org/wiki/Argument_from_inconsistent_revelations)
+17. [Pascals Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager) and [Atheist Wager](https://en.wikipedia.org/wiki/Atheist%27s_Wager)
 
 ## Concepts
 
@@ -24,7 +33,12 @@
 9. [Jewish Theology](https://en.wikipedia.org/wiki/Category:Jewish_theology)
 10. [Monolatry in Ancient Israel](https://en.wikipedia.org/wiki/Monolatry#In_ancient_Israel)
 11. [Exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism)
-12. [Christian Terminology](https://en.wikipedia.org/wiki/Category:Christian_terminology)
+12. [Dualism in Cosmology](https://en.wikipedia.org/wiki/Dualism_in_cosmology)
+13. [Unmoved Mover](https://en.wikipedia.org/wiki/Unmoved_mover#First_cause)
+14. [Reformed_epistemology](https://en.wikipedia.org/wiki/Reformed_epistemology)
+15. [Molinism](https://en.wikipedia.org/wiki/Molinism)
+16. [Ghost_in_the_machine](https://en.wikipedia.org/wiki/Ghost_in_the_machine)
+17. [Fate of the Unlearned](https://en.wikipedia.org/wiki/Fate_of_the_unlearned)
 
 ## Ethics
 
@@ -71,3 +85,17 @@
 20. [Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
 21. [Atenism](https://en.wikipedia.org/wiki/Atenism)
 22. [Christianity and Judaism](https://en.wikipedia.org/wiki/Christianity_and_Judaism)
+23. [Portal:Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
+
+## People & History
+
+1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
+2. [Christian_philosophers_by_denomination](https://en.wikipedia.org/wiki/Category:Christian_philosophers_by_denomination)
+3. [Christian_scholars_by_denomination](https://en.wikipedia.org/wiki/Category:Christian_scholars_by_denomination)
+4. [Christian_theological_movements](https://en.wikipedia.org/wiki/Category:Christian_theological_movements)
+5. [History_of_Christianity](https://en.wikipedia.org/wiki/Category:History_of_Christianity)
+6. [William Lane Craig](https://en.wikipedia.org/wiki/William_Lane_Craig)
+7. [Andrzej_Grzegorczyk](https://en.wikipedia.org/wiki/Andrzej_Grzegorczyk)
+8. [Luis_de_Molina](https://en.wikipedia.org/wiki/Luis_de_Molina)
+9. [Jacobus_Arminius](https://en.wikipedia.org/wiki/Jacobus_Arminius)
+10. [Alvin_Plantinga](https://en.wikipedia.org/wiki/Alvin_Plantinga)
