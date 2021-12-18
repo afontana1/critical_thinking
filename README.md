@@ -68,6 +68,7 @@
 17. [Truth](https://en.wikipedia.org/wiki/Category:Truth)
 18. [Belief_revision](https://en.wikipedia.org/wiki/Belief_revision)
 19. [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
+20. [Cherry Picking](https://en.wikipedia.org/wiki/Cherry_picking)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 
