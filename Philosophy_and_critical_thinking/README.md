@@ -38,3 +38,5 @@
 36. [Objectivity](https://en.wikipedia.org/wiki/Objectivity_(philosophy))
 37. [Philosophical Razors](https://en.wikipedia.org/wiki/Category:Razors_(philosophy))
 38. [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
+39. [Genus - Differentia](https://en.wikipedia.org/wiki/Genus%E2%80%93differentia_definition)
+40. [Abstract and Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)

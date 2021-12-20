@@ -129,6 +129,11 @@
 25. [Systems Sciences and Computation](https://github.com/afontana1/Computer-Sciences/tree/master/Computational%20Sciences)
 26. [Breakdown of Scientific Modeling](https://en.wikipedia.org/wiki/Scientific_modelling)
 27. [Computational Fields of Study](https://en.wikipedia.org/wiki/Category:Computational_fields_of_study)
+28. [Statistical Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
+29. [Abstraction](https://en.wikipedia.org/wiki/Category:Abstraction)
+30. [Theory](https://en.wikipedia.org/wiki/Category:Theories)
+31. [Mathematical Modeling](https://en.wikipedia.org/wiki/Category:Mathematical_modeling)
+32. [Statistical Methods](https://github.com/afontana1/Applied-Economics/tree/main/Econometrics)
 
 ## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty) and [Probability](https://en.wikipedia.org/wiki/Category:Probability)
 
