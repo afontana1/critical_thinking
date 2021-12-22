@@ -7,8 +7,8 @@
 3. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
 4. [Category: Ignorance](https://en.wikipedia.org/wiki/Category:Ignorance)
 5. [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
-6. [False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)
-7. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
+6. [Category: Inductive Fallacies](https://en.wikipedia.org/wiki/Category:Inductive_fallacies)
+7. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
 8. [Tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)
 9. [Rationalization](https://en.wikipedia.org/wiki/Rationalization_(psychology))
 10. [Proof by Assertion](https://en.wikipedia.org/wiki/Proof_by_assertion)
@@ -22,10 +22,10 @@
 18. [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
 19. [No True Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
 20. [Naturalistic_fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy)
-21. [Category: Inductive Fallacies](https://en.wikipedia.org/wiki/Category:Inductive_fallacies)
+21. [False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)
 22. [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 23. [Narrative Techniques](https://en.wikipedia.org/wiki/Category:Narrative_techniques)
-24. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
+24. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
 
 ## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
 
@@ -78,7 +78,7 @@
 4. [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 5. [Informal Logic](https://en.wikipedia.org/wiki/Informal_logic)
 6. [Argumenation Theory](https://en.wikipedia.org/wiki/Argumentation_theory)
-7. [Deductive Reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)
+7. [Deductive Reasoning](https://en.wikipedia.org/wiki/Category:Deductive_reasoning)
 8. [Logical Concepts](https://en.wikipedia.org/wiki/Category:Concepts_in_logic)
 9. [Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)
 10. [Bayesian Reasoning](https://en.wikipedia.org/wiki/Category:Bayesian_inference)
@@ -99,6 +99,7 @@
 25. [Arguments from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
 26. [Assumption](https://en.wikipedia.org/wiki/Category:Assumption_(reasoning))
 27. [Presumption](https://en.wikipedia.org/wiki/Presumption)
+28. [Inductive Reasoning](https://en.wikipedia.org/wiki/Category:Inductive_reasoning)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 
@@ -135,16 +136,25 @@
 31. [Mathematical Modeling](https://en.wikipedia.org/wiki/Category:Mathematical_modeling)
 32. [Statistical Methods](https://github.com/afontana1/Applied-Economics/tree/main/Econometrics)
 
-## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty) and [Probability](https://en.wikipedia.org/wiki/Category:Probability)
+## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty), [Probability](https://en.wikipedia.org/wiki/Category:Probability), and [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
 
 1. [Probability Interpretations](https://en.wikipedia.org/wiki/Category:Probability_interpretations)
 2. [Prospect Theory](https://en.wikipedia.org/wiki/Category:Prospect_theory)
 3. [Utility](https://en.wikipedia.org/wiki/Category:Utility)
 4. [Decision Theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
 5. [Decision Making](https://en.wikipedia.org/wiki/Category:Decision-making)
-6. [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
+6. [Problem_solving_skills](https://en.wikipedia.org/wiki/Category:Problem_solving_skills)
 7. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
 8. [Risk](https://en.wikipedia.org/wiki/Category:Risk)
+9. [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics)
+10. [Problem_solving_methods](https://en.wikipedia.org/wiki/Category:Problem_solving_methods)
+11. [Business Process](https://en.wikipedia.org/wiki/Category:Business_process)
+12. [Lateral Thinking](https://en.wikipedia.org/wiki/Lateral_thinking)
+13. [Divergent Thinking](https://en.wikipedia.org/wiki/Divergent_thinking)
+14. [Analysis](https://en.wikipedia.org/wiki/Category:Analysis)
+15. [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It)
+16. [Quality](https://en.wikipedia.org/wiki/Category:Quality)
+17. [Six Sigma](https://en.wikipedia.org/wiki/Category:Six_Sigma)
 
 ## Academics
 
@@ -199,6 +209,7 @@
 14. [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 15. [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus)
 16. [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho)
+17. [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
 
 
 #### Historical Information
@@ -218,6 +229,16 @@
 5. [Christian Philosophy](https://en.wikipedia.org/wiki/Category:Christian_philosophy)
 6. [Aristotelianism](https://en.wikipedia.org/wiki/Aristotelianism)
 
+**Movements**
+	- [Thomism](https://en.wikipedia.org/wiki/Thomism)
+	- [Augustinianism](https://en.wikipedia.org/wiki/Augustinianism)
+	- [Cartesianism](https://en.wikipedia.org/wiki/Cartesianism)
+	- [Molinism](https://en.wikipedia.org/wiki/Molinism)
+	- [Occamism](https://en.wikipedia.org/wiki/Occamism)
+	- [School_of_Salamanca](https://en.wikipedia.org/wiki/School_of_Salamanca)
+	- [Scotism](https://en.wikipedia.org/wiki/Scotism)
+	- [Neo Scholasticism](https://en.wikipedia.org/wiki/Neo-scholasticism)
+
 ### Enlightenment
 
 1. [Mill](https://plato.stanford.edu/entries/mill/)
@@ -230,7 +251,7 @@
 8. [Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli)
 9. [Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes)
 10. [Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
-11. [David Hume](https://en.wikipedia.org/wiki/David_Hume)
+11. [David Hume](https://en.wikipedia.org/wiki/Category:David_Hume)
 12. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
 
 ### 18th Century
