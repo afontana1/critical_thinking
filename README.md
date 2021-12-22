@@ -46,6 +46,7 @@
 15. [Information](https://en.wikipedia.org/wiki/Category:Information)
 16. [Stylized Fact](https://en.wikipedia.org/wiki/Stylized_fact)
 17. [Conditional Probability](https://en.wikipedia.org/wiki/Category:Conditional_probability)
+18. [Endogeneity](https://en.wikipedia.org/wiki/Endogeneity_(econometrics))
 
 ## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act), and [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 

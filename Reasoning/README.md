@@ -9,3 +9,4 @@
 7. [Trevor-Bench-Capon](https://www.researchgate.net/profile/Trevor-Bench-Capon)
 8. [Adam Wyner](https://www.researchgate.net/profile/Adam-Wyner)
 9. [Thomas Gordon](https://www.researchgate.net/profile/Thomas-Gordon-4)
+10. [John Pollock](https://johnpollock.us/ftp/publications.html)
