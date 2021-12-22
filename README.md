@@ -230,14 +230,14 @@
 6. [Aristotelianism](https://en.wikipedia.org/wiki/Aristotelianism)
 
 **Movements**
-	- [Thomism](https://en.wikipedia.org/wiki/Thomism)
-	- [Augustinianism](https://en.wikipedia.org/wiki/Augustinianism)
-	- [Cartesianism](https://en.wikipedia.org/wiki/Cartesianism)
-	- [Molinism](https://en.wikipedia.org/wiki/Molinism)
-	- [Occamism](https://en.wikipedia.org/wiki/Occamism)
-	- [School_of_Salamanca](https://en.wikipedia.org/wiki/School_of_Salamanca)
-	- [Scotism](https://en.wikipedia.org/wiki/Scotism)
-	- [Neo Scholasticism](https://en.wikipedia.org/wiki/Neo-scholasticism)
+	* [Thomism](https://en.wikipedia.org/wiki/Thomism)
+	* [Augustinianism](https://en.wikipedia.org/wiki/Augustinianism)
+	* [Cartesianism](https://en.wikipedia.org/wiki/Cartesianism)
+	* [Molinism](https://en.wikipedia.org/wiki/Molinism)
+	* [Occamism](https://en.wikipedia.org/wiki/Occamism)
+	* [School_of_Salamanca](https://en.wikipedia.org/wiki/School_of_Salamanca)
+	* [Scotism](https://en.wikipedia.org/wiki/Scotism)
+	* [Neo Scholasticism](https://en.wikipedia.org/wiki/Neo-scholasticism)
 
 ### Enlightenment
 
