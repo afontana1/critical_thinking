@@ -229,7 +229,7 @@
 5. [Christian Philosophy](https://en.wikipedia.org/wiki/Category:Christian_philosophy)
 6. [Aristotelianism](https://en.wikipedia.org/wiki/Aristotelianism)
 
-**Movements**
+- **Movements**
 	* [Thomism](https://en.wikipedia.org/wiki/Thomism)
 	* [Augustinianism](https://en.wikipedia.org/wiki/Augustinianism)
 	* [Cartesianism](https://en.wikipedia.org/wiki/Cartesianism)
