@@ -211,6 +211,7 @@
 15. [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus)
 16. [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho)
 17. [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
+18. [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
 
 
 #### Historical Information
@@ -220,6 +221,24 @@
 3. [Ancient Rome](https://en.wikipedia.org/wiki/Ancient_Rome)
 4. [Roman Republic](https://en.wikipedia.org/wiki/Roman_Republic)
 5. [Roman Kingdom](https://en.wikipedia.org/wiki/Roman_Kingdom)
+
+### [Ancient](https://en.wikipedia.org/wiki/Category:Ancient_Chinese_philosophy) [Eastern Philosophy](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought), [Classical Thought](https://en.wikipedia.org/wiki/Category:Classical_Chinese_philosophy), and [Philosophers by Century](https://en.wikipedia.org/wiki/Category:Chinese_philosophers_by_century)
+
+1. [Confucius](https://en.wikipedia.org/wiki/Confucius)
+	- [Neo Confucianism](https://en.wikipedia.org/wiki/Neo-Confucianism)
+	- [Four_Books_and_Five_Classics](https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics)
+	- [Confucian Thought](https://en.wikipedia.org/wiki/Category:Confucian_thought)
+2. [Chinese_logicians](https://en.wikipedia.org/wiki/Category:Chinese_logicians)
+	- [School of Names](https://en.wikipedia.org/wiki/Category:School_of_Names)
+3. [Mohism](https://en.wikipedia.org/wiki/Category:Mohism)
+	- [Mozi](https://en.wikipedia.org/wiki/Mozi)
+4. [Legalism](https://en.wikipedia.org/wiki/Category:Legalism_(Chinese_philosophy))
+	- [Shen Buhai](https://en.wikipedia.org/wiki/Shen_Buhai)
+5. [Yangism](https://en.wikipedia.org/wiki/Yangism)
+6. [Taoist Schools](https://en.wikipedia.org/wiki/Category:Taoist_schools)
+	- [Laozi](https://en.wikipedia.org/wiki/Laozi)
+7. [School of Diplomacy](https://en.wikipedia.org/wiki/School_of_Diplomacy)
+8. [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu)
 
 ### [Medieval](https://en.wikipedia.org/wiki/Medieval_philosophy) and [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)
 
@@ -254,6 +273,8 @@
 10. [Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 11. [David Hume](https://en.wikipedia.org/wiki/Category:David_Hume)
 12. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
+13. [Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
+14. [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)
 
 ### 18th Century
 
@@ -275,6 +296,8 @@
 7. [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)
 8. [Vienna Circle](https://en.wikipedia.org/wiki/Vienna_Circle)
 9. [AJ Ayer](https://en.wikipedia.org/wiki/A._J._Ayer)
+10. [Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)
+11. [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
 
 ### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 

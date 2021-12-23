@@ -40,4 +40,9 @@
 38. [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
 39. [Genus - Differentia](https://en.wikipedia.org/wiki/Genus%E2%80%93differentia_definition)
 40. [Abstract and Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
-41. [Humes Fork](https://en.wikipedia.org/wiki/Hume%27s_fork)
+
+## Books
+
+1. [Oxford Handbooks of History](https://www.oxfordhandbooks.com/browse?t0=ORR:AHU00830)
+2. [Oxford Handbooks of Linguistics](https://www.oxfordhandbooks.com/browse?t0=ORR:AHU01290)
+3. [Oxford Handbook of Philosophy](https://www.oxfordhandbooks.com/browse?t0=ORR:AHU02720)
