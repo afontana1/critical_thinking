@@ -284,6 +284,7 @@
 4. [Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham)
 5. [Friedrich_Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 6. [Frege](https://en.wikipedia.org/wiki/Gottlob_Frege)
+7. [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 
 ### 19th Century
 
