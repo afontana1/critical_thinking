@@ -47,6 +47,8 @@
 16. [Stylized Fact](https://en.wikipedia.org/wiki/Stylized_fact)
 17. [Conditional Probability](https://en.wikipedia.org/wiki/Category:Conditional_probability)
 18. [Endogeneity](https://en.wikipedia.org/wiki/Endogeneity_(econometrics))
+19. [Gamblers Fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
+20. [Facts](https://plato.stanford.edu/entries/facts/)
 
 ## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act), and [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
@@ -70,6 +72,9 @@
 18. [Belief_revision](https://en.wikipedia.org/wiki/Belief_revision)
 19. [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
 20. [Cherry Picking](https://en.wikipedia.org/wiki/Cherry_picking)
+21. [Belief Perserverance](https://en.wikipedia.org/wiki/Belief_perseverance)
+22. [Counterargument](https://en.wikipedia.org/wiki/Counterargument)
+23. [Sources of Knowledge](https://en.wikipedia.org/wiki/Category:Sources_of_knowledge)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 
@@ -101,6 +106,9 @@
 26. [Assumption](https://en.wikipedia.org/wiki/Category:Assumption_(reasoning))
 27. [Presumption](https://en.wikipedia.org/wiki/Presumption)
 28. [Inductive Reasoning](https://en.wikipedia.org/wiki/Category:Inductive_reasoning)
+29. [Refutation](https://en.wikipedia.org/wiki/Objection_(argument))
+30. [Arguments](https://en.wikipedia.org/wiki/Category:Arguments)
+31. [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 
@@ -136,6 +144,8 @@
 30. [Theory](https://en.wikipedia.org/wiki/Category:Theories)
 31. [Mathematical Modeling](https://en.wikipedia.org/wiki/Category:Mathematical_modeling)
 32. [Statistical Methods](https://github.com/afontana1/Applied-Economics/tree/main/Econometrics)
+33. [Empirical Research](https://en.wikipedia.org/wiki/Empirical_research)
+34. [Observation](https://en.wikipedia.org/wiki/Category:Observation)
 
 ## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty), [Probability](https://en.wikipedia.org/wiki/Category:Probability), and [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
 
@@ -156,6 +166,7 @@
 15. [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It)
 16. [Quality](https://en.wikipedia.org/wiki/Category:Quality)
 17. [Six Sigma](https://en.wikipedia.org/wiki/Category:Six_Sigma)
+18. [Certainty](https://en.wikipedia.org/wiki/Certainty)
 
 ## Academics
 
@@ -176,154 +187,3 @@
 3. [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
 4. [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
 5. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
-
-
-## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
-
-### Ancient Greece and Rome
-
-1. [Ancient_Greek_philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
-2. [Presocratic_philosophy](https://en.wikipedia.org/wiki/Category:Presocratic_philosophy)
-3. [Hellenistic_philosophy](https://en.wikipedia.org/wiki/Category:Hellenistic_philosophy)
-4. [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
-5. [Hellenistic_period](https://en.wikipedia.org/wiki/Hellenistic_period)
-6. [Gorgias](https://en.wikipedia.org/wiki/Gorgias_(dialogue))
-7. [Epilogism](https://en.wikipedia.org/wiki/Epilogism)
-8. [Milesian School](https://en.wikipedia.org/wiki/Milesian_school)
-9. [Eleatic School](https://en.wikipedia.org/wiki/Category:Eleatic_school)
-
-#### [Classical](https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers) and [Presocratic](https://en.wikipedia.org/wiki/Category:Presocratic_philosophers) Philosophers
-
-1. [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus)
-2. [Zeno Elea](https://plato.stanford.edu/entries/zeno-elea/)
-3. [PreSocratics](https://plato.stanford.edu/entries/presocratics/)
-4. [Democritus](https://en.wikipedia.org/wiki/Democritus)
-5. [Epicurus](https://plato.stanford.edu/entries/epicurus/)
-6. [Lucretius](https://plato.stanford.edu/entries/lucretius/)
-7. [parmenides](https://plato.stanford.edu/entries/parmenides/)
-8. [Protagoras](https://en.wikipedia.org/wiki/Protagoras)
-9. [Socrates](https://en.wikipedia.org/wiki/Socrates)
-10. [Plato](https://en.wikipedia.org/wiki/Plato)
-11. [Aristotle](https://en.wikipedia.org/wiki/Aristotle)
-12. [Carneades](https://en.wikipedia.org/wiki/Carneades)
-13. [Cicero](https://en.wikipedia.org/wiki/Cicero)
-14. [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
-15. [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus)
-16. [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho)
-17. [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
-18. [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
-
-
-#### Historical Information
-
-1. [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
-2. [Greece in Roman Era](https://en.wikipedia.org/wiki/Greece_in_the_Roman_era)
-3. [Ancient Rome](https://en.wikipedia.org/wiki/Ancient_Rome)
-4. [Roman Republic](https://en.wikipedia.org/wiki/Roman_Republic)
-5. [Roman Kingdom](https://en.wikipedia.org/wiki/Roman_Kingdom)
-
-### [Ancient](https://en.wikipedia.org/wiki/Category:Ancient_Chinese_philosophy) [Eastern Philosophy](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought), [Classical Thought](https://en.wikipedia.org/wiki/Category:Classical_Chinese_philosophy), and [Philosophers by Century](https://en.wikipedia.org/wiki/Category:Chinese_philosophers_by_century)
-
-1. [Confucius](https://en.wikipedia.org/wiki/Confucius)
-	- [Neo Confucianism](https://en.wikipedia.org/wiki/Neo-Confucianism)
-	- [Four_Books_and_Five_Classics](https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics)
-	- [Confucian Thought](https://en.wikipedia.org/wiki/Category:Confucian_thought)
-2. [Chinese_logicians](https://en.wikipedia.org/wiki/Category:Chinese_logicians)
-	- [School of Names](https://en.wikipedia.org/wiki/Category:School_of_Names)
-3. [Mohism](https://en.wikipedia.org/wiki/Category:Mohism)
-	- [Mozi](https://en.wikipedia.org/wiki/Mozi)
-4. [Legalism](https://en.wikipedia.org/wiki/Category:Legalism_(Chinese_philosophy))
-	- [Shen Buhai](https://en.wikipedia.org/wiki/Shen_Buhai)
-5. [Yangism](https://en.wikipedia.org/wiki/Yangism)
-6. [Taoist Schools](https://en.wikipedia.org/wiki/Category:Taoist_schools)
-	- [Laozi](https://en.wikipedia.org/wiki/Laozi)
-7. [School of Diplomacy](https://en.wikipedia.org/wiki/School_of_Diplomacy)
-8. [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu)
-
-### [Medieval](https://en.wikipedia.org/wiki/Medieval_philosophy) and [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)
-
-1. [Ockham](https://en.wikipedia.org/wiki/William_of_Ockham)
-2. [Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas)
-3. [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
-4. [Duns Scotus](https://en.wikipedia.org/wiki/Duns_Scotus)
-5. [Christian Philosophy](https://en.wikipedia.org/wiki/Category:Christian_philosophy)
-6. [Aristotelianism](https://en.wikipedia.org/wiki/Aristotelianism)
-
-- **Movements**
-	* [Thomism](https://en.wikipedia.org/wiki/Thomism)
-	* [Augustinianism](https://en.wikipedia.org/wiki/Augustinianism)
-	* [Cartesianism](https://en.wikipedia.org/wiki/Cartesianism)
-	* [Molinism](https://en.wikipedia.org/wiki/Molinism)
-	* [Occamism](https://en.wikipedia.org/wiki/Occamism)
-	* [School_of_Salamanca](https://en.wikipedia.org/wiki/School_of_Salamanca)
-	* [Scotism](https://en.wikipedia.org/wiki/Scotism)
-	* [Neo Scholasticism](https://en.wikipedia.org/wiki/Neo-scholasticism)
-
-### Enlightenment
-
-1. [Mill](https://plato.stanford.edu/entries/mill/)
-2. [Locke](https://plato.stanford.edu/entries/locke/)
-3. [Bentham](https://plato.stanford.edu/entries/bentham/)
-4. [Adam Smith](https://plato.stanford.edu/entries/smith-moral-political/)
-5. [Bacon](https://plato.stanford.edu/entries/francis-bacon/)
-6. [Berkeley](https://plato.stanford.edu/entries/berkeley/)
-7. [Libertarian Thinkers](https://principledlibertarian.com/2019/04/10/libertarian-thinkers/)
-8. [Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli)
-9. [Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes)
-10. [Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
-11. [David Hume](https://en.wikipedia.org/wiki/Category:David_Hume)
-12. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
-13. [Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
-14. [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)
-
-### 18th Century
-
-1. [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
-2. [Arthur_Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
-3. [Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill)
-4. [Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham)
-5. [Friedrich_Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
-6. [Frege](https://en.wikipedia.org/wiki/Gottlob_Frege)
-7. [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
-
-### 19th Century
-
-1. [Peirce](https://plato.stanford.edu/entries/peirce/)
-2. [William James](https://en.wikipedia.org/wiki/William_James)
-3. [Ludwig_Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
-4. [feyerabend](https://plato.stanford.edu/entries/feyerabend/)
-5. [Imre_Lakatos](https://en.wikipedia.org/wiki/Imre_Lakatos)
-6. [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
-7. [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)
-8. [Vienna Circle](https://en.wikipedia.org/wiki/Vienna_Circle)
-9. [AJ Ayer](https://en.wikipedia.org/wiki/A._J._Ayer)
-10. [Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)
-11. [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
-
-### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
-
-1. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
-	- [papers](https://scholar.google.ca/citations?user=iRzoJwcAAAAJ&hl=en)
-2. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams)
-3. [Leo Strauss](https://en.wikipedia.org/wiki/Leo_Strauss)
-4. [Stephen Toulmin](https://en.wikipedia.org/wiki/Stephen_Toulmin)
-5. [John Pollock](https://johnpollock.us/)
-
-## [Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions), [Traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions), [Movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements), and [Theories](https://en.wikipedia.org/wiki/Category:Philosophical_theories)
-
-1. [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricists)
-2. [Information Philosophy](https://www.informationphilosopher.com/solutions/scientists/klemm/)
-3. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
-4. [Analytical Philosophy](https://en.wikipedia.org/wiki/Category:Analytic_philosophy)
-5. [Logical_positivism](https://en.wikipedia.org/wiki/Logical_positivism)
-6. [Evidentialism](https://en.wikipedia.org/wiki/Evidentialism)
-
-## Categories
-
-1. [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
-	- [Epistemological_theories](https://en.wikipedia.org/wiki/Category:Epistemological_theories)
-	- [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology))
-	- [Concepts_in_epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
-2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
-	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
-3. [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
