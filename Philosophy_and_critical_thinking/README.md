@@ -25,6 +25,7 @@
 	- [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricism)
 	- [Rationalism](https://en.wikipedia.org/wiki/Category:Rationalism)
 	- [Evidentialism](https://en.wikipedia.org/wiki/Evidentialism)
+	- [Coherentism](https://en.wikipedia.org/wiki/Coherentism) [Theories](https://plato.stanford.edu/entries/justep-coherence/)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 3. [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)

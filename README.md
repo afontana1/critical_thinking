@@ -1,5 +1,8 @@
 # [Resources](https://en.wikipedia.org/wiki/Category:Critical_thinking) for [Philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy) and [Critical Thinking Skills](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
 
+1. [www.carneades.org](https://www.carneades.org/)
+2. [List of Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
+
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/Category:Bias)
 
 1. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
@@ -26,6 +29,8 @@
 22. [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 23. [Narrative Techniques](https://en.wikipedia.org/wiki/Category:Narrative_techniques)
 24. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
+25. [Reductio ad Absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
+26. [Regress Argument](https://en.wikipedia.org/wiki/Regress_argument)
 
 ## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
 
