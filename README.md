@@ -3,7 +3,7 @@
 1. [www.carneades.org](https://www.carneades.org/)
 2. [List of Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
 
-## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Biases](https://en.wikipedia.org/wiki/Category:Bias)
+## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 
 1. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
 2. [Category: Relevance Fallacies](https://en.wikipedia.org/wiki/Category:Relevance_fallacies)
@@ -151,6 +151,8 @@
 32. [Statistical Methods](https://github.com/afontana1/Applied-Economics/tree/main/Econometrics)
 33. [Empirical Research](https://en.wikipedia.org/wiki/Empirical_research)
 34. [Observation](https://en.wikipedia.org/wiki/Category:Observation)
+35. [Metrology](https://en.wikipedia.org/wiki/Category:Metrology)
+36. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
 
 ## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty), [Probability](https://en.wikipedia.org/wiki/Category:Probability), and [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
 
