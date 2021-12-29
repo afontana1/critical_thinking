@@ -40,3 +40,6 @@
 34. [Moral Skepticism](https://plato.stanford.edu/entries/skepticism-moral/)
 35. [Moral Relativism](https://plato.stanford.edu/entries/moral-relativism/)
 36. [Desire](https://plato.stanford.edu/entries/desire/)
+37. [Applied Ethics](https://en.wikipedia.org/wiki/Category:Applied_ethics)
+38. [Social Contract](https://en.wikipedia.org/wiki/Social_contract)
+39. [Kantianism](https://en.wikipedia.org/wiki/Category:Kantianism)
