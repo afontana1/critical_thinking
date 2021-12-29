@@ -31,6 +31,8 @@
 24. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
 25. [Reductio ad Absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
 26. [Regress Argument](https://en.wikipedia.org/wiki/Regress_argument)
+27. [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias)
+28. [In group Bias](https://en.wikipedia.org/wiki/In-group_favoritism) and [In Group - Out Group](https://en.wikipedia.org/wiki/In-group_and_out-group)
 
 ## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
 
@@ -55,7 +57,7 @@
 19. [Gamblers Fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
 20. [Facts](https://plato.stanford.edu/entries/facts/)
 
-## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act), and [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
+## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act), [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism), and [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 
 1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 2. [Formal Proof](https://en.wikipedia.org/wiki/Formal_proof)
@@ -80,6 +82,9 @@
 21. [Belief Perserverance](https://en.wikipedia.org/wiki/Belief_perseverance)
 22. [Counterargument](https://en.wikipedia.org/wiki/Counterargument)
 23. [Sources of Knowledge](https://en.wikipedia.org/wiki/Category:Sources_of_knowledge)
+24. [Epistemic Closure](https://en.wikipedia.org/wiki/Epistemic_closure)
+25. [Semantics of Logic](https://en.wikipedia.org/wiki/Semantics_of_logic)
+26. [Truth Condition](https://en.wikipedia.org/wiki/Truth_condition)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 

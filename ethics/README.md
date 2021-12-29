@@ -1,5 +1,9 @@
 # [Ethics](https://en.wikipedia.org/wiki/Category:Ethics) and [Philosophers of Ethics](https://en.wikipedia.org/wiki/Category:Philosophers_of_ethics_and_morality)
 
+1. [Ethics Glossary](https://ethicsunwrapped.utexas.edu/glossary)
+
+## Concepts
+
 1. [History of Ethics](https://en.wikipedia.org/wiki/Category:History_of_ethics)
 2. [Ancient Greek Ethics](https://en.wikipedia.org/wiki/Category:Concepts_in_ancient_Greek_ethics)
 3. [Morality](https://en.wikipedia.org/wiki/Category:Morality)

@@ -26,9 +26,13 @@
 	- [Rationalism](https://en.wikipedia.org/wiki/Category:Rationalism)
 	- [Evidentialism](https://en.wikipedia.org/wiki/Evidentialism)
 	- [Coherentism](https://en.wikipedia.org/wiki/Coherentism) [Theories](https://plato.stanford.edu/entries/justep-coherence/)
+	- [Epistemic Closure](https://plato.stanford.edu/entries/closure-epistemic/)
+	- [Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 3. [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)
+4. [Philosophy of Language](https://en.wikipedia.org/wiki/Category:Philosophy_of_language)
+5. [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science)
 
 ## List of Concepts
 
@@ -100,6 +104,8 @@
 63. [Temporal Parts](https://plato.stanford.edu/entries/temporal-parts/)
 64. [Problem of the Many](https://plato.stanford.edu/entries/problem-of-many/)
 65. [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
+66. [Gettier Problem](https://en.wikipedia.org/wiki/Gettier_problem)
+67. [Meaning](https://en.wikipedia.org/wiki/Meaning_(philosophy))
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
