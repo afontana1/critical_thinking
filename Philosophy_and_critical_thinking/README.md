@@ -30,6 +30,7 @@
 	- [Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
+	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
 3. [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)
 4. [Philosophy of Language](https://en.wikipedia.org/wiki/Category:Philosophy_of_language)
 5. [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science)
