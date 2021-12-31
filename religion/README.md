@@ -99,6 +99,8 @@
 31. [Fine Tuned](https://en.wikipedia.org/wiki/Fine-tuned_universe) [Universe](https://plato.stanford.edu/entries/fine-tuning/)
 32. [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
 33. [Argument from Degree](https://en.wikipedia.org/wiki/Argument_from_degree)
+34. [Watchmaker Analogy](https://en.wikipedia.org/wiki/Watchmaker_analogy) and [Refutation](https://www.youtube.com/watch?v=PHmjHMbkOUM)
+35. [Anthropic Principle](https://simple.wikipedia.org/wiki/Anthropic_principle) and [Refutation](https://www.str.org/w/why-the-puddle-analogy-fails-against-fine-tuning)
 
 ## General Concepts
 
