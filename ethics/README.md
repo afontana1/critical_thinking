@@ -44,3 +44,4 @@
 38. [Social Contract](https://en.wikipedia.org/wiki/Social_contract)
 39. [Kantianism](https://en.wikipedia.org/wiki/Category:Kantianism)
 40. [Summum Bonum](https://en.wikipedia.org/wiki/Summum_bonum)
+41. [Kants Moral Philosophy](https://plato.stanford.edu/entries/kant-moral/)

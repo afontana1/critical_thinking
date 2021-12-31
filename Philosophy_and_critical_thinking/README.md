@@ -107,6 +107,7 @@
 65. [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
 66. [Gettier Problem](https://en.wikipedia.org/wiki/Gettier_problem)
 67. [Meaning](https://en.wikipedia.org/wiki/Meaning_(philosophy))
+68. [Aristotle Causality](https://plato.stanford.edu/entries/aristotle-causality/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
