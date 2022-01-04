@@ -119,6 +119,11 @@
 29. [Refutation](https://en.wikipedia.org/wiki/Objection_(argument))
 30. [Arguments](https://en.wikipedia.org/wiki/Category:Arguments)
 31. [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
+32. [De Morgans Laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
+33. [Duality Theories](https://en.wikipedia.org/wiki/Category:Duality_theories)
+34. [Rules of Inference](https://en.wikipedia.org/wiki/Category:Rules_of_inference)
+35. [Theorems in Propositional Logic](https://en.wikipedia.org/wiki/Category:Theorems_in_propositional_logic)
+36. [Formal Languages](https://en.wikipedia.org/wiki/Category:Formal_languages)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 
@@ -158,6 +163,7 @@
 34. [Observation](https://en.wikipedia.org/wiki/Category:Observation)
 35. [Metrology](https://en.wikipedia.org/wiki/Category:Metrology)
 36. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
+37. [History of Science](https://en.wikipedia.org/wiki/History_of_science)
 
 ## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty), [Probability](https://en.wikipedia.org/wiki/Category:Probability), and [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
 
@@ -199,3 +205,10 @@
 3. [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
 4. [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
 5. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
+
+## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
+
+1. [Historiography](https://en.wikipedia.org/wiki/Category:Historiography)
+2. [Philosophy of History](https://en.wikipedia.org/wiki/Category:Philosophy_of_history)
+3. [Methods](https://en.wikipedia.org/wiki/Category:Methods_in_archaeology) in [Archaeology](https://en.wikipedia.org/wiki/Archaeology)
+4. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)

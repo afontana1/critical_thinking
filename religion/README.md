@@ -1,16 +1,16 @@
 # [Philosophy of Religion](https://en.wikipedia.org/wiki/Category:Philosophy_of_religion) and [Belief](https://en.wikipedia.org/wiki/Category:Belief)
 
 1. [Catholic Encyclopedia](https://www.newadvent.org/cathen/)
+2. [Aristotelian Thomism](http://www.u.arizona.edu/~aversa/scholastic/)
+3. [List of Philosophers of Religion](https://en.wikipedia.org/wiki/Category:Philosophers_of_religion)
+	* [Theism and Expert Knowledge](http://crucialconsiderations.org/rationality/theism-and-expert-knowledge/)
 
 ## Videos
-
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
 2. [Religious History Documentaries](https://www.youtube.com/channel/UCtqAF8FSQIIq-vBLKtgLH_w)
+3. [Religion For Breakfast](https://www.youtube.com/c/ReligionForBreakfast)
 
 ### Abrahamic
-
-#### Playlists
-
 1. [Bible as Literature Pt. 1](https://www.youtube.com/watch?v=vL3oPpBEJ0w&list=PLKjwFyELc2SlZf-SMdial4wEVX-QZJxhu)
 2. [C.S. Lewis](https://www.youtube.com/watch?v=z8stFStEVsU&list=PLKjwFyELc2SkniyQuAP5NhJZ8gTqaKmJZ)
 3. [History of Literary Theory](https://www.youtube.com/watch?v=0QsnNzFq9cs&list=PLKjwFyELc2Sk4IF-h8IfisV1Jv0WJ9k_y)
@@ -18,14 +18,13 @@
 5. [New Testament History and Literature](https://www.youtube.com/watch?v=dtQ2TS1CiDY&list=PL279CFA55C51E75E0)
 
 ### Atheist
-
 1. [Atheist](https://www.reddit.com/r/askanatheist/comments/gc1thr/what_are_some_good_atheist_youtube_channels/) [Youtube Channels](https://blog.feedspot.com/atheist_youtube_channels/)
 2. [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)
 3. [CosmikSkeptic](https://www.youtube.com/user/alexjoconnor)
 4. [Genetically Modified Skeptic](https://www.youtube.com/channel/UCG1uayRlzz3ahT8ISRdyw7Q)
+5. [Gnostic Informant](https://www.youtube.com/c/GnosticInformant/featured)
 
 ### Historical Videos
-
 1. [Are The Lost Cities Of Sodom And Gomorrah Under The Dead Sea? | Sodom And Gomorrah](https://www.youtube.com/watch?v=UoIGbYv89bA)
 2. [Emperor Constantine: Is Western Christianity Based On A Lie?](https://www.youtube.com/watch?v=0E_bRADucBI)
 3. [Why Did Pontius Pilate Allow The Killing Of Christ?](https://www.youtube.com/watch?v=fppoqtIu2ug)
@@ -35,9 +34,9 @@
 7. [Is This Proof That Jesus Christ Never Existed?](https://www.youtube.com/watch?v=IMado9ukLt0)
 8. [The Real Exodus Story | Exodus Decoded](https://www.youtube.com/watch?v=XObk07uabLI)
 9. [The Dead Sea Scrolls // Ancient History Documentary](https://www.youtube.com/watch?v=kKjbc66qp3Y)
+10. [Mithraic Origins of Christianity](https://www.youtube.com/watch?v=1gIUlLyXYO0)
 
 ### Debates and Problems
-
 1. [Bart Ehrman debates Peter J Williams, are the Gospels Historically Reliable?](https://www.youtube.com/watch?v=foLI3KGbMnk)
 2. [Are the Gospels Historically Reliable? The Problem of Contradictions](https://www.youtube.com/watch?v=AymnA526j9U)
 3. [The Jesus of History versus the Christ of Faith](https://www.youtube.com/watch?v=7VOMFjQfJ8w&t=107s)
@@ -63,9 +62,15 @@
 23. [Andy Bannister vs Peter Singer • Do we need God to be good?](https://www.youtube.com/watch?v=JiM8ul3oRxE)
 24. [Daniel Dennett vs Keith Ward • Are we more than matter? Mind, consciousness and free will](https://www.youtube.com/watch?v=mongL_2KMGg)
 25. [An Atheist in the Realm of Myth | Stephen Fry | Jordan B Peterson Podcast - S4: E22](https://www.youtube.com/watch?v=fFFSKedy9f4)
+26. [William Lane Craig vs James White - Calvinism vs Molinism on the Problem of Evil](https://www.youtube.com/watch?v=ECcN-fisQRk)
+27. [Is The Bible True? White vs Price 5/6/2010](https://www.youtube.com/watch?v=DmA6c0yoVrQ)
+28. [How Badly Was the New Testament Corrupted? | Veritas at SDSU (2018)](https://www.youtube.com/watch?v=zZ5cgQUJnrI)
+29. [Bart Ehrman & Robert Price Debate - Did Jesus Exist](https://www.youtube.com/watch?v=GzjYmpwbHEA)
+30. [Debate | Robert Price vs William Lane Craig Did Jesus Rise From The Dead](https://www.youtube.com/watch?v=G5vdkVlm0ns)
+31. [Did Jesus Really Exist? | Dr Robert M. Price & Dr. Bart Erhman Debate| Things Erhman Never Addressed](https://www.youtube.com/watch?v=HyrMTaYivIo)
+32. [Legends, Fictions, and the Manuscripts that Illustrate Christ's Story](https://www.youtube.com/watch?v=99PN3NVNgyU)
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God)
-
 1. [Telological Argument](https://en.wikipedia.org/wiki/Teleological_argument)
 2. [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
 3. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
@@ -101,9 +106,10 @@
 33. [Argument from Degree](https://en.wikipedia.org/wiki/Argument_from_degree)
 34. [Watchmaker Analogy](https://en.wikipedia.org/wiki/Watchmaker_analogy) and [Refutation](https://www.youtube.com/watch?v=PHmjHMbkOUM)
 35. [Anthropic Principle](https://simple.wikipedia.org/wiki/Anthropic_principle) and [Refutation](https://www.str.org/w/why-the-puddle-analogy-fails-against-fine-tuning)
+36. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
+37. [Philosophical Zombie](https://en.wikipedia.org/wiki/Philosophical_zombie)
 
 ## General Concepts
-
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
 2. [Mind-Body Dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
 3. [Strauss](https://en.wikipedia.org/wiki/David_Strauss)
@@ -136,9 +142,10 @@
 30. [Process Theism](https://plato.stanford.edu/entries/process-theism/)
 31. [Skeptical](https://en.wikipedia.org/wiki/Skeptical_theism) [Theism](https://plato.stanford.edu/entries/skeptical-theism/)
 32. [Deism](https://en.wikipedia.org/wiki/Deism)
+33. [Process Theology](https://en.wikipedia.org/wiki/Process_theology)
+34. [THOMAS AQUINAS' CHRISTIAN ARISTOTELIANISM](http://www.quebecoislibre.org/06/060122-5.htm)
 
 ## Religious Concepts
-
 1. [Abrahamic Religions](https://en.wikipedia.org/wiki/Abrahamic_religions)
 2. [Criticism of Atheism](https://en.wikipedia.org/wiki/Criticism_of_atheism)
 3. [Atheism-Agnosticism](https://plato.stanford.edu/entries/atheism-agnosticism/)
@@ -170,10 +177,47 @@
 29. [Facts of Atheism](https://www.pewresearch.org/fact-tank/2019/12/06/10-facts-about-atheists/) and [Types of Non Believers](https://www.salon.com/2014/09/25/7_different_types_of_non_believers/)
 30. [Book of Joshua Interpretations](https://www.presby-newhall.org/theology/how-do-we-reconcile-god-commanding-genocide-in-the-book-of-joshua/)
 31. [Counter Reformation Witch Trials](https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period)
+32. [Mithraism_in_comparison_with_other_belief_systems](https://en.wikipedia.org/wiki/Mithraism_in_comparison_with_other_belief_systems)
+33. [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism)
+34. [Gnostic Society Library](http://www.gnosis.org/library.html)
+35. [Branches of Agnosticism](https://www.philosophybasics.com/branch_agnosticism.html)
 
+## [History of Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
+1. [Christian_denominational_families](https://en.wikipedia.org/wiki/Category:Christian_denominational_families)
+2. [Christian_philosophers_by_denomination](https://en.wikipedia.org/wiki/Category:Christian_philosophers_by_denomination)
+3. [Christian_scholars_by_denomination](https://en.wikipedia.org/wiki/Category:Christian_scholars_by_denomination)
+4. [Christian_theological_movements](https://en.wikipedia.org/wiki/Category:Christian_theological_movements)
+5. [List of Christian Denominations](https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members)
+6. [History_of_Christian_universalism](https://en.wikipedia.org/wiki/History_of_Christian_universalism)
+7. [East West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism)
+8. [Persecution_of_Christians](https://en.wikipedia.org/wiki/Persecution_of_Christians)
+9. [Christian_theology_by_tradition](https://en.wikipedia.org/wiki/Category:Christian_theology_by_tradition)
+10. [Mosaic Authorship](https://en.wikipedia.org/wiki/Mosaic_authorship)
+11. [Biblical Authorship](https://en.wikipedia.org/wiki/Category:Biblical_authorship_debates) and [Dating](https://en.wikipedia.org/wiki/Dating_the_Bible)
+12. [Biblical Archeology](https://en.wikipedia.org/wiki/Biblical_archaeology)
+13. [Early Christian Writings - apocrypha](http://www.earlychristianwritings.com/apocrypha.html)
+	* [Infancy Gospel](https://en.wikipedia.org/wiki/Infancy_Gospel_of_Thomas)
+	* [Gospel of Judas](https://en.wikipedia.org/wiki/Gospel_of_Judas)
+14. [New_Testament_apocrypha](https://en.wikipedia.org/wiki/Category:New_Testament_apocrypha)
+15. [The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
+16. [Apocrypha](https://en.wikipedia.org/wiki/Category:Apocrypha)
+17. [New_Testament_apocrypha](https://en.wikipedia.org/wiki/New_Testament_apocrypha)
+
+
+## [Contemporary Religious Studies](https://www.religiousstudiesproject.com) and [Biblical Criticism](https://en.wikipedia.org/wiki/Category:Biblical_criticism)
+1. [Bart D Ehrman](https://en.wikipedia.org/wiki/Bart_D._Ehrman)
+2. [Robert M Price](https://en.wikipedia.org/wiki/Robert_M._Price)
+3. [David Strauss](https://en.wikipedia.org/wiki/David_Strauss)
+4. [Historical Criticism](https://en.wikipedia.org/wiki/Historical_criticism)
+5. [Textual Criticism](https://en.wikipedia.org/wiki/Textual_criticism)
+6. [Pseudepigrapha](https://en.wikipedia.org/wiki/Pseudepigrapha)
+7. [Historical Jesus](https://en.wikipedia.org/wiki/Historical_Jesus)
+
+### [Conceptions of God](https://en.wikipedia.org/wiki/Conceptions_of_God)
+1. [Alternative Conceptions](https://www.closertotruth.com/series/alternative-concepts-god-part-1)
+2. [Philosophy of Spinoza](https://en.wikipedia.org/wiki/Philosophy_of_Spinoza)
 
 ## Apologists and Theologians
-
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
 2. [William Lane Craig](https://en.wikipedia.org/wiki/William_Lane_Craig)
 3. [Andrzej_Grzegorczyk](https://en.wikipedia.org/wiki/Andrzej_Grzegorczyk)
@@ -189,32 +233,13 @@
 13. [Richard Swinburne](https://en.wikipedia.org/wiki/Richard_Swinburne)
 
 ## [Atheist Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
-
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
 2. [English Atheists](https://en.wikipedia.org/wiki/Category:English_atheists)
 3. [Atheist Scientists](https://en.wikipedia.org/wiki/List_of_atheists_in_science_and_technology)
 4. [Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)
-
-
-## [History of Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
-
-1. [Christian_denominational_families](https://en.wikipedia.org/wiki/Category:Christian_denominational_families)
-2. [Christian_philosophers_by_denomination](https://en.wikipedia.org/wiki/Category:Christian_philosophers_by_denomination)
-3. [Christian_scholars_by_denomination](https://en.wikipedia.org/wiki/Category:Christian_scholars_by_denomination)
-4. [Christian_theological_movements](https://en.wikipedia.org/wiki/Category:Christian_theological_movements)
-5. [List of Christian Denominations](https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members)
-6. [History_of_Christian_universalism](https://en.wikipedia.org/wiki/History_of_Christian_universalism)
-7. [East West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism)
-8. [Persecution_of_Christians](https://en.wikipedia.org/wiki/Persecution_of_Christians)
-9. [Christian_theology_by_tradition](https://en.wikipedia.org/wiki/Category:Christian_theology_by_tradition)
-10. [Mosaic Authorship](https://en.wikipedia.org/wiki/Mosaic_authorship)
-11. [Biblical Authorship](https://en.wikipedia.org/wiki/Category:Biblical_authorship_debates) and [Dating](https://en.wikipedia.org/wiki/Dating_the_Bible)
-12. [Biblical Archeology](https://en.wikipedia.org/wiki/Biblical_archaeology)
-13. [Biblical Violence](https://en.wikipedia.org/wiki/The_Bible_and_violence)
-14. [Christian Scientists](https://en.wikipedia.org/wiki/Category:Lists_of_Christian_scientists)
+5. [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy)
 
 ## Books
-
 1. [Summa_Theologica](https://en.wikipedia.org/wiki/Summa_Theologica)
 2. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
 3. [Oxford Handbooks](https://www.oxfordhandbooks.com/browse?btog=book&pageSize=20&sort=titlesort&t0=ORR%3AAHU03020)

@@ -13,6 +13,8 @@
 2. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
 3. [Analytical Philosophy](https://en.wikipedia.org/wiki/Category:Analytic_philosophy)
 4. [Logical_positivism](https://en.wikipedia.org/wiki/Logical_positivism)
+5. [Pragmatism](https://en.wikipedia.org/wiki/Category:Pragmatism)
+6. [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricism)
 
 ## Categories
 
@@ -28,6 +30,7 @@
 	- [Coherentism](https://en.wikipedia.org/wiki/Coherentism) [Theories](https://plato.stanford.edu/entries/justep-coherence/)
 	- [Epistemic Closure](https://plato.stanford.edu/entries/closure-epistemic/)
 	- [Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/)
+	- [Verificationism](https://en.wikipedia.org/wiki/Verificationism)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
@@ -108,6 +111,18 @@
 66. [Gettier Problem](https://en.wikipedia.org/wiki/Gettier_problem)
 67. [Meaning](https://en.wikipedia.org/wiki/Meaning_(philosophy))
 68. [Aristotle Causality](https://plato.stanford.edu/entries/aristotle-causality/)
+69. [Possible Worlds](https://plato.stanford.edu/entries/possible-worlds/)
+70. [Ghost in the Machine](https://en.wikipedia.org/wiki/Ghost_in_the_machine)
+71. [Ontological Commitment](https://plato.stanford.edu/entries/ontological-commitment/)
+72. [Supervenience](https://plato.stanford.edu/entries/supervenience/)
+73. [Philosophical Zombies](https://plato.stanford.edu/entries/zombies/)
+74. [Quantifiers](https://en.wikipedia.org/wiki/Quantifier_(logic))
+75. [Mathematical Mapping](https://en.wikipedia.org/wiki/Map_(mathematics))
+76. [Logical Connective](https://en.wikipedia.org/wiki/Category:Logical_connectives)
+77. [Kripke Semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
+78. [Aristotle on Non Contradiction](https://plato.stanford.edu/entries/aristotle-noncontradiction/)
+79. [Symbol Grounding Problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem)
+80. [Descartes Rejection of Aristotelianism](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199570430.001.0001/acprof-9780199570430-chapter-6)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -144,7 +159,6 @@
 17. [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
 18. [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
 19. [Herodotus](https://en.wikipedia.org/wiki/Herodotus)
-
 
 #### Historical Information
 
@@ -209,6 +223,8 @@
 12. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
 13. [Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
 14. [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)
+15. [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
+16. [Gottfried_Wilhelm_Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
 
 ### 18th Century
 
@@ -222,7 +238,7 @@
 
 ### 19th Century
 
-1. [Peirce](https://plato.stanford.edu/entries/peirce/)
+1. [Peirce](https://en.wikipedia.org/wiki/Category:Charles_Sanders_Peirce)
 2. [William James](https://en.wikipedia.org/wiki/William_James)
 3. [Ludwig_Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 4. [feyerabend](https://plato.stanford.edu/entries/feyerabend/)
@@ -232,7 +248,15 @@
 8. [Vienna Circle](https://en.wikipedia.org/wiki/Vienna_Circle)
 9. [AJ Ayer](https://en.wikipedia.org/wiki/A._J._Ayer)
 10. [Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)
-11. [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
+11. [Quine](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+12. [Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap)
+13. [Putnam](https://en.wikipedia.org/wiki/Hilary_Putnam)
+14. [Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski)
+15. [Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
+16. [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn)
+17. [C.I. Lewis](https://en.wikipedia.org/wiki/C._I._Lewis)
+18. [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle)
+19. [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
 
 ### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 
