@@ -257,6 +257,8 @@
 17. [C.I. Lewis](https://en.wikipedia.org/wiki/C._I._Lewis)
 18. [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle)
 19. [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
+20. [F.P. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson)
+21. [Thomas Nagel](https://en.wikipedia.org/wiki/Thomas_Nagel)
 
 ### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 

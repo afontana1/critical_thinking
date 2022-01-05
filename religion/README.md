@@ -4,6 +4,7 @@
 2. [Aristotelian Thomism](http://www.u.arizona.edu/~aversa/scholastic/)
 3. [List of Philosophers of Religion](https://en.wikipedia.org/wiki/Category:Philosophers_of_religion)
 	* [Theism and Expert Knowledge](http://crucialconsiderations.org/rationality/theism-and-expert-knowledge/)
+	* [Believers vs. Non Believer Happiness](https://www.redalyc.org/journal/5605/560558987006/html/)
 
 ## Videos
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
@@ -23,6 +24,7 @@
 3. [CosmikSkeptic](https://www.youtube.com/user/alexjoconnor)
 4. [Genetically Modified Skeptic](https://www.youtube.com/channel/UCG1uayRlzz3ahT8ISRdyw7Q)
 5. [Gnostic Informant](https://www.youtube.com/c/GnosticInformant/featured)
+6. [Science for the Win](https://www.youtube.com/channel/UCCWlPeAbmkh0b8F9u8DBAIA)
 
 ### Historical Videos
 1. [Are The Lost Cities Of Sodom And Gomorrah Under The Dead Sea? | Sodom And Gomorrah](https://www.youtube.com/watch?v=UoIGbYv89bA)
@@ -69,6 +71,21 @@
 30. [Debate | Robert Price vs William Lane Craig Did Jesus Rise From The Dead](https://www.youtube.com/watch?v=G5vdkVlm0ns)
 31. [Did Jesus Really Exist? | Dr Robert M. Price & Dr. Bart Erhman Debate| Things Erhman Never Addressed](https://www.youtube.com/watch?v=HyrMTaYivIo)
 32. [Legends, Fictions, and the Manuscripts that Illustrate Christ's Story](https://www.youtube.com/watch?v=99PN3NVNgyU)
+33. [William Lane Craig vs Peter Millican: "Does God Exist?", Birmingham University, October 2011](https://www.youtube.com/watch?v=9JVRy7bR7zI)
+34. [The Real Jesus: Paul Maier presents new evidence from history and archeology at Iowa State](https://www.youtube.com/watch?v=XAN3kQHTKWI&t=475s)
+35. [In Search of Historical Jesus](https://www.youtube.com/watch?v=N0ws463jX4k)
+36. [The Resurrection Argument That Changed a Generation of Scholars - Gary Habermas at UCSB](https://www.youtube.com/watch?v=ay_Db4RwZ_M)
+37. [Richard Carrier - Testing Religion Claims with Science and History](https://www.youtube.com/watch?v=79UAYyMYk7I)
+38. [Robert Price - The Case Against The Case For Christ](https://www.youtube.com/watch?v=9KQaBxRt_bM)
+39. [Nietzsche's Critique of Christianity: The Genealogy of Morals](https://www.youtube.com/watch?v=7Kuk35VNSEc)
+40. [The Bible and Western Culture - Nietzsche and the Death of God](https://www.youtube.com/watch?v=Smq5uRhM_IA)
+41. [Kierkegaard's Christian Existentialism](https://www.youtube.com/watch?v=SMJc9UMzFSE)
+42. [Ehrman vs Craig: Evidence for Resurrection](https://www.youtube.com/watch?v=MW5_nJYSKyk&t=1245s)
+43. [How the Bible Explains Suffering with Bart Ehrman](https://www.youtube.com/watch?v=y7cmUCjnCgE)
+44. [Theodicy, God and Suffering - A debate between Dinesh D'Souza and Bart Ehrman](https://www.youtube.com/watch?v=Isg6Kx-3xdI)
+45. [Is God Necessary for Morality? | William Lane Craig & Shelly Kagan](https://www.youtube.com/watch?v=Rm2wShHJ2iA)
+46. [Why We Believe in Gods](https://www.youtube.com/watch?v=ksTIDQ3KcwA)
+47. [The Reality Debate: Atheism vs. Theism (Dave Silverman vs. Frank Turek)](https://www.youtube.com/watch?v=85J86NhK33M)
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God)
 1. [Telological Argument](https://en.wikipedia.org/wiki/Teleological_argument)
@@ -202,6 +219,10 @@
 15. [The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
 16. [Apocrypha](https://en.wikipedia.org/wiki/Category:Apocrypha)
 17. [New_Testament_apocrypha](https://en.wikipedia.org/wiki/New_Testament_apocrypha)
+18. [Ethipoian Bible](https://en.wikipedia.org/wiki/Orthodox_Tewahedo_biblical_canon), [Protestant Bible](https://en.wikipedia.org/wiki/Protestant_Bible), and [Catholic Bible](https://en.wikipedia.org/wiki/Catholic_Bible)
+19. [Development of Christian Biblical Canon](https://en.wikipedia.org/wiki/Category:Development_of_the_Christian_biblical_canon)
+20. [Oriental Orthodox Churches](https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches)
+21. [Ethipoian Orthodox](https://www.ethiopianorthodox.org/english/canonical/books.html)
 
 
 ## [Contemporary Religious Studies](https://www.religiousstudiesproject.com) and [Biblical Criticism](https://en.wikipedia.org/wiki/Category:Biblical_criticism)
@@ -212,6 +233,9 @@
 5. [Textual Criticism](https://en.wikipedia.org/wiki/Textual_criticism)
 6. [Pseudepigrapha](https://en.wikipedia.org/wiki/Pseudepigrapha)
 7. [Historical Jesus](https://en.wikipedia.org/wiki/Historical_Jesus)
+8. [Richard Carrier](https://en.wikipedia.org/wiki/Richard_Carrier)
+9. [Historicity of the Bible](https://en.wikipedia.org/wiki/Historicity_of_the_Bible)
+10. [Presupposition of Critical History](https://www.cambridge.org/core/books/presuppositions-of-critical-history/33A25DDB43868BAB3C48D74AFB23F964)
 
 ### [Conceptions of God](https://en.wikipedia.org/wiki/Conceptions_of_God)
 1. [Alternative Conceptions](https://www.closertotruth.com/series/alternative-concepts-god-part-1)
@@ -231,6 +255,8 @@
 11. [John Lennox](https://en.wikipedia.org/wiki/John_Lennox)
 12. [Basil Micthell](https://en.wikipedia.org/wiki/Basil_Mitchell_(academic))
 13. [Richard Swinburne](https://en.wikipedia.org/wiki/Richard_Swinburne)
+14. [Gary Habermas](https://www.garyhabermas.com/)
+15. [Christian Apologetics and Research Ministry](https://en.wikipedia.org/wiki/Christian_Apologetics_and_Research_Ministry)
 
 ## [Atheist Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
@@ -238,6 +264,12 @@
 3. [Atheist Scientists](https://en.wikipedia.org/wiki/List_of_atheists_in_science_and_technology)
 4. [Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)
 5. [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy)
+6. [Peter Millican](https://en.wikipedia.org/wiki/Peter_Millican)
+
+## [Cognitive Science of Religion](https://en.wikipedia.org/wiki/Cognitive_science_of_religion)
+
+1. [J Anderson Thomson](https://en.wikipedia.org/wiki/J._Anderson_Thomson)
+2. [Neuroscience of Religion](https://en.wikipedia.org/wiki/Neuroscience_of_religion)
 
 ## Books
 1. [Summa_Theologica](https://en.wikipedia.org/wiki/Summa_Theologica)

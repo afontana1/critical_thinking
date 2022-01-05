@@ -33,6 +33,7 @@
 26. [Regress Argument](https://en.wikipedia.org/wiki/Regress_argument)
 27. [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 28. [In group Bias](https://en.wikipedia.org/wiki/In-group_favoritism) and [In Group - Out Group](https://en.wikipedia.org/wiki/In-group_and_out-group)
+29. [Begging the Question](https://en.wikipedia.org/wiki/Begging_the_question)
 
 ## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
 
