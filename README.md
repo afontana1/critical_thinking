@@ -2,6 +2,7 @@
 
 1. [www.carneades.org](https://www.carneades.org/)
 2. [List of Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
+3. [Philosophy Blog](https://philosophicaldisquisitions.blogspot.com/)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 
@@ -34,8 +35,12 @@
 27. [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 28. [In group Bias](https://en.wikipedia.org/wiki/In-group_favoritism) and [In Group - Out Group](https://en.wikipedia.org/wiki/In-group_and_out-group)
 29. [Begging the Question](https://en.wikipedia.org/wiki/Begging_the_question)
+30. [Fallacy of Composition](https://en.wikipedia.org/wiki/Fallacy_of_composition)
+31. [Fallacy of Division](https://en.wikipedia.org/wiki/Fallacy_of_division)
+32. [Category Mistakes](https://plato.stanford.edu/entries/category-mistakes/)
+33. [Formal Fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
 
-## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), and [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
+## [Statistical](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics), and [Statistical Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
 
 1. [Simpsons Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 2. [Reference Class Problem](https://en.wikipedia.org/wiki/Reference_class_problem)
@@ -57,6 +62,7 @@
 18. [Endogeneity](https://en.wikipedia.org/wiki/Endogeneity_(econometrics))
 19. [Gamblers Fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
 20. [Facts](https://plato.stanford.edu/entries/facts/)
+21. [Ecological Fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy)
 
 ## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act), [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism), and [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 
@@ -87,6 +93,7 @@
 25. [Semantics of Logic](https://en.wikipedia.org/wiki/Semantics_of_logic)
 26. [Truth Condition](https://en.wikipedia.org/wiki/Truth_condition)
 27. [Propositions](https://plato.stanford.edu/entries/propositions/)
+28. [Axiomatic Truth](https://plato.stanford.edu/entries/truth-axiomatic/) and [Systems](https://en.wikipedia.org/wiki/Axiomatic_system)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 

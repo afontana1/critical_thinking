@@ -129,6 +129,11 @@
 79. [Symbol Grounding Problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem)
 80. [Descartes Rejection of Aristotelianism](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199570430.001.0001/acprof-9780199570430-chapter-6)
 81. [Action Theory](https://plato.stanford.edu/entries/action/)
+82. [Thought Experiment](https://en.wikipedia.org/wiki/Thought_experiment)
+83. [Hermeneutics](https://plato.stanford.edu/entries/hermeneutics/)
+84. [Free](https://en.wikipedia.org/wiki/Category:Free_will) [Will](https://plato.stanford.edu/entries/freewill/), [Indeterminism](https://en.wikipedia.org/wiki/Indeterminism), [Randomness](https://en.wikipedia.org/wiki/Category:Randomness), [Determinism](https://en.wikipedia.org/wiki/Category:Determinism), and [ncompatibilism Theories](https://plato.stanford.edu/entries/incompatibilism-theories/)
+85. [Hypothetical Impertive](https://en.wikipedia.org/wiki/Hypothetical_imperative)
+86. [Categorical Imperitive](https://en.wikipedia.org/wiki/Categorical_imperative)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
