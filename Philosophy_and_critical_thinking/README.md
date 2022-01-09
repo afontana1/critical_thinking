@@ -15,6 +15,7 @@
 4. [Logical_positivism](https://en.wikipedia.org/wiki/Logical_positivism)
 5. [Pragmatism](https://en.wikipedia.org/wiki/Category:Pragmatism)
 6. [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricism)
+7. [Theories of Meaning](https://plato.stanford.edu/entries/meaning/)
 
 ## Categories
 
@@ -31,12 +32,16 @@
 	- [Epistemic Closure](https://plato.stanford.edu/entries/closure-epistemic/)
 	- [Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/)
 	- [Verificationism](https://en.wikipedia.org/wiki/Verificationism)
+	- [Formal](https://plato.stanford.edu/entries/formal-epistemology/)
+	- [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
 3. [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)
 4. [Philosophy of Language](https://en.wikipedia.org/wiki/Category:Philosophy_of_language)
 5. [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science)
+6. [Pragmaticism](https://en.wikipedia.org/wiki/Pragmaticism)
+7. [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
 
 ## List of Concepts
 
@@ -123,6 +128,7 @@
 78. [Aristotle on Non Contradiction](https://plato.stanford.edu/entries/aristotle-noncontradiction/)
 79. [Symbol Grounding Problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem)
 80. [Descartes Rejection of Aristotelianism](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199570430.001.0001/acprof-9780199570430-chapter-6)
+81. [Action Theory](https://plato.stanford.edu/entries/action/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -259,6 +265,7 @@
 19. [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
 20. [F.P. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson)
 21. [Thomas Nagel](https://en.wikipedia.org/wiki/Thomas_Nagel)
+22. [Paul Grice](https://plato.stanford.edu/entries/grice/)
 
 ### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 
@@ -268,6 +275,7 @@
 3. [Leo Strauss](https://en.wikipedia.org/wiki/Leo_Strauss)
 4. [Stephen Toulmin](https://en.wikipedia.org/wiki/Stephen_Toulmin)
 5. [John Pollock](https://johnpollock.us/)
+6. [Rawls](https://en.wikipedia.org/wiki/John_Rawls)
 
 ## Books
 

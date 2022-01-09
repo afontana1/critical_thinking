@@ -86,10 +86,11 @@
 24. [Epistemic Closure](https://en.wikipedia.org/wiki/Epistemic_closure)
 25. [Semantics of Logic](https://en.wikipedia.org/wiki/Semantics_of_logic)
 26. [Truth Condition](https://en.wikipedia.org/wiki/Truth_condition)
+27. [Propositions](https://plato.stanford.edu/entries/propositions/)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 
-1. [Modal Logic](https://en.wikipedia.org/wiki/Category:Modal_logic)
+1. [Modal](https://plato.stanford.edu/entries/logic-modal/) [Logic](https://en.wikipedia.org/wiki/Category:Modal_logic)
 2. [Philosophical Logic](https://en.wikipedia.org/wiki/Category:Philosophical_logic)
 3. [Mathematical Logic](https://en.wikipedia.org/wiki/Category:Mathematical_logic)
 4. [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)

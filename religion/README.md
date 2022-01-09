@@ -5,11 +5,14 @@
 3. [List of Philosophers of Religion](https://en.wikipedia.org/wiki/Category:Philosophers_of_religion)
 	* [Theism and Expert Knowledge](http://crucialconsiderations.org/rationality/theism-and-expert-knowledge/)
 	* [Believers vs. Non Believer Happiness](https://www.redalyc.org/journal/5605/560558987006/html/)
+4. [Faith](https://plato.stanford.edu/entries/faith/)
 
 ## Videos
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
 2. [Religious History Documentaries](https://www.youtube.com/channel/UCtqAF8FSQIIq-vBLKtgLH_w)
 3. [Religion For Breakfast](https://www.youtube.com/c/ReligionForBreakfast)
+4. [Religious Studies](https://www.youtube.com/watch?v=XRvAwAAjYHU&list=PL5Ag9n-o0IZBcVkZgYhQLehVEHs7tOl5c)
+5. [Mysteries of the Bible Series](https://www.youtube.com/watch?v=4aIaKilnc8M&list=PLt8g78xI4CClyAgB6Nx8cpc4RWAM_sm2p)
 
 ### Abrahamic
 1. [Bible as Literature Pt. 1](https://www.youtube.com/watch?v=vL3oPpBEJ0w&list=PLKjwFyELc2SlZf-SMdial4wEVX-QZJxhu)
@@ -25,6 +28,7 @@
 4. [Genetically Modified Skeptic](https://www.youtube.com/channel/UCG1uayRlzz3ahT8ISRdyw7Q)
 5. [Gnostic Informant](https://www.youtube.com/c/GnosticInformant/featured)
 6. [Science for the Win](https://www.youtube.com/channel/UCCWlPeAbmkh0b8F9u8DBAIA)
+7. [Philosophy of Cosmology](https://www.youtube.com/user/PhilosophyCosmology)
 
 ### Historical Videos
 1. [Are The Lost Cities Of Sodom And Gomorrah Under The Dead Sea? | Sodom And Gomorrah](https://www.youtube.com/watch?v=UoIGbYv89bA)
@@ -86,6 +90,14 @@
 45. [Is God Necessary for Morality? | William Lane Craig & Shelly Kagan](https://www.youtube.com/watch?v=Rm2wShHJ2iA)
 46. [Why We Believe in Gods](https://www.youtube.com/watch?v=ksTIDQ3KcwA)
 47. [The Reality Debate: Atheism vs. Theism (Dave Silverman vs. Frank Turek)](https://www.youtube.com/watch?v=85J86NhK33M)
+48. [Christian Apologist Impersonates an Atheist, Atheists Respond](https://www.youtube.com/watch?v=HBL93fZXgQk)
+49. [Breaking Down Walls: A Christian and an Atheist in Conversation](https://www.youtube.com/watch?v=VJX28l54YxE&t=2810s)
+50. [Avoiding Big Mistakes in Defending the Bible: Interview with Dr. Peter Gurry](https://www.youtube.com/watch?v=EPXY2PF7eB0&t=1676s)
+51. [Why Do Christians Abandon the Faith? (And What Can We Do About It)](https://www.youtube.com/watch?v=dMkGl4CEW-Q&t=2190s)
+52. [How Archaeology Supports the Bible: A Conversation with Joel Kramer](https://www.youtube.com/watch?v=A_k4noV95kk&t=1666s)
+	* [Refutations](https://www.sciencemeetsreligion.org/theology/bible-archaeology.php) and [Problems](https://www.jstor.org/stable/pdf/3142558.pdf) of [Study](https://www.tandfonline.com/doi/abs/10.1179/peq.1976.108.1.3?journalCode=ypeq20)
+53. [How (Not) To Read the Bible: An Interview with Author Dan Kimball](https://www.youtube.com/watch?v=jkeM3KHrEOY&t=1054s)
+54. [God and Cosmology - Dr. William Lane Craig vs Dr. Sean Carroll (Greer Heard Forum 2014)](youtube.com/watch?v=-y-IbL-yLkk)
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God)
 1. [Telological Argument](https://en.wikipedia.org/wiki/Teleological_argument)
@@ -161,6 +173,7 @@
 32. [Deism](https://en.wikipedia.org/wiki/Deism)
 33. [Process Theology](https://en.wikipedia.org/wiki/Process_theology)
 34. [THOMAS AQUINAS' CHRISTIAN ARISTOTELIANISM](http://www.quebecoislibre.org/06/060122-5.htm)
+35. [MAterialism](https://en.wikipedia.org/wiki/Category:Materialism)
 
 ## Religious Concepts
 1. [Abrahamic Religions](https://en.wikipedia.org/wiki/Abrahamic_religions)
@@ -236,6 +249,10 @@
 8. [Richard Carrier](https://en.wikipedia.org/wiki/Richard_Carrier)
 9. [Historicity of the Bible](https://en.wikipedia.org/wiki/Historicity_of_the_Bible)
 10. [Presupposition of Critical History](https://www.cambridge.org/core/books/presuppositions-of-critical-history/33A25DDB43868BAB3C48D74AFB23F964)
+11. [Example of Historical Method Applied](https://www.youtube.com/watch?v=ptYz-Vu0dxY)
+12. [Another Application](https://www.youtube.com/watch?v=W9XryKMRATE)
+13. [Robert Eisenman](https://en.wikipedia.org/wiki/Robert_Eisenman)
+14. [Rod Blackhurst](https://theconversation.com/profiles/rod-blackhurst-161417)
 
 ### [Conceptions of God](https://en.wikipedia.org/wiki/Conceptions_of_God)
 1. [Alternative Conceptions](https://www.closertotruth.com/series/alternative-concepts-god-part-1)
@@ -270,6 +287,8 @@
 
 1. [J Anderson Thomson](https://en.wikipedia.org/wiki/J._Anderson_Thomson)
 2. [Neuroscience of Religion](https://en.wikipedia.org/wiki/Neuroscience_of_religion)
+3. [Neurotheology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968360/)
+4. [Cognitive Science](https://thepsychologist.bps.org.uk/volume-24/edition-4/cognitive-science-religion)
 
 ## Books
 1. [Summa_Theologica](https://en.wikipedia.org/wiki/Summa_Theologica)

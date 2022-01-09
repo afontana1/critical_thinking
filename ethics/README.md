@@ -1,6 +1,8 @@
 # [Ethics](https://en.wikipedia.org/wiki/Category:Ethics) and [Philosophers of Ethics](https://en.wikipedia.org/wiki/Category:Philosophers_of_ethics_and_morality)
 
 1. [Ethics Glossary](https://ethicsunwrapped.utexas.edu/glossary)
+2. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
+3. [Moral Psychology](https://en.wikipedia.org/wiki/Category:Moral_psychology)
 
 ## Concepts
 
@@ -45,3 +47,18 @@
 39. [Kantianism](https://en.wikipedia.org/wiki/Category:Kantianism)
 40. [Summum Bonum](https://en.wikipedia.org/wiki/Summum_bonum)
 41. [Kants Moral Philosophy](https://plato.stanford.edu/entries/kant-moral/)
+42. [Moral Sentimentalism](https://plato.stanford.edu/entries/moral-sentimentalism/)
+43. [Adam Smiths Moral Philosophy](https://plato.stanford.edu/entries/smith-moral-political/)
+44. [Theory of Moral Sentiments](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
+
+## People
+
+1. [Rawls](https://en.wikipedia.org/wiki/John_Rawls)
+2. [Julia Annas](https://en.wikipedia.org/wiki/Julia_Annas)
+3. [Samuel_Scheffler](https://en.wikipedia.org/wiki/Samuel_Scheffler)
+4. [Susan Wolf](https://en.wikipedia.org/wiki/Susan_R._Wolf)
+5. [Peter Singer](https://en.wikipedia.org/wiki/Peter_Singer)
+6. [Thomas Nagel](https://en.wikipedia.org/wiki/Thomas_Nagel)
+7. [Rebecca Goldstein](https://en.wikipedia.org/wiki/Rebecca_Goldstein)
+8. [Frances Kamm](https://en.wikipedia.org/wiki/Frances_Kamm)
+9. [Shelly Kagan](https://en.wikipedia.org/wiki/Shelly_Kagan)
