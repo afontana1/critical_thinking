@@ -50,6 +50,9 @@
 42. [Moral Sentimentalism](https://plato.stanford.edu/entries/moral-sentimentalism/)
 43. [Adam Smiths Moral Philosophy](https://plato.stanford.edu/entries/smith-moral-political/)
 44. [Theory of Moral Sentiments](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
+45. [Ethical Dilemnas](https://en.wikipedia.org/wiki/Ethical_dilemma)
+46. [Principlism](https://en.wikipedia.org/wiki/Principlism)
+47. [Casuistry](https://en.wikipedia.org/wiki/Casuistry)
 
 ## People
 

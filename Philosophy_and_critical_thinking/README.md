@@ -134,6 +134,7 @@
 84. [Free](https://en.wikipedia.org/wiki/Category:Free_will) [Will](https://plato.stanford.edu/entries/freewill/), [Indeterminism](https://en.wikipedia.org/wiki/Indeterminism), [Randomness](https://en.wikipedia.org/wiki/Category:Randomness), [Determinism](https://en.wikipedia.org/wiki/Category:Determinism), and [ncompatibilism Theories](https://plato.stanford.edu/entries/incompatibilism-theories/)
 85. [Hypothetical Impertive](https://en.wikipedia.org/wiki/Hypothetical_imperative)
 86. [Categorical Imperitive](https://en.wikipedia.org/wiki/Categorical_imperative)
+87. [Sophisttry](https://en.wikipedia.org/wiki/Sophist)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
