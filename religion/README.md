@@ -193,6 +193,7 @@
 	* [Origin of the Genetic Code: What we do and do not know](https://www.youtube.com/watch?v=8T3bN2k28_E)
 	* [Signalling Systems](https://www.youtube.com/watch?v=bIO0lGYt5PY&list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o)
 	* [The Linguistics of DNA: Words, Sentences, Grammar, Phonetics, and Semantics](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1999.tb08916.x?fbclid=IwAR26nkd27TKhcb8XEoMIwDVofim5rKJ_QbAA9_rvFRip_nNrvDPf21ikIKU)
+46. [Why the “Existence” of Logic Can’t Prove God](http://brianhuffling.com/2018/05/01/from-whence-does-logic-come-and-why-you-cant-use-it-to-prove-god/)
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)

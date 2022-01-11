@@ -16,6 +16,7 @@
 5. [Pragmatism](https://en.wikipedia.org/wiki/Category:Pragmatism)
 6. [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricism)
 7. [Theories of Meaning](https://plato.stanford.edu/entries/meaning/)
+8. [Nihilism](https://en.wikipedia.org/wiki/Category:Nihilism)
 
 ## Categories
 
