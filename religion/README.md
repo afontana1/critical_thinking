@@ -4,7 +4,6 @@
 2. [Aristotelian Thomism](http://www.u.arizona.edu/~aversa/scholastic/)
 3. [List of Philosophers of Religion](https://en.wikipedia.org/wiki/Category:Philosophers_of_religion)
 	* [Theism and Expert Knowledge](http://crucialconsiderations.org/rationality/theism-and-expert-knowledge/)
-	* [Believers vs. Non Believer Happiness](https://www.redalyc.org/journal/5605/560558987006/html/)
 4. [Faith](https://plato.stanford.edu/entries/faith/)
 
 ## Videos
@@ -20,6 +19,7 @@
 3. [History of Literary Theory](https://www.youtube.com/watch?v=0QsnNzFq9cs&list=PLKjwFyELc2Sk4IF-h8IfisV1Jv0WJ9k_y)
 4. [Bible as Literature Pt. 2](https://www.youtube.com/watch?v=UuLivBJOnvc&list=PLKjwFyELc2SmSvtOU3RDI2v4b0jowCCoy)
 5. [New Testament History and Literature](https://www.youtube.com/watch?v=dtQ2TS1CiDY&list=PL279CFA55C51E75E0)
+6. [Majesty of Reason](https://www.youtube.com/c/MajestyofReason/featured)
 
 ### Atheist
 1. [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)
@@ -111,6 +111,10 @@
 64. [Responding to Inspiring Philosophy about Digital Physics and God](https://www.youtube.com/watch?v=aGQ1iWuZHp0)
 65. [God Explains Nothing about Consciousness](https://www.youtube.com/watch?v=olAIhtANsb4)
 66. [How Capturing Christianity Misrepresents the History of Science](https://www.youtube.com/watch?v=MnM5Jk1BdnY)
+67. [Graham Oppy on his Defense of Naturalism](https://www.youtube.com/watch?v=XxXxDJoQ7_8)
+68. [Graham Oppy: Does God Exist?](https://www.youtube.com/watch?v=Q-9bu2HmyKk)
+69. [Free will as moral competence. Professor Daniel Dennett at the University of Melbourne, Australia](https://www.youtube.com/watch?v=zwbnGqOrAEM)
+70. [Dr. Graham Oppy on the Nature of Arguments (With Existential Inertia as Bonus)](https://www.youtube.com/watch?v=ybUW693C8UY)
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God)
 1. [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
@@ -143,7 +147,10 @@
 25. [Sensus_divinitatis](https://en.wikipedia.org/wiki/Sensus_divinitatis)
 26. [Transcendental Argument for God](https://en.wikipedia.org/wiki/Transcendental_argument_for_the_existence_of_God)
 27. [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy)) and [Evolutionary Argument Against](https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism)
-28. [Problem of Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
+28. [Problem](https://plato.stanford.edu/entries/evil/) of [Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
+	* [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
+	* [Rowe’s Arguments from Evil](https://philpapers.org/archive/OPPREA.pdf)
+	* [Logical Arguments from Evil and Free Will Defences](https://philpapers.org/archive/OPPLPO.pdf)
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Critiques](https://philosophicaldisquisitions.blogspot.com/2014/11/critiquing-kalam-cosmological-argument.html)
 	* [Paul Draper Critique](https://hettingern.people.cofc.edu/Philosophy_of_Religion/Draper_Critique_of_Kalam_Argument.htm)
@@ -178,6 +185,14 @@
 43. [Divine Command](https://en.wikipedia.org/wiki/Divine_command_theory) & [Resources](https://www.qcc.cuny.edu/socialsciences/ppecorino/ethics_text/chapter_7_deontological_theories_natural_law/divine_command_theory.htm)
 	* [Epistemological Objection](https://philosophicaldisquisitions.blogspot.com/2014/11/the-epistemological-objection-to-divine.html)
 	* [Critique of Grabers Divine Command Theory](https://www.jstor.org/stable/40017722)
+44. [Unactualized Actualizer](https://lastedenblog.wordpress.com/2017/12/18/two-aristotelian-arguments-for-an-unactualized-actualizer/) and [Critique](https://www.richardcarrier.info/archives/13752)
+	* [Discussion](https://www.reddit.com/r/DebateAnAtheist/comments/avkc7b/can_anyone_point_out_the_flaws_in_fesers/)
+	* [Flawed Logic of Feser](http://theskepticalzone.com/wp/flawed-logic-and-bad-mereology-why-fesers-first-two-proofs-fail/)
+	* [Defense](http://edwardfeser.blogspot.com/2021/07/schmid-on-aristotelian-proof.html)
+45. [Arguments from DNA](https://www.biola.edu/blogs/biola-magazine/2010/can-dna-prove-the-existence-of-an-intelligent-desi) and [Critiques](https://www.youtube.com/watch?v=eJCmerK0DjQ)
+	* [Origin of the Genetic Code: What we do and do not know](https://www.youtube.com/watch?v=8T3bN2k28_E)
+	* [Signalling Systems](https://www.youtube.com/watch?v=bIO0lGYt5PY&list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o)
+	* [The Linguistics of DNA: Words, Sentences, Grammar, Phonetics, and Semantics](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1999.tb08916.x?fbclid=IwAR26nkd27TKhcb8XEoMIwDVofim5rKJ_QbAA9_rvFRip_nNrvDPf21ikIKU)
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
@@ -216,6 +231,7 @@
 34. [THOMAS AQUINAS' CHRISTIAN ARISTOTELIANISM](http://www.quebecoislibre.org/06/060122-5.htm)
 35. [Materialism](https://en.wikipedia.org/wiki/Category:Materialism)
 36. [Kants Philosophy of Religion](https://plato.stanford.edu/entries/kant-religion/)
+37. [Mechanism Vs Aristotelianism](https://www.britannica.com/topic/Cartesianism/Mechanism-versus-Aristotelianism)
 
 ## Religious Concepts
 1. [Abrahamic Religions](https://en.wikipedia.org/wiki/Abrahamic_religions)
@@ -328,6 +344,8 @@
 6. [Peter Millican](https://en.wikipedia.org/wiki/Peter_Millican)
 7. [Thales_of_Miletus](https://en.wikipedia.org/wiki/Thales_of_Miletus)
 8. [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot)
+9. [Pre Socratics](https://en.wikipedia.org/wiki/Pre-Socratic_philosophy)
+10. [Michael_Lou_Martin](https://en.wikipedia.org/wiki/Michael_Lou_Martin)
 
 ## [Cognitive Science of Religion](https://en.wikipedia.org/wiki/Cognitive_science_of_religion)
 

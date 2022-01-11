@@ -171,6 +171,7 @@
 17. [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
 18. [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
 19. [Herodotus](https://en.wikipedia.org/wiki/Herodotus)
+20. [Pre Socratic Philosophy](https://en.wikipedia.org/wiki/Pre-Socratic_philosophy)
 
 #### Historical Information
 
@@ -282,6 +283,8 @@
 4. [Stephen Toulmin](https://en.wikipedia.org/wiki/Stephen_Toulmin)
 5. [John Pollock](https://johnpollock.us/)
 6. [Rawls](https://en.wikipedia.org/wiki/John_Rawls)
+7. [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
+8. [Gilbert_Harman](https://en.wikipedia.org/wiki/Gilbert_Harman)
 
 ## Books
 

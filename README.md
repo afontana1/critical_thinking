@@ -3,6 +3,7 @@
 1. [www.carneades.org](https://www.carneades.org/)
 2. [List of Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
 3. [Philosophy Blog](https://philosophicaldisquisitions.blogspot.com/)
+4. [Free Thought](https://en.wikipedia.org/wiki/Category:Freethought)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 

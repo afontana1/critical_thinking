@@ -1,8 +1,9 @@
 # [Ethics](https://en.wikipedia.org/wiki/Category:Ethics) and [Philosophers of Ethics](https://en.wikipedia.org/wiki/Category:Philosophers_of_ethics_and_morality)
 
-1. [Ethics Glossary](https://ethicsunwrapped.utexas.edu/glossary)
-2. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
-3. [Moral Psychology](https://en.wikipedia.org/wiki/Category:Moral_psychology)
+1. [Outline of Ethics](https://en.wikipedia.org/wiki/Outline_of_ethics)
+2. [Ethics Glossary](https://ethicsunwrapped.utexas.edu/glossary)
+3. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
+4. [Moral Psychology](https://en.wikipedia.org/wiki/Category:Moral_psychology)
 
 ## Concepts
 
@@ -53,6 +54,11 @@
 45. [Ethical Dilemnas](https://en.wikipedia.org/wiki/Ethical_dilemma)
 46. [Principlism](https://en.wikipedia.org/wiki/Principlism)
 47. [Casuistry](https://en.wikipedia.org/wiki/Casuistry)
+48. [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
+49. Secular [Morality](https://en.wikipedia.org/wiki/Secular_morality) and [Ethics](https://en.wikipedia.org/wiki/Secular_ethics)
+50. [Religion and Morality](https://plato.stanford.edu/entries/religion-morality/)
+51. [Nietzsche’s Moral and Political Philosophy](https://plato.stanford.edu/entries/nietzsche-moral-political/)
+52. [Moral Skepticism](https://en.wikipedia.org/wiki/Moral_skepticism)
 
 ## People
 
@@ -65,3 +71,8 @@
 7. [Rebecca Goldstein](https://en.wikipedia.org/wiki/Rebecca_Goldstein)
 8. [Frances Kamm](https://en.wikipedia.org/wiki/Frances_Kamm)
 9. [Shelly Kagan](https://en.wikipedia.org/wiki/Shelly_Kagan)
+10. [Spinoza](https://plato.stanford.edu/entries/spinoza/)
+11. [Charles Taylor](https://en.wikipedia.org/wiki/Charles_Taylor_(philosopher))
+12. [Paul Kurtz](https://en.wikipedia.org/wiki/Paul_Kurtz)
+13. [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
+14. [Bentham](https://plato.stanford.edu/entries/bentham/)
