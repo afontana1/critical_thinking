@@ -9,7 +9,6 @@
 ## [Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions), [Traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions), [Movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements), and [Theories](https://en.wikipedia.org/wiki/Category:Philosophical_theories)
 
 1. [Information Philosophy](https://www.informationphilosopher.com/solutions/scientists/klemm/)
-	- [Information](https://plato.stanford.edu/entries/information/)
 2. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
 3. [Analytical Philosophy](https://en.wikipedia.org/wiki/Category:Analytic_philosophy)
 4. [Logical_positivism](https://en.wikipedia.org/wiki/Logical_positivism)
@@ -136,6 +135,11 @@
 85. [Hypothetical Impertive](https://en.wikipedia.org/wiki/Hypothetical_imperative)
 86. [Categorical Imperitive](https://en.wikipedia.org/wiki/Categorical_imperative)
 87. [Sophisttry](https://en.wikipedia.org/wiki/Sophist)
+88. [Critique_of_the_Kantian_Philosophy](https://en.wikipedia.org/wiki/Critique_of_the_Kantian_Philosophy)
+89. [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)
+90. [Instrumental_and_value_rationality](https://en.wikipedia.org/wiki/Instrumental_and_value_rationality)
+91. [Information](https://plato.stanford.edu/entries/information/)
+92. [Philosophy of Information](https://en.wikipedia.org/wiki/Philosophy_of_information)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 

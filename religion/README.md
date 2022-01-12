@@ -5,6 +5,7 @@
 3. [List of Philosophers of Religion](https://en.wikipedia.org/wiki/Category:Philosophers_of_religion)
 	* [Theism and Expert Knowledge](http://crucialconsiderations.org/rationality/theism-and-expert-knowledge/)
 4. [Faith](https://plato.stanford.edu/entries/faith/)
+5. [Closer to Truth](https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ)
 
 ## Videos
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
@@ -12,6 +13,7 @@
 3. [Religion For Breakfast](https://www.youtube.com/c/ReligionForBreakfast)
 4. [Religious Studies](https://www.youtube.com/watch?v=XRvAwAAjYHU&list=PL5Ag9n-o0IZBcVkZgYhQLehVEHs7tOl5c)
 5. [Mysteries of the Bible Series](https://www.youtube.com/watch?v=4aIaKilnc8M&list=PLt8g78xI4CClyAgB6Nx8cpc4RWAM_sm2p)
+6. [Michael Sugrue: The Bible and Western Culture](https://www.youtube.com/watch?v=fZVcI94EKQg&list=PLYYQ4XdZeLuAm7D-neqaxHEhWrnOCXdg)
 
 ### Abrahamic
 1. [Bible as Literature Pt. 1](https://www.youtube.com/watch?v=vL3oPpBEJ0w&list=PLKjwFyELc2SlZf-SMdial4wEVX-QZJxhu)
@@ -115,6 +117,16 @@
 68. [Graham Oppy: Does God Exist?](https://www.youtube.com/watch?v=Q-9bu2HmyKk)
 69. [Free will as moral competence. Professor Daniel Dennett at the University of Melbourne, Australia](https://www.youtube.com/watch?v=zwbnGqOrAEM)
 70. [Dr. Graham Oppy on the Nature of Arguments (With Existential Inertia as Bonus)](https://www.youtube.com/watch?v=ybUW693C8UY)
+71. [The Bible and Western Culture - John: The Unbroken Net of Scripture](https://www.youtube.com/watch?v=s43Dj2eYo_U)
+72. [The Bible and Western Culture - Hume, Swift, and the Collapse of Deism](https://www.youtube.com/watch?v=dqt1qkM4xQk)
+73. [The Bible and Western Culture - Job and the Problem of Evil](https://www.youtube.com/watch?v=teQhNXBMxvE&t=549s)
+74. [The Bible and Western Culture - Meister Eckhart: From Whom God Hid Nothing](https://www.youtube.com/watch?v=q1Rp1OiFCK0)
+75. [Is Belief in God Reasonable? Arif Ahmed vs William Lane Craig Debate](https://www.youtube.com/watch?v=W-NF-LlVFHM)
+76. [From Necessary Being to God? | Dr. Graham Oppy & Dr. Rob Koons](https://www.youtube.com/watch?v=bHw61T-zaeQ)
+77. [Does Math Point to God? William Lane Craig + Graham Oppy](https://www.youtube.com/watch?v=8WE1y00bwCU)
+78. [The Problem of Hell: Raymond Bradley vs. William Lane Craig (Debate)](https://www.youtube.com/watch?v=oJdlO6esWr8&t=1412s)
+79. [William Lane Craig vs Stephen Law | "Does God Exist?"| Westminster Central Hall, London](https://www.youtube.com/watch?v=APfd7B3CEhI)
+80. [Cambridge Union Society God Debate (Oct. 2011) - WL Craig, PS Williams vs. A Copson, A Ahmed](https://www.youtube.com/watch?v=DXB0o53FdVM)
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God)
 1. [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
@@ -151,6 +163,8 @@
 	* [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
 	* [Rowe’s Arguments from Evil](https://philpapers.org/archive/OPPREA.pdf)
 	* [Logical Arguments from Evil and Free Will Defences](https://philpapers.org/archive/OPPLPO.pdf)
+	* [Epicurean_paradox](https://en.wikipedia.org/wiki/Epicurus#Epicurean_paradox)
+	* [Evil God Challenge](https://en.wikipedia.org/wiki/Evil_God_challenge)
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Critiques](https://philosophicaldisquisitions.blogspot.com/2014/11/critiquing-kalam-cosmological-argument.html)
 	* [Paul Draper Critique](https://hettingern.people.cofc.edu/Philosophy_of_Religion/Draper_Critique_of_Kalam_Argument.htm)
