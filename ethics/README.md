@@ -76,3 +76,4 @@
 12. [Paul Kurtz](https://en.wikipedia.org/wiki/Paul_Kurtz)
 13. [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
 14. [Bentham](https://plato.stanford.edu/entries/bentham/)
+15. [G. E. Moore](https://plato.stanford.edu/entries/moore/)

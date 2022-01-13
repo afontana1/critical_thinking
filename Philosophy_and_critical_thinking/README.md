@@ -16,6 +16,7 @@
 6. [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricism)
 7. [Theories of Meaning](https://plato.stanford.edu/entries/meaning/)
 8. [Nihilism](https://en.wikipedia.org/wiki/Category:Nihilism)
+9. [Computational Philosophy](https://plato.stanford.edu/entries/computational-philosophy/)
 
 ## Categories
 
@@ -34,6 +35,8 @@
 	- [Verificationism](https://en.wikipedia.org/wiki/Verificationism)
 	- [Formal](https://plato.stanford.edu/entries/formal-epistemology/)
 	- [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
+	- [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
+	- [Constructive Empiricism](https://plato.stanford.edu/entries/constructive-empiricism/)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
@@ -140,6 +143,8 @@
 90. [Instrumental_and_value_rationality](https://en.wikipedia.org/wiki/Instrumental_and_value_rationality)
 91. [Information](https://plato.stanford.edu/entries/information/)
 92. [Philosophy of Information](https://en.wikipedia.org/wiki/Philosophy_of_information)
+93. [Unobservable](https://en.wikipedia.org/wiki/Unobservable)
+94. [Anti Realism](https://en.wikipedia.org/wiki/Anti-realism)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -290,6 +295,18 @@
 6. [Rawls](https://en.wikipedia.org/wiki/John_Rawls)
 7. [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
 8. [Gilbert_Harman](https://en.wikipedia.org/wiki/Gilbert_Harman)
+9. [Paul Thagard](https://en.wikipedia.org/wiki/Paul_Thagard)
+10. [Wilfred Sellers](https://plato.stanford.edu/entries/sellars/)
+11. [Hilary Putnam](https://en.wikipedia.org/wiki/Hilary_Putnam)
+12. [Brian Skyrms](https://en.wikipedia.org/wiki/Brian_Skyrms)
+13. [Arthur Fine](https://en.wikipedia.org/wiki/Arthur_Fine)
+14. [Ian Hacking](https://en.wikipedia.org/wiki/Ian_Hacking)
+15. [Kripke](https://en.wikipedia.org/wiki/Saul_Kripke)
+16. [J. L. Austin](https://plato.stanford.edu/entries/austin-jl/)
+17. [Donald Davidson](https://plato.stanford.edu/entries/davidson/)
+18. [Bas C. van Fraassen](http://www.princeton.edu/~fraassen/)
+19. [Nancy_Cartwright](https://en.wikipedia.org/wiki/Nancy_Cartwright_(philosopher))
+20. [](https://plato.stanford.edu/entries/reichenbach/)
 
 ## Books
 

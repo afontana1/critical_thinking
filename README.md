@@ -135,6 +135,7 @@
 34. [Rules of Inference](https://en.wikipedia.org/wiki/Category:Rules_of_inference)
 35. [Theorems in Propositional Logic](https://en.wikipedia.org/wiki/Category:Theorems_in_propositional_logic)
 36. [Formal Languages](https://en.wikipedia.org/wiki/Category:Formal_languages)
+37. [Causal Inference](https://en.wikipedia.org/wiki/Category:Causal_inference)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 

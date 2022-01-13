@@ -14,6 +14,7 @@
 4. [Religious Studies](https://www.youtube.com/watch?v=XRvAwAAjYHU&list=PL5Ag9n-o0IZBcVkZgYhQLehVEHs7tOl5c)
 5. [Mysteries of the Bible Series](https://www.youtube.com/watch?v=4aIaKilnc8M&list=PLt8g78xI4CClyAgB6Nx8cpc4RWAM_sm2p)
 6. [Michael Sugrue: The Bible and Western Culture](https://www.youtube.com/watch?v=fZVcI94EKQg&list=PLYYQ4XdZeLuAm7D-neqaxHEhWrnOCXdg)
+7. [Case for Atheism](https://www.youtube.com/playlist?list=PLFJr3pJl27pJCNqQicnlwQvQtuKpYkLMj)
 
 ### Abrahamic
 1. [Bible as Literature Pt. 1](https://www.youtube.com/watch?v=vL3oPpBEJ0w&list=PLKjwFyELc2SlZf-SMdial4wEVX-QZJxhu)
@@ -21,9 +22,9 @@
 3. [History of Literary Theory](https://www.youtube.com/watch?v=0QsnNzFq9cs&list=PLKjwFyELc2Sk4IF-h8IfisV1Jv0WJ9k_y)
 4. [Bible as Literature Pt. 2](https://www.youtube.com/watch?v=UuLivBJOnvc&list=PLKjwFyELc2SmSvtOU3RDI2v4b0jowCCoy)
 5. [New Testament History and Literature](https://www.youtube.com/watch?v=dtQ2TS1CiDY&list=PL279CFA55C51E75E0)
-6. [Majesty of Reason](https://www.youtube.com/c/MajestyofReason/featured)
+6. [Why People Make Fun of Creationists](https://www.youtube.com/playlist?list=PLAC3481305829426D)
 
-### Atheist
+### Atheist / Agnostic
 1. [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)
 2. [CosmikSkeptic](https://www.youtube.com/user/alexjoconnor)
 3. [Genetically Modified Skeptic](https://www.youtube.com/channel/UCG1uayRlzz3ahT8ISRdyw7Q)
@@ -31,6 +32,7 @@
 5. [Science for the Win](https://www.youtube.com/channel/UCCWlPeAbmkh0b8F9u8DBAIA)
 6. [Philosophy of Cosmology](https://www.youtube.com/user/PhilosophyCosmology)
 7. [James Fodor](https://www.youtube.com/c/JamesFodor/featured)
+8. [Majesty of Reason](https://www.youtube.com/c/MajestyofReason/featured)
 
 ### Historical Videos
 1. [Are The Lost Cities Of Sodom And Gomorrah Under The Dead Sea? | Sodom And Gomorrah](https://www.youtube.com/watch?v=UoIGbYv89bA)
@@ -208,6 +210,9 @@
 	* [Signalling Systems](https://www.youtube.com/watch?v=bIO0lGYt5PY&list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o)
 	* [The Linguistics of DNA: Words, Sentences, Grammar, Phonetics, and Semantics](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1999.tb08916.x?fbclid=IwAR26nkd27TKhcb8XEoMIwDVofim5rKJ_QbAA9_rvFRip_nNrvDPf21ikIKU)
 46. [Why the “Existence” of Logic Can’t Prove God](http://brianhuffling.com/2018/05/01/from-whence-does-logic-come-and-why-you-cant-use-it-to-prove-god/)
+47. [Argument from Miracles](https://plato.stanford.edu/entries/miracles/)
+	* [Humes](https://en.wikipedia.org/wiki/Of_Miracles) [Refutation](https://www3.nd.edu/~afreddos/courses/43811/hume-on-miracles.htm)
+	* [Wittgensteins Perspective](https://iep.utm.edu/miracles/#H11)
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
