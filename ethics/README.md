@@ -59,6 +59,8 @@
 50. [Religion and Morality](https://plato.stanford.edu/entries/religion-morality/)
 51. [Nietzsche’s Moral and Political Philosophy](https://plato.stanford.edu/entries/nietzsche-moral-political/)
 52. [Moral Skepticism](https://en.wikipedia.org/wiki/Moral_skepticism)
+53. [Anscombe Moral Philosophy](https://iep.utm.edu/anscombe/#H6)
+54. [Wittgenstein Ethics](https://iep.utm.edu/wittgens/#H3) and [Forms of Life](https://journals.sagepub.com/doi/abs/10.1177/0191453718810918?journalCode=pscb)
 
 ## People
 
@@ -77,3 +79,4 @@
 13. [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
 14. [Bentham](https://plato.stanford.edu/entries/bentham/)
 15. [G. E. Moore](https://plato.stanford.edu/entries/moore/)
+16. [Anthony Quinton](https://en.wikipedia.org/wiki/Anthony_Quinton)

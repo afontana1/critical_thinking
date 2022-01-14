@@ -145,6 +145,7 @@
 92. [Philosophy of Information](https://en.wikipedia.org/wiki/Philosophy_of_information)
 93. [Unobservable](https://en.wikipedia.org/wiki/Unobservable)
 94. [Anti Realism](https://en.wikipedia.org/wiki/Anti-realism)
+95. [Qualia: The Knowledge Argument](https://plato.stanford.edu/entries/qualia-knowledge/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -248,6 +249,7 @@
 14. [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)
 15. [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
 16. [Gottfried_Wilhelm_Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
+17. [Pierre Bayle](https://plato.stanford.edu/entries/bayle/)
 
 ### 18th Century
 
@@ -306,7 +308,12 @@
 17. [Donald Davidson](https://plato.stanford.edu/entries/davidson/)
 18. [Bas C. van Fraassen](http://www.princeton.edu/~fraassen/)
 19. [Nancy_Cartwright](https://en.wikipedia.org/wiki/Nancy_Cartwright_(philosopher))
-20. [](https://plato.stanford.edu/entries/reichenbach/)
+20. [reichenbach](https://plato.stanford.edu/entries/reichenbach/)
+21. [P. F. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson)
+22. [John Searle](https://en.wikipedia.org/wiki/John_Searle)
+23. [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom)
+24. [Anthony Kenny](https://en.wikipedia.org/wiki/Anthony_Kenny)
+25. [G.E.M Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
 
 ## Books
 

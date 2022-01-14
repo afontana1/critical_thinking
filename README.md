@@ -6,7 +6,7 @@
 4. [Free Thought](https://en.wikipedia.org/wiki/Category:Freethought)
 5. [Human Error](https://en.wikipedia.org/wiki/Human_error)
 
-## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
+## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 
 1. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
 2. [Category: Relevance Fallacies](https://en.wikipedia.org/wiki/Category:Relevance_fallacies)
@@ -18,7 +18,7 @@
 8. [Tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)
 9. [Rationalization](https://en.wikipedia.org/wiki/Rationalization_(psychology))
 10. [Proof by Assertion](https://en.wikipedia.org/wiki/Proof_by_assertion)
-11. [Metonymy](https://en.wikipedia.org/wiki/Metonymy)
+11. [Thought-Terminating Cliche](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
 12. [Kettle Logic](https://en.wikipedia.org/wiki/Kettle_logic)
 13. [Outcome Bias](https://en.wikipedia.org/wiki/Outcome_bias)
 14. [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
@@ -30,7 +30,7 @@
 20. [Naturalistic_fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy)
 21. [False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)
 22. [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
-23. [Narrative Techniques](https://en.wikipedia.org/wiki/Category:Narrative_techniques)
+23. [Loaded Language](https://en.wikipedia.org/wiki/Loaded_language)
 24. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
 25. [Reductio ad Absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
 26. [Regress Argument](https://en.wikipedia.org/wiki/Regress_argument)
@@ -66,7 +66,7 @@
 20. [Facts](https://plato.stanford.edu/entries/facts/)
 21. [Ecological Fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy)
 
-## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act), [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism), and [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
+## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology)), [Assertion](https://en.wikipedia.org/wiki/Speech_act), [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 2. [Formal Proof](https://en.wikipedia.org/wiki/Formal_proof)
@@ -96,6 +96,8 @@
 26. [Truth Condition](https://en.wikipedia.org/wiki/Truth_condition)
 27. [Propositions](https://plato.stanford.edu/entries/propositions/)
 28. [Axiomatic Truth](https://plato.stanford.edu/entries/truth-axiomatic/) and [Systems](https://en.wikipedia.org/wiki/Axiomatic_system)
+29. [Lexical Semantics](https://en.wikipedia.org/wiki/Category:Lexical_semantics)
+30. [Semantic Relations](https://en.wikipedia.org/wiki/Category:Semantic_relations)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:**[Outline](https://en.wikipedia.org/wiki/Outline_of_logic) & [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning) & [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 
@@ -210,13 +212,21 @@
 8. [Research](https://en.wikipedia.org/wiki/Category:Research)
 
 
-## [Deception](https://en.wikipedia.org/wiki/Category:Deception)
+## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 
 1. [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
 2. [Propaganda Techniques](https://en.wikipedia.org/wiki/Category:Propaganda_techniques)
 3. [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
 4. [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
 5. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
+6. [Metaphors](https://en.wikipedia.org/wiki/Category:Metaphors)
+7. [Analogy](https://en.wikipedia.org/wiki/Category:Analogy)
+8. [Narrative Techniques](https://en.wikipedia.org/wiki/Category:Narrative_techniques)
+9. [Metonymy](https://en.wikipedia.org/wiki/Metonymy)
+10. [Types of Words](https://en.wikipedia.org/wiki/Category:Types_of_words)
+11. [Linguistic Controversies](https://en.wikipedia.org/wiki/Category:Linguistic_controversies)
+12. [Euphemisms](https://en.wikipedia.org/wiki/Category:Euphemisms)
+13. [Connotation](https://en.wikipedia.org/wiki/Category:Connotation)
 
 ## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
 
