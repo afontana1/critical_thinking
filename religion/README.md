@@ -5,6 +5,7 @@
 3. [List of Philosophers of Religion](https://en.wikipedia.org/wiki/Category:Philosophers_of_religion)
 	* [Theism and Expert Knowledge](http://crucialconsiderations.org/rationality/theism-and-expert-knowledge/)
 4. [Faith](https://plato.stanford.edu/entries/faith/)
+	* [Video](https://www.youtube.com/watch?v=WaDRbdd1ts4)
 5. [Closer to Truth](https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ)
 
 ## Videos
@@ -143,6 +144,7 @@
 	* [Current Arguments for God | Episode 1006 | Closer To Truth](https://www.youtube.com/watch?v=RAD-FxsuEyQ)
 	* [Arguments Against God? | Episode 405 | Closer To Truth](https://www.youtube.com/watch?v=7Nhe1tYPRQY)
 	* [How to Argue for God? | Episode 1509 | Closer To Truth](https://www.youtube.com/watch?v=U4YT1RWmwDU)
+85. [The Question of God: C.S. Lewis and Sigmund Freud](https://www.youtube.com/watch?v=ub4-3GYlHTw)
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
 
@@ -192,6 +194,7 @@
 	* [Théodicée](https://en.wikipedia.org/wiki/Th%C3%A9odic%C3%A9e)
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
+	* [Overview](https://www.qcc.cuny.edu/socialsciences/ppecorino/intro_text/Chapter%203%20Religion/Cosmological.htm)
 	* [Critiques](https://philosophicaldisquisitions.blogspot.com/2014/11/critiquing-kalam-cosmological-argument.html)
 	* [Paul Draper Critique](https://hettingern.people.cofc.edu/Philosophy_of_Religion/Draper_Critique_of_Kalam_Argument.htm)
 	* [More Problems](https://thegodlesstheist.com/2021/03/01/five-major-problems-with-william-lane-craigs-kalam-cosmological-argument/)
@@ -364,8 +367,10 @@
 ### [Conceptions of God](https://en.wikipedia.org/wiki/Conceptions_of_God)
 1. [Alternative Conceptions](https://www.closertotruth.com/series/alternative-concepts-god-part-1)
 2. [Philosophy of Spinoza](https://en.wikipedia.org/wiki/Philosophy_of_Spinoza)
+3. [Richard Swinburne - Alternative Concepts of God?](https://www.youtube.com/watch?v=CF9bFMK5ygQ&t=247s)
+4. [Alternative Concepts of God | Episode 1104 | Closer To Truth](https://www.youtube.com/watch?v=KYnQcxmOkvY&t=12s)
 
-## Apologists and Theologians
+## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
 2. [William Lane Craig](https://en.wikipedia.org/wiki/William_Lane_Craig)
 3. [Andrzej_Grzegorczyk](https://en.wikipedia.org/wiki/Andrzej_Grzegorczyk)
@@ -382,6 +387,8 @@
 14. [Gary Habermas](https://www.garyhabermas.com/)
 15. [Christian Apologetics and Research Ministry](https://en.wikipedia.org/wiki/Christian_Apologetics_and_Research_Ministry)
 16. [John Philoponus](https://plato.stanford.edu/entries/philoponus/)
+17. [Timothy O'Connor](https://www.closertotruth.com/contributor/timothy-oconnor/profile)
+	* [Articles](https://toconnor.org/articles/)
 
 ## [Atheist/Agnostic Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
@@ -398,6 +405,7 @@
 12. [A. J. Ayer](https://en.wikipedia.org/wiki/A._J._Ayer)
 13. [Anthony Kenny](https://en.wikipedia.org/wiki/Anthony_Kenny)
 14. [Epicurus](https://en.wikipedia.org/wiki/Epicurus)
+15. [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)
 
 ## [Cognitive Science of Religion](https://en.wikipedia.org/wiki/Cognitive_science_of_religion)
 

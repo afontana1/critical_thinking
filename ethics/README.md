@@ -61,6 +61,8 @@
 52. [Moral Skepticism](https://en.wikipedia.org/wiki/Moral_skepticism)
 53. [Anscombe Moral Philosophy](https://iep.utm.edu/anscombe/#H6)
 54. [Wittgenstein Ethics](https://iep.utm.edu/wittgens/#H3) and [Forms of Life](https://journals.sagepub.com/doi/abs/10.1177/0191453718810918?journalCode=pscb)
+55. [Ethical Egoism](https://en.wikipedia.org/wiki/Ethical_egoism)
+56. [Egoism](https://plato.stanford.edu/entries/egoism/)
 
 ## People
 
@@ -80,3 +82,4 @@
 14. [Bentham](https://plato.stanford.edu/entries/bentham/)
 15. [G. E. Moore](https://plato.stanford.edu/entries/moore/)
 16. [Anthony Quinton](https://en.wikipedia.org/wiki/Anthony_Quinton)
+17. [Henry Sidgwick](https://en.wikipedia.org/wiki/Henry_Sidgwick)
