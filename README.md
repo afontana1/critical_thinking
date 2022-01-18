@@ -5,6 +5,7 @@
 3. [Philosophy Blog](https://philosophicaldisquisitions.blogspot.com/)
 4. [Free Thought](https://en.wikipedia.org/wiki/Category:Freethought)
 5. [Human Error](https://en.wikipedia.org/wiki/Human_error)
+6. [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 
@@ -227,6 +228,7 @@
 11. [Linguistic Controversies](https://en.wikipedia.org/wiki/Category:Linguistic_controversies)
 12. [Euphemisms](https://en.wikipedia.org/wiki/Category:Euphemisms)
 13. [Connotation](https://en.wikipedia.org/wiki/Category:Connotation)
+14. [Equivocation](https://en.wikipedia.org/wiki/Equivocation)
 
 ## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
 
@@ -234,6 +236,10 @@
 2. [Philosophy of History](https://en.wikipedia.org/wiki/Category:Philosophy_of_history)
 3. [Methods](https://en.wikipedia.org/wiki/Category:Methods_in_archaeology) in [Archaeology](https://en.wikipedia.org/wiki/Archaeology)
 4. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)
+5. [Historocity](https://en.wikipedia.org/wiki/Historicity)
+6. [Process Tracing](https://en.wikipedia.org/wiki/Process_tracing)
+7. [Thematic Analysis](https://en.wikipedia.org/wiki/Thematic_analysis)
+8. [Content Analysis](https://en.wikipedia.org/wiki/Content_analysis)
 
 ## [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science) and [Types of Thought](https://en.wikipedia.org/wiki/Outline_of_thought#Types_of_thought_(thinking))
 
@@ -241,3 +247,4 @@
 2. [Mental Processes](https://en.wikipedia.org/wiki/Category:Mental_processes)
 3. [Cognition](https://en.wikipedia.org/wiki/Category:Cognition)
 4. [Mind](https://en.wikipedia.org/wiki/Category:Mind)
+5. [Outline of Intelligence](https://en.wikipedia.org/wiki/Outline_of_human_intelligence)
