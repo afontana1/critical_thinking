@@ -17,6 +17,7 @@
 7. [Theories of Meaning](https://plato.stanford.edu/entries/meaning/)
 8. [Nihilism](https://en.wikipedia.org/wiki/Category:Nihilism)
 9. [Computational Philosophy](https://plato.stanford.edu/entries/computational-philosophy/)
+10. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
 
 ## Categories
 
@@ -314,9 +315,4 @@
 23. [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom)
 24. [Anthony Kenny](https://en.wikipedia.org/wiki/Anthony_Kenny)
 25. [G.E.M Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
-
-## Books
-
-1. [Oxford Handbooks of History](https://www.oxfordhandbooks.com/browse?t0=ORR:AHU00830)
-2. [Oxford Handbooks of Linguistics](https://www.oxfordhandbooks.com/browse?t0=ORR:AHU01290)
-3. [Oxford Handbook of Philosophy](https://www.oxfordhandbooks.com/browse?t0=ORR:AHU02720)
+26. [David Chalmers](http://consc.net/)
