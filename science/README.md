@@ -31,7 +31,7 @@
 1. [Outline of Scientific Process](https://en.wikipedia.org/wiki/Outline_of_scientific_method)
 2. [Structure](https://plato.stanford.edu/entries/structure-scientific-theories/)
 3. [Discovery](https://plato.stanford.edu/entries/scientific-discovery/)
-4. [Objectivity](https://plato.stanford.edu/entries/scientific-objectivity/)
+4. [Scientific Objectivity](https://plato.stanford.edu/entries/scientific-objectivity/)
 5. [Psuedo](https://plato.stanford.edu/entries/pseudo-science/)
 6. [Theory and Observation](https://plato.stanford.edu/entries/science-theory-observation/)
 7. [Explanation](https://plato.stanford.edu/entries/scientific-explanation/)
@@ -66,6 +66,7 @@
 36. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
 37. [History of Science](https://en.wikipedia.org/wiki/History_of_science)
 38. [Design of Experiments](https://en.wikipedia.org/wiki/Category:Design_of_experiments)
+39. [Scientific Law](https://en.wikipedia.org/wiki/Scientific_law)
 
 ## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty), [Probability](https://en.wikipedia.org/wiki/Category:Probability), and [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
 

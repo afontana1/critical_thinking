@@ -22,3 +22,4 @@
 18. [Counterargument](https://en.wikipedia.org/wiki/Counterargument)
 19. [Sources of Knowledge](https://en.wikipedia.org/wiki/Category:Sources_of_knowledge)
 20. [Epistemic Closure](https://en.wikipedia.org/wiki/Epistemic_closure)
+21. [Philosophy of Evidence](https://plato.stanford.edu/entries/evidence/)

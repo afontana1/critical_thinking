@@ -147,6 +147,9 @@
 93. [Unobservable](https://en.wikipedia.org/wiki/Unobservable)
 94. [Anti Realism](https://en.wikipedia.org/wiki/Anti-realism)
 95. [Qualia: The Knowledge Argument](https://plato.stanford.edu/entries/qualia-knowledge/)
+96. [Intersubjectivity](https://en.wikipedia.org/wiki/Intersubjectivity)
+97. [Other Minds](https://plato.stanford.edu/entries/other-minds/)
+98. [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -316,3 +319,4 @@
 24. [Anthony Kenny](https://en.wikipedia.org/wiki/Anthony_Kenny)
 25. [G.E.M Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
 26. [David Chalmers](http://consc.net/)
+27. [Emmanuel Levinas](https://plato.stanford.edu/entries/levinas/)

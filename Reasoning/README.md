@@ -65,6 +65,10 @@
 26. [Statistical Proof](https://en.wikipedia.org/wiki/Statistical_proof)
 27. [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
 28. [Truth Condition](https://en.wikipedia.org/wiki/Truth_condition)
+29. [Mathematical Terminology](https://en.wikipedia.org/wiki/Category:Mathematical_terminology)
+	* [Lemma](https://en.wikipedia.org/wiki/Lemma_(mathematics))
+	* [Theorem](https://en.wikipedia.org/wiki/Theorem)
+	* [Axiom](https://en.wikipedia.org/wiki/Axiom)
 
 ## [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 

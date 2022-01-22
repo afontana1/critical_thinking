@@ -6,6 +6,8 @@
 4. [Free Thought](https://en.wikipedia.org/wiki/Category:Freethought)
 5. [Human Error](https://en.wikipedia.org/wiki/Human_error)
 6. [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
+7. [Processes](https://en.wikipedia.org/wiki/Process)
+8. [Recognizing Fallacies](https://en.wikiversity.org/wiki/Recognizing_Fallacies)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 
@@ -42,6 +44,9 @@
 31. [Fallacy of Division](https://en.wikipedia.org/wiki/Fallacy_of_division)
 32. [Category Mistakes](https://plato.stanford.edu/entries/category-mistakes/)
 33. [Formal Fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
+34. [Fallacies of Definition](https://en.wikipedia.org/wiki/Fallacies_of_definition)
+35. [Complex Question](https://en.wikipedia.org/wiki/Complex_question)
+36. [Fallacy of the Heap](https://www.fallacyfiles.org/fallheap.html)
 
 ## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 
@@ -59,6 +64,8 @@
 12. [Euphemisms](https://en.wikipedia.org/wiki/Category:Euphemisms)
 13. [Connotation](https://en.wikipedia.org/wiki/Category:Connotation)
 14. [Equivocation](https://en.wikipedia.org/wiki/Equivocation)
+15. [Vagueness](https://en.wikipedia.org/wiki/Vagueness)
+16. [Verbal Fallacies](https://en.wikipedia.org/wiki/Category:Verbal_fallacies)
 
 ## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
 

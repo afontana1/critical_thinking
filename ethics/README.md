@@ -62,7 +62,20 @@
 53. [Anscombe Moral Philosophy](https://iep.utm.edu/anscombe/#H6)
 54. [Wittgenstein Ethics](https://iep.utm.edu/wittgens/#H3) and [Forms of Life](https://journals.sagepub.com/doi/abs/10.1177/0191453718810918?journalCode=pscb)
 55. [Ethical Egoism](https://en.wikipedia.org/wiki/Ethical_egoism)
-56. [Egoism](https://plato.stanford.edu/entries/egoism/)
+56. Spinoza [Morality](https://iep.utm.edu/spin-mor/) and [Ethics](https://en.wikipedia.org/wiki/Ethics_(Spinoza_book))
+57. [Viktor Frankl and Meaning](https://en.wikipedia.org/wiki/Viktor_Frankl)
+58. [Ethical Subjectivism](https://en.wikipedia.org/wiki/Ethical_subjectivism)
+	* [The intersubjective basis of morality](https://journals.sagepub.com/doi/abs/10.1177/019145379602200605?journalCode=pscb)
+	* [On the Intersubjective Constitution of Morals](https://link.springer.com/chapter/10.1007/978-94-015-8408-1_6)
+	* [OBJECTIVITY AND INTERSUBJECTIVITY IN MORAL PHILOSOPHY](https://dash.harvard.edu/bitstream/handle/1/40046415/JULIAN-DISSERTATION-2017.pdf?sequence=4)
+	* [MORAL RESPONSIBILITY AND INTERSUBJECTIVITY: A REFLECTION ON THE CONCEPT OF MORAL RESPONSIBILITY FROM THE PERSPECTIVE OF MARCEL'S INTERSUBJECTIVITY](https://explore.neumann.edu/hubfs/Website-PDFs/Home/Marcel%20Studies/Cheng-LIng-Paper-2017.pdf?hsLang=en)
+	* [Hume’s Correction of the Sentiments. Intersubjectivity without Objectivity](https://quod.lib.umich.edu/e/ergo/12405314.0003.007/--hume-x2019s-correction-of-the-sentiments-intersubjectivity?rgn=main;view=fulltext)
+	* [Intersubjectivity and interaction as crucial for understanding the moral role of shame: a critique of TOSCA-based shame research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4114200/)
+	* [Intersubjectivity and Moral Judgment in Adam Smith’s Theory of Moral Sentiments](https://www.degruyter.com/document/doi/10.1515/9783110325942.243/html)
+	* [Empathy or Intersubjectivity? Understanding the Origins of Morality in Young Children](https://eric.ed.gov/?id=EJ924344)
+59. [Hedonism](https://plato.stanford.edu/entries/hedonism/)
+60. [Morality and Cognitive Science](https://iep.utm.edu/m-cog-sc/)
+61. [Moral Imagination](https://ethicsunwrapped.utexas.edu/glossary/moral-imagination)
 
 ## People
 
@@ -83,3 +96,6 @@
 15. [G. E. Moore](https://plato.stanford.edu/entries/moore/)
 16. [Anthony Quinton](https://en.wikipedia.org/wiki/Anthony_Quinton)
 17. [Henry Sidgwick](https://en.wikipedia.org/wiki/Henry_Sidgwick)
+18. [Gabriel Marcel](https://plato.stanford.edu/entries/marcel/)
+19. [Paul Ricœur](https://en.wikipedia.org/wiki/Paul_Ric%C5%93ur)
+20. [Mark Johnson](https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher))
