@@ -10,6 +10,7 @@
 6. [Religion](https://en.wikipedia.org/wiki/Religion)
 7. [Comparative Religion](https://en.wikipedia.org/wiki/Comparative_religion)
 8. [Big Questions About God - Closer To Truth - Core Topic](https://www.youtube.com/playlist?list=PLFJr3pJl27pKyjextCjGsYzvrMvWCj4tX)
+9. [Apologetics and Counter-Apologetics](https://rationalwiki.org/wiki/Category:Apologetics_and_counter-apologetics)
 
 ## Videos
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
@@ -45,6 +46,7 @@
 8. [Majesty of Reason](https://www.youtube.com/c/MajestyofReason/featured)
 9. [Paulogia](https://www.youtube.com/channel/UCIS4cWaXgWpznjwovFYQBJQ)
 10. [TMM](https://www.youtube.com/user/TheMessianicManic/videos)
+11. [DarkMatter2525](https://www.youtube.com/channel/UCLhtZqdkjshgq8TqwIjMdCQ)
 
 ### Historical Videos
 1. [Are The Lost Cities Of Sodom And Gomorrah Under The Dead Sea? | Sodom And Gomorrah](https://www.youtube.com/watch?v=UoIGbYv89bA)
@@ -193,10 +195,26 @@
 102. [Physicists & Philosophers reply to the Kalam Cosmological Argument featuring Penrose, Hawking, Guth](https://www.youtube.com/watch?v=pGKe6YzHiME&t=1194s)
 103. [How to be an ACTUAL Skeptic | Alex O'Connor at the University of Dundee](https://www.youtube.com/watch?v=0P4vDLZoyZ8&t=773s)
 104. [Bishop Robert Barron & Alex O'Connor (Cosmic Skeptic) • Christianity or Atheism?](https://www.youtube.com/watch?v=aC9tKeJCJtM)
+105. [InspiringPhilosophy Vs Michael Shermer | DEBATE | Is Christianity Dangerous? | Podcast](https://www.youtube.com/watch?v=mSjZLqV_3ko&t=421s)
+106. [I took a Christian class about atheism. It was worse than I expected.](https://www.youtube.com/watch?v=Fsw-lSp3rq8&t=707s)
+107. [Tim Whitmarsh - How to Be an Atheist — The Ancient Greek Way](https://www.youtube.com/watch?v=JBoThC94UI0)
+108. [Armchair Atheism, Ep. 7 - How Ancient is Atheism? with Tim Whitmarsh](https://www.youtube.com/watch?v=d9GFeYJNI2g)
+109. [Atheism In The Ancient World - Battling The Gods with Dr. Tim Whitmarsh](https://www.youtube.com/watch?v=3mwsMxsBjWk)
+110. [Is the Bible a Moral Code for Today?-Debate at Iowa State](https://www.youtube.com/watch?v=7DIMWV1VSq8&t=2534s)
+110. [Is the Church Responsible for Western Advancements? - Richard Carrier, PhD - RE: @Jordan B Peterson](https://www.youtube.com/watch?v=-6TiG7o9gIA)
+111. [Debate: "Is Christianity Good for American Politics?"](https://www.youtube.com/watch?v=Wd2F5mwAWG4)
+112. [Is Religion a Force for Good or Ill?: Is Christianity Good for American Politics? - Susan Jacoby](https://www.youtube.com/watch?v=-hB02eqOStk)
+113. [Stealing Reason: Christianity’s Theft of Human Values • Patrick Morrow](https://www.youtube.com/watch?v=WiNyZljzYrM)
+114. [The Theft of Our Values](https://www.youtube.com/watch?v=dPOMNdvKZtQ)
+115. [Christianity - God and the Scientists](https://www.youtube.com/watch?v=UcZ44kQphlo&t=538s)
+116. [God is not a Good Theory (Sean Carroll)](https://www.youtube.com/watch?v=ew_cNONhhKI)
+117. [A C Grayling - Atheism, Theism and Proof](https://www.youtube.com/watch?v=gI3GWjFRe9s)
+118. [#ZeeJLF2017: Battling the Gods: Atheism in the Ancient World](https://www.youtube.com/watch?v=mTXn67HJwQ4)
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
 
 - [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God)
+- [Existence Arguments](https://rationalwiki.org/wiki/Category:Existence_of_gods)
 
 1. [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
 	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/teleological-argument-criticisms/)
@@ -271,6 +289,9 @@
 	* [Leonard Susskind - Is the Universe Fine-Tuned for Life and Mind?](https://www.youtube.com/watch?v=2cT4zZIHR3s)
 	* [What's Fine-Tuning in Physics? | Episode 1903 | Closer To Truth](https://www.youtube.com/watch?v=UizIrcdSuuo)
 32. [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
+	* [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
+	* [Empirical Critique](https://www.jstor.org/stable/1197397)
+	* [More Criticisms](https://rationalwiki.org/wiki/Argument_from_morality)
 33. [Argument from Degree](https://en.wikipedia.org/wiki/Argument_from_degree)
 34. [Watchmaker Analogy](https://en.wikipedia.org/wiki/Watchmaker_analogy) and [Refutation](https://www.youtube.com/watch?v=PHmjHMbkOUM)
 35. [Anthropic Principle](https://simple.wikipedia.org/wiki/Anthropic_principle) and [Refutation](https://www.str.org/w/why-the-puddle-analogy-fails-against-fine-tuning)
@@ -478,7 +499,7 @@
 9. [Wondering About God | Episode 503 | Closer To Truth](https://www.youtube.com/watch?v=F2x-l-OMzp0)
 10. [Panentheism: Is the World in God? | Episode 1211 | Closer To Truth](https://www.youtube.com/watch?v=i91NZPsL9eY)
 11. [What is God? | Episode 1003 | Closer To Truth](https://www.youtube.com/watch?v=1mKJi1muQAI)
-12. [The Trinity: A Philosophical Inquiry | Episode 1910 | Closer To Truth](https://www.youtube.com/watch?v=SQ2IhTbWiuE)
+12. [What is God's Eternity? | Episode 1108 | Closer To Truth](https://www.youtube.com/watch?v=CcpPwrhrcbY)
 13. [What is God Like? | Episode 402 | Closer To Truth](https://www.youtube.com/watch?v=R_37OMMSxK0)
 14. [What is Spinoza's God?](https://www.youtube.com/watch?v=gioaH2kFaIM)
 15. [What is Daoism?](https://www.youtube.com/watch?v=fTPxh6Sn_gI)
@@ -495,6 +516,8 @@
 22. [How Does a Creator God Work? | Episode 905 | Closer To Truth](https://www.youtube.com/watch?v=gHPJlbkuEGQ)
 23. [How is God All Powerful? | Episode 907 | Closer To Truth](https://www.youtube.com/watch?v=mIrx9SDTaps)
 24. [Can Many Religions All Be True? | Episode 307 | Closer To Truth](https://www.youtube.com/watch?v=slBbRBhI850)
+25. [Can the Divine be a Person? | Episode 1305 | Closer To Truth](https://www.youtube.com/watch?v=I77Bc_bLFW0)
+26. [What Can We Learn from Alternative Gods? | Episode 1310 | Closer To Truth](https://www.youtube.com/watch?v=xUQPq8rL7EU)
 
 #### [Agnosticism](https://www.youtube.com/watch?v=C5Cc8KhDAM0&t=21s)
 
@@ -531,6 +554,13 @@
 31. [Is the Universe Theologically Ambiguous? | Episode 1712 | Closer To Truth](https://www.youtube.com/watch?v=5xioPAlymFM)
 32. [How Could God Make Miracles? | Episode 1603 | Closer To Truth](https://www.youtube.com/watch?v=Uxr2VMhY1dg&t=573s)
 33. [What Things Are Real? | Episode 1308 | Closer To Truth](https://www.youtube.com/watch?v=neSBuAfPvZs)
+34. [How do Language and Consciousness Relate? | Episode 1604 | Closer To Truth](https://www.youtube.com/watch?v=rSqLe_QbX10)
+35. [Sean Kelly: Existentialism, Nihilism, and the Search for Meaning | Lex Fridman Podcast #227](https://www.youtube.com/watch?v=cC1HszE5Hcw)
+36. [What's the New Atheism? | Episode 1204 | Closer To Truth](https://www.youtube.com/watch?v=SSlfVj7Ai5k)
+37. [Does God's Knowledge Ruin Free Will? | Episode 1312 | Closer To Truth](https://www.youtube.com/watch?v=m246uxD_9Sw)
+38. [Why God, Not Nothing? | Episode 1311 | Closer To Truth](https://www.youtube.com/watch?v=hNmfdiSD5qI)
+39. [Is the Person All Material? | Episode 404 | Closer To Truth](https://www.youtube.com/watch?v=gjhx7k0T2J8)
+40. [The Believing Brain: Evolution, Neuroscience, and the Spiritual Instinct](https://www.youtube.com/watch?v=p0_-7FmrDq8)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
