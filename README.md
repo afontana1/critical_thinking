@@ -11,6 +11,8 @@
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 
+- [Social Cognition](http://psychology.iresearchnet.com/social-psychology/social-cognition/)
+
 1. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
 2. [Category: Relevance Fallacies](https://en.wikipedia.org/wiki/Category:Relevance_fallacies)
 3. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
@@ -47,6 +49,10 @@
 34. [Fallacies of Definition](https://en.wikipedia.org/wiki/Fallacies_of_definition)
 35. [Complex Question](https://en.wikipedia.org/wiki/Complex_question)
 36. [Fallacy of the Heap](https://www.fallacyfiles.org/fallheap.html)
+37. [Out Group Homogeneity](https://en.wikipedia.org/wiki/Out-group_homogeneity)
+38. [Hostile Attribution Bias](https://en.wikipedia.org/wiki/Hostile_attribution_bias)
+39. [Defensive Attribution Hypothesis](https://en.wikipedia.org/wiki/Defensive_attribution_hypothesis)
+40. [Self Serving Bias](https://en.wikipedia.org/wiki/Self-serving_bias)
 
 ## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 

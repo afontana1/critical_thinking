@@ -150,6 +150,7 @@
 96. [Intersubjectivity](https://en.wikipedia.org/wiki/Intersubjectivity)
 97. [Other Minds](https://plato.stanford.edu/entries/other-minds/)
 98. [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
+99. [Descartes Method](https://plato.stanford.edu/entries/descartes-method/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -187,6 +188,15 @@
 18. [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
 19. [Herodotus](https://en.wikipedia.org/wiki/Herodotus)
 20. [Pre Socratic Philosophy](https://en.wikipedia.org/wiki/Pre-Socratic_philosophy)
+21. [Cyrenaics](https://en.wikipedia.org/wiki/Cyrenaics)
+22. [Thales of Miletus](https://en.wikipedia.org/wiki/Thales_of_Miletus)
+23. [Xenophanes](https://plato.stanford.edu/entries/xenophanes/)
+24. [Lucretius](https://plato.stanford.edu/entries/lucretius/)
+25. [Leucippus](https://en.wikipedia.org/wiki/Leucippus)
+26. [Euhemerus](https://en.wikipedia.org/wiki/Euhemerus)
+27. [Anaxagoras](https://plato.stanford.edu/entries/anaxagoras/)
+28. [Aristippus](https://en.wikipedia.org/wiki/Aristippus)
+29. [Hypatia](https://en.wikipedia.org/wiki/Hypatia)
 
 #### Historical Information
 

@@ -76,6 +76,7 @@
 59. [Hedonism](https://plato.stanford.edu/entries/hedonism/)
 60. [Morality and Cognitive Science](https://iep.utm.edu/m-cog-sc/)
 61. [Moral Imagination](https://ethicsunwrapped.utexas.edu/glossary/moral-imagination)
+62. [Just World Hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
 
 ## People
 
@@ -99,3 +100,4 @@
 18. [Gabriel Marcel](https://plato.stanford.edu/entries/marcel/)
 19. [Paul Ricœur](https://en.wikipedia.org/wiki/Paul_Ric%C5%93ur)
 20. [Mark Johnson](https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher))
+21. [Bernard Williams](https://plato.stanford.edu/entries/williams-bernard/)
