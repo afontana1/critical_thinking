@@ -53,6 +53,7 @@
 38. [Hostile Attribution Bias](https://en.wikipedia.org/wiki/Hostile_attribution_bias)
 39. [Defensive Attribution Hypothesis](https://en.wikipedia.org/wiki/Defensive_attribution_hypothesis)
 40. [Self Serving Bias](https://en.wikipedia.org/wiki/Self-serving_bias)
+41. [Category Mistakes](https://plato.stanford.edu/entries/category-mistakes/)
 
 ## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 
@@ -72,6 +73,8 @@
 14. [Equivocation](https://en.wikipedia.org/wiki/Equivocation)
 15. [Vagueness](https://en.wikipedia.org/wiki/Vagueness)
 16. [Verbal Fallacies](https://en.wikipedia.org/wiki/Category:Verbal_fallacies)
+17. [Synechdoche](https://en.wikipedia.org/wiki/Synecdoche)
+18. [Metonymy](https://en.wikipedia.org/wiki/Metonymy)
 
 ## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
 

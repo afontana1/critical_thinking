@@ -209,6 +209,8 @@
 69. [Criticism of Christianity](https://en.wikipedia.org/wiki/Category:Criticism_of_Christianity)
 	* [Books](https://en.wikipedia.org/wiki/Category:Books_critical_of_Christianity) [Critical of Christianity](https://en.wikipedia.org/wiki/Bibliography_of_books_critical_of_Christianity)
 70. [Anti Clericalism](https://en.wikipedia.org/wiki/Anti-clericalism)
+71. [Rigveda](https://en.wikipedia.org/wiki/Rigveda)
+72. [Kants Philosophy of Religion](https://plato.stanford.edu/entries/kant-religion/)
 
 ## [History of Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
 1. [Christian_denominational_families](https://en.wikipedia.org/wiki/Category:Christian_denominational_families)
@@ -387,6 +389,8 @@
 ## [Atheist/Agnostic Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 
 - [History of Atheism](https://en.wikipedia.org/wiki/History_of_atheism)
+- [Ancient Indian Atheism](https://blog.apaonline.org/2020/06/16/the-untold-history-of-indias-vital-atheist-philosophy/)
+- [Indian Agnostics](https://en.wikipedia.org/wiki/Category:Indian_agnostics)
 
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
 2. [English Atheists](https://en.wikipedia.org/wiki/Category:English_atheists)
@@ -426,6 +430,16 @@
 34. [Pietro d'Abano](https://en.wikipedia.org/wiki/Pietro_d%27Abano)
 35. [Roger Bacon](https://en.wikipedia.org/wiki/Roger_Bacon)
 36. [Hypatia](https://en.wikipedia.org/wiki/Hypatia)
+37. [Charvaka](https://en.wikipedia.org/wiki/Charvaka)
+38. [Six Heretical Teachers](https://en.wikipedia.org/wiki/Six_Heretical_Teachers)
+39. [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
+40. [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
+41. [Ludwig_Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
+42. [John Searle](https://en.wikipedia.org/wiki/John_Searle)
+43. [George Santayana](https://plato.stanford.edu/entries/santayana/)
+44. [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+45. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
+46. [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
 
 ## [Cognitive Science of Religion](https://en.wikipedia.org/wiki/Cognitive_science_of_religion)
 
@@ -438,6 +452,7 @@
 
 - [People Executed for Heresy](https://en.wikipedia.org/wiki/Category:People_executed_for_heresy)
 - [List of People Burned as Heretics](https://en.wikipedia.org/wiki/List_of_people_burned_as_heretics)
+- [Killing Atheists](https://www.psychologytoday.com/us/blog/the-secular-life/201606/killing-atheists)
 
 1. [Short list of Atrocities](https://churchandstate.org.uk/2016/03/the-right-wing-doesnt-want-to-talk-about-christian-atrocities-so-lets-talk-about-christian-atrocities/)
 2. [Boston Martyrs](https://en.wikipedia.org/wiki/Boston_martyrs)

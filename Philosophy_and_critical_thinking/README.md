@@ -151,6 +151,7 @@
 97. [Other Minds](https://plato.stanford.edu/entries/other-minds/)
 98. [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
 99. [Descartes Method](https://plato.stanford.edu/entries/descartes-method/)
+100. [Kantian Category](https://en.wikipedia.org/wiki/Category_(Kant)) and [Aristotelian Categories](https://en.wikipedia.org/wiki/Categories_(Aristotle))
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -197,6 +198,12 @@
 27. [Anaxagoras](https://plato.stanford.edu/entries/anaxagoras/)
 28. [Aristippus](https://en.wikipedia.org/wiki/Aristippus)
 29. [Hypatia](https://en.wikipedia.org/wiki/Hypatia)
+30. [Epicurus](https://en.wikipedia.org/wiki/Epicurus)
+31. [Diagoras of Melos](https://en.wikipedia.org/wiki/Diagoras_of_Melos)
+32. [Theodorus of Cyrene](https://en.wikipedia.org/wiki/Theodorus_of_Cyrene)
+33. [Archytas](https://en.wikipedia.org/wiki/Archytas)
+34. [Anaxagoras](https://en.wikipedia.org/wiki/Anaxagoras)
+35. [Archelaus](https://en.wikipedia.org/wiki/Archelaus_(philosopher))
 
 #### Historical Information
 
@@ -223,6 +230,20 @@
 	- [Laozi](https://en.wikipedia.org/wiki/Laozi)
 7. [School of Diplomacy](https://en.wikipedia.org/wiki/School_of_Diplomacy)
 8. [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu)
+
+### Ancient Indian Philosophy
+
+1. [Ajita Kesakambali](https://en.wikipedia.org/wiki/Ajita_Kesakambali)
+2. [Sanjaya Belatthiputta](https://en.wikipedia.org/wiki/Sanjaya_Belatthiputta)
+3. [Ajñana](https://en.wikipedia.org/wiki/Aj%C3%B1ana)
+4. [Upanishads](https://en.wikipedia.org/wiki/Upanishads)
+5. [Charvaka](https://en.wikipedia.org/wiki/Charvaka)
+6. [Pakudha Kaccayana](https://en.wikipedia.org/wiki/Pakudha_Kaccayana)
+7. [Makkhali Gosala](https://en.wikipedia.org/wiki/Makkhali_Gosala)
+8. [Purana Kassapa](https://en.wikipedia.org/wiki/Purana_Kassapa)
+9. [Nagarjuna](https://plato.stanford.edu/entries/nagarjuna/)
+10. [Jayarāśi](https://plato.stanford.edu/entries/jayaraasi/)
+11. [Śrīharṣa](https://plato.stanford.edu/entries/sriharsa/)
 
 ### [Medieval](https://en.wikipedia.org/wiki/Medieval_philosophy) and [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)
 
@@ -274,6 +295,7 @@
 5. [Friedrich_Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 6. [Frege](https://en.wikipedia.org/wiki/Gottlob_Frege)
 7. [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
+8. [Ludwig Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
 
 ### 19th Century
 
@@ -330,3 +352,4 @@
 25. [G.E.M Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
 26. [David Chalmers](http://consc.net/)
 27. [Emmanuel Levinas](https://plato.stanford.edu/entries/levinas/)
+28. [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
