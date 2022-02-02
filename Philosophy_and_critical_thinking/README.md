@@ -46,6 +46,7 @@
 5. [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science)
 6. [Pragmaticism](https://en.wikipedia.org/wiki/Pragmaticism)
 7. [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
+8. [Philosophy of Science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
 
 ## List of Concepts
 
@@ -88,7 +89,7 @@
 37. [Philosophical Razors](https://en.wikipedia.org/wiki/Category:Razors_(philosophy))
 38. [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
 39. [Genus - Differentia](https://en.wikipedia.org/wiki/Genus%E2%80%93differentia_definition)
-40. [Abstract and Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
+40. [Abstract Objects](https://plato.stanford.edu/entries/abstract-objects/)
 41. [Existence_precedes_essence](https://en.wikipedia.org/wiki/Existence_precedes_essence)
 42. [Conceptualism vs Non-Conceptualism](https://plato.stanford.edu/entries/kant-conceptualism/)
 43. [Concepts](https://en.wikipedia.org/wiki/Category:Concepts)
@@ -152,6 +153,10 @@
 98. [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
 99. [Descartes Method](https://plato.stanford.edu/entries/descartes-method/)
 100. [Kantian Category](https://en.wikipedia.org/wiki/Category_(Kant)) and [Aristotelian Categories](https://en.wikipedia.org/wiki/Categories_(Aristotle))
+101. [Deconstruction](https://en.wikipedia.org/wiki/Deconstruction)
+102. [Implicature](https://plato.stanford.edu/entries/implicature/)
+103. [Mental Causation](https://plato.stanford.edu/entries/mental-causation/)
+104. [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -353,3 +358,5 @@
 26. [David Chalmers](http://consc.net/)
 27. [Emmanuel Levinas](https://plato.stanford.edu/entries/levinas/)
 28. [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
+29. [Hannah Arendt](https://plato.stanford.edu/entries/arendt/)
+30. [Kenneth Burke](https://en.wikipedia.org/wiki/Kenneth_Burke)

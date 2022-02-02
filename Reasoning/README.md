@@ -34,6 +34,7 @@
 19. [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
 20. [Causal Inference](https://en.wikipedia.org/wiki/Category:Causal_inference)
 21. [Explanation](https://en.wikipedia.org/wiki/Explanation)
+22. [Questions](https://plato.stanford.edu/entries/questions/)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 
@@ -69,6 +70,13 @@
 	* [Lemma](https://en.wikipedia.org/wiki/Lemma_(mathematics))
 	* [Theorem](https://en.wikipedia.org/wiki/Theorem)
 	* [Axiom](https://en.wikipedia.org/wiki/Axiom)
+30. [Law of Noncontradiction](https://en.wikipedia.org/wiki/Law_of_noncontradiction)
+31. [Negation](https://plato.stanford.edu/entries/negation/)
+32. [Contradiction](https://plato.stanford.edu/entries/contradiction/)
+33. [Categorical_proposition](https://en.wikipedia.org/wiki/Categorical_proposition)
+34. [Modal Varieties](https://plato.stanford.edu/entries/modality-varieties/)
+35. [Logic of Conditionals](https://plato.stanford.edu/entries/logic-conditionals/)
+36. [Conditionals](https://plato.stanford.edu/entries/conditionals/)
 
 ## [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 
@@ -76,6 +84,14 @@
 2. [Propositions](https://plato.stanford.edu/entries/propositions/)
 3. [Lexical Semantics](https://en.wikipedia.org/wiki/Category:Lexical_semantics)
 4. [Semantic Relations](https://en.wikipedia.org/wiki/Category:Semantic_relations)
+5. [Propositions](https://plato.stanford.edu/entries/propositions/)
+6. [Structured Propositions](https://plato.stanford.edu/entries/propositions-structured/)
+7. [Singular Propositions](https://plato.stanford.edu/entries/propositions-singular/)
+8. [Ambiguity](https://plato.stanford.edu/entries/ambiguity/)
+9. [Descriptions](https://plato.stanford.edu/entries/descriptions/)
+10. [Truth Values](https://plato.stanford.edu/entries/truth-values/)
+11. [Tense and Aspect](https://plato.stanford.edu/entries/tense-aspect/)
+12. [Word Meaning](https://plato.stanford.edu/entries/word-meaning/)
 
 ## [Knowledge_representation](https://en.wikipedia.org/wiki/Category:Knowledge_representation)
 

@@ -391,6 +391,7 @@
 - [History of Atheism](https://en.wikipedia.org/wiki/History_of_atheism)
 - [Ancient Indian Atheism](https://blog.apaonline.org/2020/06/16/the-untold-history-of-indias-vital-atheist-philosophy/)
 - [Indian Agnostics](https://en.wikipedia.org/wiki/Category:Indian_agnostics)
+- [List_of_atheist_activists_and_educators](https://en.wikipedia.org/wiki/List_of_atheist_activists_and_educators)
 
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
 2. [English Atheists](https://en.wikipedia.org/wiki/Category:English_atheists)
@@ -440,6 +441,7 @@
 44. [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 45. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
 46. [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
+47. [JL Schellenberg](https://en.wikipedia.org/wiki/J._L._Schellenberg)
 
 ## [Cognitive Science of Religion](https://en.wikipedia.org/wiki/Cognitive_science_of_religion)
 

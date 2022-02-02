@@ -8,6 +8,7 @@
 6. [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
 7. [Processes](https://en.wikipedia.org/wiki/Process)
 8. [Recognizing Fallacies](https://en.wikiversity.org/wiki/Recognizing_Fallacies)
+9. [Skillful Reasoning](http://www.skillfulreasoning.com/)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 

@@ -77,6 +77,13 @@
 60. [Morality and Cognitive Science](https://iep.utm.edu/m-cog-sc/)
 61. [Moral Imagination](https://ethicsunwrapped.utexas.edu/glossary/moral-imagination)
 62. [Just World Hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
+63. [Principia_Ethica](https://en.wikipedia.org/wiki/Principia_Ethica)
+64. [Humes Moral Philosophy](https://plato.stanford.edu/entries/hume-moral/)
+	* [An_Enquiry_Concerning_Human_Understanding](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding)
+	* [A_Treatise_of_Human_Nature](https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature)
+	* [An_Enquiry_Concerning_the_Principles_of_Morals](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_the_Principles_of_Morals)
+	* [Kant and Hume on Morality](https://plato.stanford.edu/entries/kant-hume-morality/)
+65. [Moral Reasoning](https://plato.stanford.edu/entries/reasoning-moral/)
 
 ## People
 
@@ -101,3 +108,4 @@
 19. [Paul Ricœur](https://en.wikipedia.org/wiki/Paul_Ric%C5%93ur)
 20. [Mark Johnson](https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher))
 21. [Bernard Williams](https://plato.stanford.edu/entries/williams-bernard/)
+22. [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
