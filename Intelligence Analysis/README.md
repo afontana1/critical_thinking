@@ -7,3 +7,4 @@
 3. [Cognition](https://en.wikipedia.org/wiki/Category:Cognition)
 4. [Mind](https://en.wikipedia.org/wiki/Category:Mind)
 5. [Outline of Intelligence](https://en.wikipedia.org/wiki/Outline_of_human_intelligence)
+6. [Decision Theory](https://plato.stanford.edu/entries/decision-theory/)

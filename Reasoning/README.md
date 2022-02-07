@@ -35,6 +35,7 @@
 20. [Causal Inference](https://en.wikipedia.org/wiki/Category:Causal_inference)
 21. [Explanation](https://en.wikipedia.org/wiki/Explanation)
 22. [Questions](https://plato.stanford.edu/entries/questions/)
+23. [Practical Reason](https://plato.stanford.edu/entries/practical-reason/)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 

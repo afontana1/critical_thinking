@@ -158,6 +158,8 @@
 102. [Implicature](https://plato.stanford.edu/entries/implicature/)
 103. [Mental Causation](https://plato.stanford.edu/entries/mental-causation/)
 104. [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/)
+105. [Rationalism](https://en.wikipedia.org/wiki/Rationalism)
+106. [Bounded Rationality](https://en.wikipedia.org/wiki/Bounded_rationality)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
