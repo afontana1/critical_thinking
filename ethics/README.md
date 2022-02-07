@@ -4,6 +4,7 @@
 2. [Ethics Glossary](https://ethicsunwrapped.utexas.edu/glossary)
 3. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
 4. [Moral Psychology](https://en.wikipedia.org/wiki/Category:Moral_psychology)
+5. [Online Guide to moral and Political Philosophy](http://caae.phil.cmu.edu/Cavalier/80130/index.html)
 
 ## Concepts
 
@@ -84,6 +85,10 @@
 	* [An_Enquiry_Concerning_the_Principles_of_Morals](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_the_Principles_of_Morals)
 	* [Kant and Hume on Morality](https://plato.stanford.edu/entries/kant-hume-morality/)
 65. [Moral Reasoning](https://plato.stanford.edu/entries/reasoning-moral/)
+66. [Moral Foundations Theory](https://en.wikipedia.org/wiki/Moral_foundations_theory)
+	* [website](https://moralfoundations.org/)
+67. [Bentham Utilitarianism](https://plato.stanford.edu/entries/bentham/)
+68. [Mills Moral Philosophy](https://plato.stanford.edu/entries/mill-moral-political/)
 
 ## People
 

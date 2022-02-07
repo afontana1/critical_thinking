@@ -38,6 +38,7 @@
 	- [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
 	- [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
 	- [Constructive Empiricism](https://plato.stanford.edu/entries/constructive-empiricism/)
+	- [Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)

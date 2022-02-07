@@ -136,6 +136,12 @@
 	* [Dan Barker: Best arguments against religion/faith #3](https://www.youtube.com/watch?v=WRv2zTfC_pA)
 	* [Dan Barker: Best arguments against religion/faith #4](https://www.youtube.com/watch?v=NKoaDrJCIQo)
 	* [Dan Barker: Best arguments against religion/faith #5](https://www.youtube.com/watch?v=_PYCzIxvLHI)
+59. [Principle_of_sufficient_reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
+	* [On the Fourfold Root of the Principle of Sufficient Reason](https://en.wikipedia.org/wiki/On_the_Fourfold_Root_of_the_Principle_of_Sufficient_Reason)
+	* [Two Criticisms](https://www.jstor.org/stable/40021074)
+	* [How to Refute](http://cogprints.org/390/1/psrcogprt.htm)
+	* [Discussion](https://philosophy.stackexchange.com/questions/1701/is-there-a-cogent-argument-against-the-principle-of-sufficient-reason)
+	* [Hume Critique](https://plato.stanford.edu/entries/sufficient-reason/#PSREighCentPhilGermIdea)
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
@@ -502,6 +508,7 @@
 6. [Introduction to the Old Testament](https://www.youtube.com/watch?v=mo-YL-lv3RY&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
 7. [Mysteries of the Bible Series](https://www.youtube.com/watch?v=4aIaKilnc8M&list=PLt8g78xI4CClyAgB6Nx8cpc4RWAM_sm2p)
 8. [Michael Sugrue: The Bible and Western Culture](https://www.youtube.com/watch?v=fZVcI94EKQg&list=PLYYQ4XdZeLuAm7D-neqaxHEhWrnOCXdg)
+9. [Paula Fredriksen: Early Christianity](https://www.youtube.com/watch?v=53PDO7OQSTs&list=PLNslttMCi6BWqj_5TiWJ6YLVN0nQqBzti)
 
 ### Atheist / Agnostic
 
@@ -685,3 +692,14 @@
 119. [Response to James Tour: 700 Papers and Still Clueless (Part 1 of 2)](https://www.youtube.com/watch?v=ghJGnMwRHCs) and [Response to James Tour: 700 Papers and Still Clueless (Part 2 of 2)](https://www.youtube.com/watch?v=Jf72o6HmVNk)
 120. [Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)](https://www.youtube.com/watch?v=lbB7AhwaZy8&t=1043s)
 121. [A Discussion on Theism With Blake Giunta](https://www.youtube.com/watch?v=wR1yUlJ9CPg&t=1593s)
+122. [The God of the Bible and the God of the Philosophers - Eleonore Stump](https://www.youtube.com/watch?v=9dysQxxRpLc)
+123. [Closer To Truth - Eleonore Stump Interviews](https://www.youtube.com/watch?v=azvb_P1ymmM&list=PLFJr3pJl27pI42ZODiz2En-hr9PIjibEu)
+124. [Elizabeth Anscombe on Living the Truth](https://www.youtube.com/watch?v=a3HbMAgcOvY)
+125. [Living the Truth - On the Relevance of Elizabeth Anscombe's Thought Today](https://www.youtube.com/watch?v=wOvuSZkf0vE)
+126. [The Bible and Plagiarism: Repurposing the Stories of Old](https://www.youtube.com/watch?v=vnjBgMgR2F8&t=903s)
+127. [Greek Philosophy and Early Christianity with Pierre Grimes](https://www.youtube.com/watch?v=zR8Rve_Fy3c)
+128. [Meister Eckhart & Christian Mysticism](https://www.youtube.com/watch?v=Hg0c32KbA-g)
+129. [What is Hesychasm? - Mystical Practice in Orthodox Christianity](https://www.youtube.com/watch?v=rVxQDcOgU4I)
+130. [Philosophy and Theology with Pierre Grimes](https://www.youtube.com/watch?v=R9ZChhvSrVM)
+131. [What Is The Russian Orthodox Church? | BBC Religion Documentary | Timeline](https://www.youtube.com/watch?v=eCTZr84duls)
+132. [When Does Christianity Begin? Prof. Paula Fredrikson](https://www.youtube.com/watch?v=pxwQmmx-yb4)
