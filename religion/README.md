@@ -456,37 +456,6 @@
 3. [Neurotheology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968360/)
 4. [Cognitive Science](https://thepsychologist.bps.org.uk/volume-24/edition-4/cognitive-science-religion)
 
-## Violence
-
-- [People Executed for Heresy](https://en.wikipedia.org/wiki/Category:People_executed_for_heresy)
-- [List of People Burned as Heretics](https://en.wikipedia.org/wiki/List_of_people_burned_as_heretics)
-- [Killing Atheists](https://www.psychologytoday.com/us/blog/the-secular-life/201606/killing-atheists)
-
-1. [Short list of Atrocities](https://churchandstate.org.uk/2016/03/the-right-wing-doesnt-want-to-talk-about-christian-atrocities-so-lets-talk-about-christian-atrocities/)
-2. [Boston Martyrs](https://en.wikipedia.org/wiki/Boston_martyrs)
-3. [Gott Mit Uns](https://en.wikipedia.org/wiki/Gott_mit_uns)
-4. [Pogrom](https://en.wikipedia.org/wiki/Pogrom)
-5. [In the Name of the Father? Christian Militantism in Tripura, Northern Uganda, and Ambon](https://www.tandfonline.com/doi/abs/10.1080/10576100701611288?journalCode=uter20)
-6. [Christian Terrorism](https://en.wikipedia.org/wiki/Christian_terrorism)
-7. [Army of God](https://en.wikipedia.org/wiki/Army_of_God_(United_States))
-8. [Anti Abortion Violence](https://en.wikipedia.org/wiki/Anti-abortion_violence)
-9. [Christian Identity](https://en.wikipedia.org/wiki/Christian_Identity) [movement](https://www.britannica.com/topic/Christian-Identity)
-10. [Christianity and Antisemitism](https://en.wikipedia.org/wiki/Category:Christianity_and_antisemitism)
-11. [Spencer Ackerman](https://lithub.com/the-white-christian-nationalism-behind-the-worst-terrorist-attack-in-american-history/)
-12. [Sectarian Violence among Christians](https://en.wikipedia.org/wiki/Sectarian_violence_among_Christians)
-13. [The Troubles](https://en.wikipedia.org/wiki/The_Troubles)
-14. [Circassian_genocide](https://en.wikipedia.org/wiki/Circassian_genocide)
-15. [Clerical Fascism](https://en.wikipedia.org/wiki/Clerical_fascism)
-16. [Mormonism and Violence](https://en.wikipedia.org/wiki/Mormonism_and_violence)
-17. [Persecution_of_Christians_by_Christians](https://en.wikipedia.org/wiki/Persecution_of_Christians_by_Christians)
-18. [History_of_Christian_thought_on_persecution_and_tolerance](https://en.wikipedia.org/wiki/History_of_Christian_thought_on_persecution_and_tolerance)
-19. [Inquisition](https://en.wikipedia.org/wiki/Inquisition)
-20. [The Bible and Violence](https://en.wikipedia.org/wiki/The_Bible_and_violence)
-21. [KKK](https://en.wikipedia.org/wiki/Ku_Klux_Klan)
-22. [Manifest Destiny](http://nationalhumanitiescenter.org/tserve/nineteen/nkeyinfo/mandestiny.htm) and [Impact on Natives](http://projects.leadr.msu.edu/youngamerica/exhibits/show/native-american-religion/the-manifest-destiny)
-	* [Settlement to Manifest Destiny](https://www.americanforeignrelations.com/O-W/Religion-From-european-settlement-to-manifest-destiny.html)
-	* [In depth](https://en.wikipedia.org/wiki/Manifest_destiny)
-
 ## Videos
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
 2. [Religious History Documentaries](https://www.youtube.com/channel/UCtqAF8FSQIIq-vBLKtgLH_w)
