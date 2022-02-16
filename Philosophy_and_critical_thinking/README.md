@@ -160,6 +160,10 @@
 104. [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/)
 105. [Rationalism](https://en.wikipedia.org/wiki/Rationalism)
 106. [Bounded Rationality](https://en.wikipedia.org/wiki/Bounded_rationality)
+107. [Chinese Room](https://en.wikipedia.org/wiki/Chinese_room)
+108. [Propositional](https://iep.utm.edu/prop-ati/) [Attitude](https://en.wikipedia.org/wiki/Propositional_attitude)
+109. [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
+110. [Sense and Reference](https://en.wikipedia.org/wiki/Sense_and_reference)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -206,7 +210,7 @@
 27. [Anaxagoras](https://plato.stanford.edu/entries/anaxagoras/)
 28. [Aristippus](https://en.wikipedia.org/wiki/Aristippus)
 29. [Hypatia](https://en.wikipedia.org/wiki/Hypatia)
-30. [Epicurus](https://en.wikipedia.org/wiki/Epicurus)
+30. [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
 31. [Diagoras of Melos](https://en.wikipedia.org/wiki/Diagoras_of_Melos)
 32. [Theodorus of Cyrene](https://en.wikipedia.org/wiki/Theodorus_of_Cyrene)
 33. [Archytas](https://en.wikipedia.org/wiki/Archytas)
@@ -298,12 +302,15 @@
 
 1. [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
 2. [Arthur_Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
-3. [Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill)
-4. [Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham)
+3. [Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl)
+4. [Marx](https://en.wikipedia.org/wiki/Karl_Marx)
 5. [Friedrich_Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 6. [Frege](https://en.wikipedia.org/wiki/Gottlob_Frege)
 7. [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 8. [Ludwig Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
+9. [Schutz](https://en.wikipedia.org/wiki/Alfred_Sch%C3%BCtz)
+10. [Kierkegaard)](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
+11. [Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)
 
 ### 19th Century
 

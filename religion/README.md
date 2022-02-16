@@ -217,6 +217,7 @@
 70. [Anti Clericalism](https://en.wikipedia.org/wiki/Anti-clericalism)
 71. [Rigveda](https://en.wikipedia.org/wiki/Rigveda)
 72. [Kants Philosophy of Religion](https://plato.stanford.edu/entries/kant-religion/)
+73. [Belief in Vs Belief That](https://www.giffordlectures.org/books/belief/lecture-9-belief-%E2%80%98in%E2%80%99-and-belief-%E2%80%98that%E2%80%99-1)
 
 ## [History of Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
 1. [Christian_denominational_families](https://en.wikipedia.org/wiki/Category:Christian_denominational_families)
