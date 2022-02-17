@@ -479,6 +479,7 @@
 7. [Mysteries of the Bible Series](https://www.youtube.com/watch?v=4aIaKilnc8M&list=PLt8g78xI4CClyAgB6Nx8cpc4RWAM_sm2p)
 8. [Michael Sugrue: The Bible and Western Culture](https://www.youtube.com/watch?v=fZVcI94EKQg&list=PLYYQ4XdZeLuAm7D-neqaxHEhWrnOCXdg)
 9. [Paula Fredriksen: Early Christianity](https://www.youtube.com/watch?v=53PDO7OQSTs&list=PLNslttMCi6BWqj_5TiWJ6YLVN0nQqBzti)
+10. [Christianity & Platonism](https://www.youtube.com/watch?v=y32kGGlGQac&list=PLkrkT-0Dit2m26P8m3iz3uYZBcy9pvd4r)
 
 ### Atheist / Agnostic
 
@@ -673,3 +674,10 @@
 130. [Philosophy and Theology with Pierre Grimes](https://www.youtube.com/watch?v=R9ZChhvSrVM)
 131. [What Is The Russian Orthodox Church? | BBC Religion Documentary | Timeline](https://www.youtube.com/watch?v=eCTZr84duls)
 132. [When Does Christianity Begin? Prof. Paula Fredrikson](https://www.youtube.com/watch?v=pxwQmmx-yb4)
+133. [Philosophy and Theology with Pierre Grimes](https://www.youtube.com/watch?v=R9ZChhvSrVM)
+134. [036 Why Thinking Christians should become Platonists (1996-10-07)](https://www.youtube.com/watch?v=FV5LO8uQLMo)
+135. [Understanding NeoPlatonism with Pierre Grimes](https://www.youtube.com/watch?v=LU3ghshXPg8&t=22s)
+136. [Philosophical Dialogue with Pierre Grimes](https://www.youtube.com/watch?v=XhLSKnGr9bw)
+137. [1997-12-23 NSPRS 081 - An Exploration of the Gospel of Mark](https://www.youtube.com/watch?v=ucG6w5aL0ow)
+138. [1996-11-25 NSPRS 042 - The Religion of No Religion](https://www.youtube.com/watch?v=o9CyWD_ZsfU)
+139. [1996-10-28 NSPRS 039 - Our Cultural War Against Our Spiritual Roots](https://www.youtube.com/watch?v=svoQK3yDnHc)
