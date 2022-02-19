@@ -164,6 +164,7 @@
 108. [Propositional](https://iep.utm.edu/prop-ati/) [Attitude](https://en.wikipedia.org/wiki/Propositional_attitude)
 109. [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
 110. [Sense and Reference](https://en.wikipedia.org/wiki/Sense_and_reference)
+111. [Essentialism](https://en.wikipedia.org/wiki/Essentialism)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -370,3 +371,4 @@
 28. [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
 29. [Hannah Arendt](https://plato.stanford.edu/entries/arendt/)
 30. [Kenneth Burke](https://en.wikipedia.org/wiki/Kenneth_Burke)
+31. [Rebecca Goldstein](https://en.wikipedia.org/wiki/Rebecca_Goldstein)

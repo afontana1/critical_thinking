@@ -55,6 +55,7 @@
 39. [Defensive Attribution Hypothesis](https://en.wikipedia.org/wiki/Defensive_attribution_hypothesis)
 40. [Self Serving Bias](https://en.wikipedia.org/wiki/Self-serving_bias)
 41. [Category Mistakes](https://plato.stanford.edu/entries/category-mistakes/)
+42. [Essentialism Bias](https://en.shortcogs.com/bias/essentialism-bias)
 
 ## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 
