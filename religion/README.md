@@ -16,8 +16,7 @@
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
 
-- [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God)
-- [Existence Arguments](https://rationalwiki.org/wiki/Category:Existence_of_gods)
+- [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
 
 1. [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
 	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/teleological-argument-criticisms/)
@@ -335,7 +334,6 @@
 26. [What Can We Learn from Alternative Gods? | Episode 1310 | Closer To Truth](https://www.youtube.com/watch?v=xUQPq8rL7EU)
 
 ### [Agnosticism](https://www.youtube.com/watch?v=C5Cc8KhDAM0&t=21s)
-
 1. [Majesty of Reason: Why Am I Agnostic?](https://www.youtube.com/watch?v=YTsSW7UeZpY)
 2. [John Searle - Arguments for Agnosticism?](https://www.youtube.com/watch?v=JT2O81SIVbY)
 3. [Leonard Susskind - Arguments for Agnosticism?](https://www.youtube.com/watch?v=eeIxHqtB_B8)
@@ -399,6 +397,7 @@
 17. [Timothy O'Connor](https://www.closertotruth.com/contributor/timothy-oconnor/profile)
 	* [Articles](https://toconnor.org/articles/)
 18. [Pietro Pomponazzi](https://plato.stanford.edu/entries/pomponazzi/)
+19. [Kevin Hector](https://divinity.uchicago.edu/directory/kevin-hector)
 
 ## [Atheist/Agnostic Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 
@@ -456,6 +455,7 @@
 45. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
 46. [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
 47. [JL Schellenberg](https://en.wikipedia.org/wiki/J._L._Schellenberg)
+48. [Ludwig Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
 
 ## Videos
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
@@ -483,9 +483,6 @@
 10. [Christianity & Platonism](https://www.youtube.com/watch?v=y32kGGlGQac&list=PLkrkT-0Dit2m26P8m3iz3uYZBcy9pvd4r)
 
 ### Atheist / Agnostic
-
-- * [Skeptical Channels](https://www.youtube.com/watch?v=W9XryKMRATE&list=PLpdBEstCHhmUsC_4OTzGxYrfrXr2bTrw2)
-
 1. [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)
 2. [CosmikSkeptic](https://www.youtube.com/user/alexjoconnor)
 3. [Genetically Modified Skeptic](https://www.youtube.com/channel/UCG1uayRlzz3ahT8ISRdyw7Q)
@@ -703,3 +700,5 @@
 158. [The Bible: Gospel, Guide, or Garbage? NT Wright and Sean Kelly at Harvard University](https://www.youtube.com/watch?v=CTpgvI_vUjc)
 159. [Paul and Augustine on the Redemption of the Jews](https://www.youtube.com/watch?v=s9NBIhdFkpU)
 160. [The Birth of Jesus in History & Legend (Bart Ehrman)](https://www.youtube.com/watch?v=mj4_1X8bRIE)
+161. [Philosophy and Theology: How Are they Different—and Related?](https://www.youtube.com/watch?v=WvcjppE017A)
+162. [The Relationship of Philosophy to Theology](https://www.youtube.com/watch?v=W-mEctdrdVE)
