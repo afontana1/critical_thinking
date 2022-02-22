@@ -165,6 +165,7 @@
 109. [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
 110. [Sense and Reference](https://en.wikipedia.org/wiki/Sense_and_reference)
 111. [Essentialism](https://en.wikipedia.org/wiki/Essentialism)
+112. [Hegelian Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) and [Dialectical Forms](https://en.wikipedia.org/wiki/Dialectic)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 

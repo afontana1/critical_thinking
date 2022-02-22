@@ -1,13 +1,18 @@
 # [Philosophy of Religion](https://en.wikipedia.org/wiki/Category:Philosophy_of_religion) and [Belief](https://en.wikipedia.org/wiki/Category:Belief)
 
 1. [Catholic Encyclopedia](https://www.newadvent.org/cathen/)
-2. [Aristotelian Thomism](http://www.u.arizona.edu/~aversa/scholastic/)
+2. [Psychology of Religion](https://en.wikipedia.org/wiki/Category:Psychology_of_religion)
 3. [List of Philosophers of Religion](https://en.wikipedia.org/wiki/Category:Philosophers_of_religion)
-4. [Faith](https://plato.stanford.edu/entries/faith/)
+4. [Anthropology of Religion](https://en.wikipedia.org/wiki/Category:Anthropology_of_religion)
 5. [Closer to Truth](https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ)
 6. [Religion](https://en.wikipedia.org/wiki/Religion)
-7. [Comparative Religion](https://en.wikipedia.org/wiki/Comparative_religion)
+7. [Comparative Religion](https://en.wikipedia.org/wiki/Category:Comparative_religion)
 8. [Apologetics and Counter-Apologetics](https://rationalwiki.org/wiki/Category:Apologetics_and_counter-apologetics)
+9. [History of Religion](https://en.wikipedia.org/wiki/Category:History_of_religion)
+10. [Sociology of Religion](https://en.wikipedia.org/wiki/Category:Sociology_of_religion)
+11. [Cognitive Science of Religion](https://en.wikipedia.org/wiki/Cognitive_science_of_religion)
+12. [Neuroscience of Religion](https://en.wikipedia.org/wiki/Neuroscience_of_religion)
+13. [Neurotheology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968360/)
 
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
 
@@ -450,13 +455,6 @@
 45. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
 46. [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
 47. [JL Schellenberg](https://en.wikipedia.org/wiki/J._L._Schellenberg)
-
-## [Cognitive Science of Religion](https://en.wikipedia.org/wiki/Cognitive_science_of_religion)
-
-1. [J Anderson Thomson](https://en.wikipedia.org/wiki/J._Anderson_Thomson)
-2. [Neuroscience of Religion](https://en.wikipedia.org/wiki/Neuroscience_of_religion)
-3. [Neurotheology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968360/)
-4. [Cognitive Science](https://thepsychologist.bps.org.uk/volume-24/edition-4/cognitive-science-religion)
 
 ## Videos
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
