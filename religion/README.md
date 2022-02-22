@@ -224,6 +224,7 @@
 72. [Kants Philosophy of Religion](https://plato.stanford.edu/entries/kant-religion/)
 73. [Belief in Vs Belief That](https://www.giffordlectures.org/books/belief/lecture-9-belief-%E2%80%98in%E2%80%99-and-belief-%E2%80%98that%E2%80%99-1)
 74. [Original Sin](https://en.wikipedia.org/wiki/Original_sin)
+75. [Religious Language](https://plato.stanford.edu/entries/religious-language/)
 
 ## [History of Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
 1. [Christian_denominational_families](https://en.wikipedia.org/wiki/Category:Christian_denominational_families)
@@ -467,6 +468,7 @@
 9. [Debunks/Discussions/Debates](https://www.youtube.com/playlist?list=PLybg94GvOJ9GEuq4mp9ruJpj-rjKQ_a6E)
 10. [Big Questions About God - Closer To Truth - Core Topic](https://www.youtube.com/playlist?list=PLFJr3pJl27pKyjextCjGsYzvrMvWCj4tX)
 11. [Why People Make Fun of Creationists](https://www.youtube.com/playlist?list=PLAC3481305829426D)
+12. [Religious Epistemology Conference, Royal Institute of Philosophy 2015](https://www.youtube.com/playlist?list=PLqK-cZS_wviDbx7kn8kXG_02gk41wq-Rq)
 
 ### Abrahamic
 1. [Bible as Literature Pt. 1](https://www.youtube.com/watch?v=vL3oPpBEJ0w&list=PLKjwFyELc2SlZf-SMdial4wEVX-QZJxhu)
@@ -695,3 +697,9 @@
 152. [David Berlinski—Atheism and its Scientific Pretensions](https://www.youtube.com/watch?v=FyxUwaq00Rc)
 153. [Daniel Dennett: What can cognitive science tell us about free will?](https://www.youtube.com/watch?v=H8y05mEbFOc)
 154. [Peter J Williams & Bart Ehrman • The story of Jesus: Are the Gospels historically reliable?](https://www.youtube.com/watch?v=ZuZPPGvF_2I)
+155. [David Sloan Wilson on Religion and Other Meaning Systems](https://www.youtube.com/watch?v=-mNghtaLqg4&t=1593s)
+156. [Duncan Pritchard: Wittgenstein on Faith and Reason (Royal Institute of Philosophy)](https://www.youtube.com/watch?v=x0j3uoH_-A8)
+157. [Living Well in the Light of Death - NT Wright and Shelly Kagan at Yale](https://www.youtube.com/watch?v=c4uEEpd3vEc&t=871s)
+158. [The Bible: Gospel, Guide, or Garbage? NT Wright and Sean Kelly at Harvard University](https://www.youtube.com/watch?v=CTpgvI_vUjc)
+159. [Paul and Augustine on the Redemption of the Jews](https://www.youtube.com/watch?v=s9NBIhdFkpU)
+160. [The Birth of Jesus in History & Legend (Bart Ehrman)](https://www.youtube.com/watch?v=mj4_1X8bRIE)
