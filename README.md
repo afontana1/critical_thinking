@@ -77,6 +77,12 @@
 16. [Verbal Fallacies](https://en.wikipedia.org/wiki/Category:Verbal_fallacies)
 17. [Synechdoche](https://en.wikipedia.org/wiki/Synecdoche)
 18. [Metonymy](https://en.wikipedia.org/wiki/Metonymy)
+19. [Allegory](https://en.wikipedia.org/wiki/Category:Allegory)
+20. [Persuasion Techniques](https://en.wikipedia.org/wiki/Category:Persuasion_techniques)
+21. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)
+22. [Literary Theory](https://en.wikipedia.org/wiki/Category:Literary_theory)
+23. [Literary Criticism](https://en.wikipedia.org/wiki/Category:Literary_criticism)
+24. [Ambiguity](https://en.wikipedia.org/wiki/Category:Ambiguity)
 
 ## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
 

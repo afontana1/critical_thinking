@@ -17,7 +17,7 @@
 9. [Thomas Gordon](https://www.researchgate.net/profile/Thomas-Gordon-4)
 10. [John Pollock](https://johnpollock.us/ftp/publications.html)
 
-## [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning), [Inference](https://en.wikipedia.org/wiki/Category:Inference) & [Definition](https://en.wikipedia.org/wiki/Category:Definition)
+## [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning), [Inference](https://en.wikipedia.org/wiki/Category:Inference) & [Definition](https://en.wikipedia.org/wiki/Category:Definition), and [Interpretation](https://en.wikipedia.org/wiki/Interpretation)
 
 1. [Argumenation Theory](https://en.wikipedia.org/wiki/Argumentation_theory)
 2. [Deductive Reasoning](https://en.wikipedia.org/wiki/Category:Deductive_reasoning)
@@ -42,6 +42,8 @@
 21. [Explanation](https://en.wikipedia.org/wiki/Explanation)
 22. [Questions](https://plato.stanford.edu/entries/questions/)
 23. [Practical Reason](https://plato.stanford.edu/entries/practical-reason/)
+24. [Legal Reasoning](https://en.wikipedia.org/wiki/Category:Legal_reasoning)
+25. [Statutory Interpretation](https://en.wikipedia.org/wiki/Statutory_interpretation)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 

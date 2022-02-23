@@ -332,6 +332,7 @@
 24. [Can Many Religions All Be True? | Episode 307 | Closer To Truth](https://www.youtube.com/watch?v=slBbRBhI850)
 25. [Can the Divine be a Person? | Episode 1305 | Closer To Truth](https://www.youtube.com/watch?v=I77Bc_bLFW0)
 26. [What Can We Learn from Alternative Gods? | Episode 1310 | Closer To Truth](https://www.youtube.com/watch?v=xUQPq8rL7EU)
+27. [Perfect Being Theology](https://www.closertotruth.com/series/what-perfect-being-theology)
 
 ### [Agnosticism](https://www.youtube.com/watch?v=C5Cc8KhDAM0&t=21s)
 1. [Majesty of Reason: Why Am I Agnostic?](https://www.youtube.com/watch?v=YTsSW7UeZpY)
@@ -398,6 +399,7 @@
 	* [Articles](https://toconnor.org/articles/)
 18. [Pietro Pomponazzi](https://plato.stanford.edu/entries/pomponazzi/)
 19. [Kevin Hector](https://divinity.uchicago.edu/directory/kevin-hector)
+20. [NT Wright](https://en.wikipedia.org/wiki/N._T._Wright)
 
 ## [Atheist/Agnostic Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 

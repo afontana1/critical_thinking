@@ -18,6 +18,7 @@
 8. [Nihilism](https://en.wikipedia.org/wiki/Category:Nihilism)
 9. [Computational Philosophy](https://plato.stanford.edu/entries/computational-philosophy/)
 10. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
+11. [Philosophical Interpretation](https://en.wikipedia.org/wiki/Category:Interpretation_(philosophy))
 
 ## Categories
 
@@ -44,10 +45,14 @@
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
 3. [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)
 4. [Philosophy of Language](https://en.wikipedia.org/wiki/Category:Philosophy_of_language)
+	- [Meaning](https://en.wikipedia.org/wiki/Category:Meaning_(philosophy_of_language))
+	- [Formal Semantics](https://en.wikipedia.org/wiki/Category:Formal_semantics_(natural_language))
+	- [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 5. [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science)
 6. [Pragmaticism](https://en.wikipedia.org/wiki/Pragmaticism)
 7. [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
 8. [Philosophy of Science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
+9. [Linguistic Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
 
 ## List of Concepts
 
