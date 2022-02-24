@@ -151,7 +151,6 @@
 	* [Discussion](https://philosophy.stackexchange.com/questions/1701/is-there-a-cogent-argument-against-the-principle-of-sufficient-reason)
 	* [Hume Critique](https://plato.stanford.edu/entries/sufficient-reason/#PSREighCentPhilGermIdea)
 60. [Arguing God from Design | Episode 109 | Closer To Truth](https://www.youtube.com/watch?v=gTuIoiDm7Rw)
-61. 
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
@@ -495,6 +494,7 @@
 10. [Big Questions About God - Closer To Truth - Core Topic](https://www.youtube.com/playlist?list=PLFJr3pJl27pKyjextCjGsYzvrMvWCj4tX)
 11. [Why People Make Fun of Creationists](https://www.youtube.com/playlist?list=PLAC3481305829426D)
 12. [Religious Epistemology Conference, Royal Institute of Philosophy 2015](https://www.youtube.com/playlist?list=PLqK-cZS_wviDbx7kn8kXG_02gk41wq-Rq)
+13. [Nanak Naam](https://www.youtube.com/channel/UCevfxDIvmjSkE9KIwlf6-MQ)
 
 ### Abrahamic
 1. [Bible as Literature Pt. 1](https://www.youtube.com/watch?v=vL3oPpBEJ0w&list=PLKjwFyELc2SlZf-SMdial4wEVX-QZJxhu)
