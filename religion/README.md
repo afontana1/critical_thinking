@@ -403,6 +403,12 @@
 54. [How do Brains Work? | Episode 1106 | Closer To Truth](https://www.youtube.com/watch?v=wsTjWPaMIS8)
 55. [When Brains Go Bad? | Episode 1601 | Closer To Truth](https://www.youtube.com/watch?v=gAXiq31HE_I)
 56. [How Could God Know the Future? | Episode 301 | Closer To Truth](https://www.youtube.com/watch?v=G_frmDw3rXc)
+57. [How Could God Interact with the World? | Episode 212 | Closer To Truth](https://www.youtube.com/watch?v=o192JEmSlGE)
+58. [What's Philosophy of Cosmology? | Episode 1901 | Closer To Truth](https://www.youtube.com/watch?v=OF2U4V-ayAU)
+59. [Why Science and Religion Think Differently | Episode 1007 | Closer To Truth](https://www.youtube.com/watch?v=1fqSNus1s2E&t=57s)
+60. [Are Science & Religion at War? | Episode 611 | Closer To Truth](https://www.youtube.com/watch?v=zyKnNQaEGSE)
+61. [Critical Realism in Science and Religion? | Episode 1802 | Closer To Truth](https://www.youtube.com/watch?v=yRJmd6pWgl4&t=460s)
+62. [What is Analytic Theology? | Episode 1808 | Closer To Truth](https://www.youtube.com/watch?v=eyUNmkT5bzU)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
