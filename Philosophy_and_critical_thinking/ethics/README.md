@@ -89,6 +89,14 @@
 	* [website](https://moralfoundations.org/)
 67. [Bentham Utilitarianism](https://plato.stanford.edu/entries/bentham/)
 68. [Mills Moral Philosophy](https://plato.stanford.edu/entries/mill-moral-political/)
+69. [Deweys Moral Philosophy](https://plato.stanford.edu/entries/dewey-moral/)
+70. [Wiliam James Moral Philosophy](https://en.wikipedia.org/wiki/The_Moral_Philosopher_and_the_Moral_Life)
+	- [Ethical Naturalism](https://williamjamesstudies.org/ethical-naturalism-and-religious-ethics-in-the-moral-philosopher-and-the-moral-life/)
+	- [Moral Objectivity](https://williamjamesstudies.org/william-james-and-moral-objectivity/)
+71. [Original Position](https://plato.stanford.edu/entries/original-position/)
+72. [Moral Luck](https://plato.stanford.edu/entries/moral-luck/)
+73. [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/)
+74. [Bernard Williams on Morality](https://www.britannica.com/biography/Bernard-Williams/Morality-and-the-limits-of-objectivity)
 
 ## People
 
@@ -114,3 +122,4 @@
 20. [Mark Johnson](https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher))
 21. [Bernard Williams](https://plato.stanford.edu/entries/williams-bernard/)
 22. [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
+23. [Christine_Korsgaard](https://en.wikipedia.org/wiki/Christine_Korsgaard)

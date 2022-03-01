@@ -40,6 +40,7 @@
 	- [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
 	- [Constructive Empiricism](https://plato.stanford.edu/entries/constructive-empiricism/)
 	- [Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
+	- [Fallibilism](https://en.wikipedia.org/wiki/Fallibilism)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
@@ -142,7 +143,12 @@
 81. [Action Theory](https://plato.stanford.edu/entries/action/)
 82. [Thought Experiment](https://en.wikipedia.org/wiki/Thought_experiment)
 83. [Hermeneutics](https://plato.stanford.edu/entries/hermeneutics/)
-84. [Free](https://en.wikipedia.org/wiki/Category:Free_will) [Will](https://plato.stanford.edu/entries/freewill/), [Indeterminism](https://en.wikipedia.org/wiki/Indeterminism), [Randomness](https://en.wikipedia.org/wiki/Category:Randomness), [Determinism](https://en.wikipedia.org/wiki/Category:Determinism), and [ncompatibilism Theories](https://plato.stanford.edu/entries/incompatibilism-theories/)
+84. [Free](https://en.wikipedia.org/wiki/Category:Free_will) [Will](https://plato.stanford.edu/entries/freewill/)
+	- [Indeterminism](https://en.wikipedia.org/wiki/Indeterminism)
+	- [Randomness](https://en.wikipedia.org/wiki/Category:Randomness)
+	- [Determinism](https://en.wikipedia.org/wiki/Category:Determinism)
+	- [Incompatibilism Theories](https://plato.stanford.edu/entries/incompatibilism-theories/)
+	- [Compatibalism](https://plato.stanford.edu/entries/compatibilism/)
 85. [Hypothetical Impertive](https://en.wikipedia.org/wiki/Hypothetical_imperative)
 86. [Categorical Imperitive](https://en.wikipedia.org/wiki/Categorical_imperative)
 87. [Sophisttry](https://en.wikipedia.org/wiki/Sophist)
@@ -171,6 +177,7 @@
 110. [Sense and Reference](https://en.wikipedia.org/wiki/Sense_and_reference)
 111. [Essentialism](https://en.wikipedia.org/wiki/Essentialism)
 112. [Hegelian Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) and [Dialectical Forms](https://en.wikipedia.org/wiki/Dialectic)
+113. [Panpsychism](https://plato.stanford.edu/entries/panpsychism/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -249,6 +256,7 @@
 	- [Laozi](https://en.wikipedia.org/wiki/Laozi)
 7. [School of Diplomacy](https://en.wikipedia.org/wiki/School_of_Diplomacy)
 8. [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu)
+9. [Xunzi](https://plato.stanford.edu/entries/xunzi/)
 
 ### Ancient Indian Philosophy
 

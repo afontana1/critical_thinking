@@ -151,6 +151,8 @@
 	* [Discussion](https://philosophy.stackexchange.com/questions/1701/is-there-a-cogent-argument-against-the-principle-of-sufficient-reason)
 	* [Hume Critique](https://plato.stanford.edu/entries/sufficient-reason/#PSREighCentPhilGermIdea)
 60. [Arguing God from Design | Episode 109 | Closer To Truth](https://www.youtube.com/watch?v=gTuIoiDm7Rw)
+61. [Argument from Free Will](https://en.wikipedia.org/wiki/Argument_from_free_will)
+62. [Absence of Good](https://en.wikipedia.org/wiki/Absence_of_good)
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
@@ -229,6 +231,7 @@
 73. [Belief in Vs Belief That](https://www.giffordlectures.org/books/belief/lecture-9-belief-%E2%80%98in%E2%80%99-and-belief-%E2%80%98that%E2%80%99-1)
 74. [Original Sin](https://en.wikipedia.org/wiki/Original_sin)
 75. [Religious Language](https://plato.stanford.edu/entries/religious-language/)
+76. [Lewis Trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma)
 
 ## [History of Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
 1. [Christian_denominational_families](https://en.wikipedia.org/wiki/Category:Christian_denominational_families)
@@ -481,6 +484,8 @@
 46. [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
 47. [JL Schellenberg](https://en.wikipedia.org/wiki/J._L._Schellenberg)
 48. [Ludwig Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
+49. [Charvaka](https://en.wikipedia.org/wiki/Charvaka)
+50. [Voltaire](https://plato.stanford.edu/entries/voltaire/)
 
 ## Videos
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)

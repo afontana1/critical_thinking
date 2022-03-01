@@ -56,6 +56,7 @@
 40. [Self Serving Bias](https://en.wikipedia.org/wiki/Self-serving_bias)
 41. [Category Mistakes](https://plato.stanford.edu/entries/category-mistakes/)
 42. [Essentialism Bias](https://en.shortcogs.com/bias/essentialism-bias)
+43. [Self Refuting Idea](https://en.wikipedia.org/wiki/Self-refuting_idea)
 
 ## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 
