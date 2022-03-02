@@ -17,6 +17,8 @@
 ## [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
 
 - [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
+- [Ontroduction to Argument Styles](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-for-the-existence-of-god-overview/)
+- [Outline of Common Arguments](https://www.newworldencyclopedia.org/entry/God,_Arguments_for_the_Existence_of)
 
 1. [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
 	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/teleological-argument-criticisms/)
@@ -40,7 +42,7 @@
 13. [Argument from Reason](https://en.wikipedia.org/wiki/Argument_from_reason)
 	* [Anscombe Debate about Naturalism](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
 	* [DEBATE: The Argument for God From Reason • Cosmic Skeptic vs Max Baker-Hytch](https://www.youtube.com/watch?v=kI)
-14. [Argument from Non-Belief](https://en.wikipedia.org/wiki/Argument_from_nonbelief)
+14. [Argument from Non-Belief](https://en.wikipedia.org/wiki/Argument_from_nonbelief) and [Divine Hiddenness](https://plato.stanford.edu/entries/divine-hiddenness/)
 15. [Why Is There Anything At All](https://en.wikipedia.org/wiki/Why_there_is_anything_at_all)
 	* [Why Anything at All? | Episode 1213 | Closer To Truth](https://www.youtube.com/watch?v=tgU49k1d7TE)
 	* [Why Anything At All II? | Episode 1907 | Closer To Truth](https://www.youtube.com/watch?v=jfrZqktvxQU)
@@ -71,7 +73,9 @@
 	* [Théodicée](https://en.wikipedia.org/wiki/Th%C3%A9odic%C3%A9e)
 	* [Is God Responsible for Evil? | Episode 1402 | Closer To Truth](https://www.youtube.com/watch?v=UDTwSiBlIhw)
 	* [Can God Face Up To Evil? | Episode 1009 | Closer To Truth](https://www.youtube.com/watch?v=16Fz42sFAcg)
-	* [Did God Create Evil? | Episode 408 | Closer To Truth](https://www.youtube.com/watch?v=gMoyHuUsKiY))
+	* [Did God Create Evil? | Episode 408 | Closer To Truth](https://www.youtube.com/watch?v=gMoyHuUsKiY)
+	* [Logical Problem of Evil](https://iep.utm.edu/evil-log/)
+	* [Evidential Argument of Evil](https://iep.utm.edu/evil-evi/)
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
 	* [Overview](https://www.qcc.cuny.edu/socialsciences/ppecorino/intro_text/Chapter%203%20Religion/Cosmological.htm)
@@ -153,6 +157,13 @@
 60. [Arguing God from Design | Episode 109 | Closer To Truth](https://www.youtube.com/watch?v=gTuIoiDm7Rw)
 61. [Argument from Free Will](https://en.wikipedia.org/wiki/Argument_from_free_will)
 62. [Absence of Good](https://en.wikipedia.org/wiki/Absence_of_good)
+63. [Non Standard Arguments for Existence and Critical Questions](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
+64. [Reasons not to Believe](https://press.rebus.community/intro-to-phil-of-religion/chapter/reasons-not-to-believe/)
+65. [Debunking Arguments Against Theistic Belief](https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/)
+66. [Historicity Argument: Problem of Instruction](https://www.youtube.com/watch?v=w5aZXXx3E6U)
+67. [Arguments for God Tier List](https://www.youtube.com/watch?v=cpC8WtufJbo)
+68. [Goldstein: 36 ARGUMENTS FOR THE EXISTENCE OF GOD](https://www.edge.org/conversation/rebecca_newberger_goldstein-36-arguments-for-the-existence-of-god)
+69. [500 Arguments Against Christianity](https://www.youtube.com/watch?v=Anc_puK9arE)
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
@@ -264,6 +275,7 @@
 26. [Christianity and Judaism](https://en.wikipedia.org/wiki/Christianity_and_Judaism)
 27. [Christian Fundamentalism](https://en.wikipedia.org/wiki/Category:Christian_fundamentalism)
 28. [Christian Reconstructionism](https://en.wikipedia.org/wiki/Christian_reconstructionism)
+29. [List_of_Christian_denominations_by_number_of_members](https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members)
 
 ## [Contemporary Religious Studies](https://www.religiousstudiesproject.com) and [Biblical Criticism](https://en.wikipedia.org/wiki/Category:Biblical_criticism)
 1. [Bart D Ehrman](https://en.wikipedia.org/wiki/Bart_D._Ehrman)
@@ -616,7 +628,7 @@
 60. [Reaction to Evolution Series](https://www.youtube.com/watch?v=-81iiPGYjms&list=PLoGrBZC-lKFAg31nW8db5SmYJLldrUIfm)
 61. [New Richard Swinburne Interview: Hume & Kant on Arguments for God](https://www.youtube.com/watch?v=vQD9q9cZZv4)
 62. [Logic Doesn't Need God - Responding to James Anderson: James Anderson Divine Conceptualism](https://www.youtube.com/watch?v=Om3cU9AGPdw)
-63. [500 Arguments Against Christianity](https://www.youtube.com/watch?v=Anc_puK9arE)
+63. [The History of Heaven and Hell - St Luke's Episcopal Church Interview](https://www.youtube.com/watch?v=lYl24xibc2I)
 64. [Responding to Inspiring Philosophy about Digital Physics and God](https://www.youtube.com/watch?v=aGQ1iWuZHp0)
 65. [God Explains Nothing about Consciousness](https://www.youtube.com/watch?v=olAIhtANsb4)
 66. [How Capturing Christianity Misrepresents the History of Science](https://www.youtube.com/watch?v=MnM5Jk1BdnY)
@@ -753,3 +765,5 @@
 174. [From Text to Interpretation: How the Bible Came to Mean Some of the Strange Things It Means](https://www.youtube.com/watch?v=f-rAFXbMGGg)
 175. [Did God Evolve? An Evolutionist's Speculation about Religion - Professor Steve Jones](https://www.youtube.com/watch?v=_KzP2tISfe0)
 176. [Why God Won’t Go Away | Alister McGrath](https://www.youtube.com/watch?v=creNs9-Ui6A)
+177. [No God but Spinoza’s: Spiritual and Philosophical Influences on Einstein’s Thought](https://www.youtube.com/watch?v=5aNodVyDHYU)
+178. [David Ray Griffin - An Introduction to Process Theology](https://www.youtube.com/watch?v=iMXdslMn2x0)
