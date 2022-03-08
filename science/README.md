@@ -91,6 +91,7 @@
 19. [Economics of Uncertainty](https://en.wikipedia.org/wiki/Category:Economics_of_uncertainty)
 20. [Applied Probability](https://en.wikipedia.org/wiki/Category:Applied_probability)
 21. [Statistical Hypothesis Testing](https://en.wikipedia.org/wiki/Category:Statistical_hypothesis_testing)
+22. [Hypotheses](https://en.wikipedia.org/wiki/Category:Hypotheses)
 
 ## Academics
 

@@ -178,6 +178,8 @@
 111. [Essentialism](https://en.wikipedia.org/wiki/Essentialism)
 112. [Hegelian Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) and [Dialectical Forms](https://en.wikipedia.org/wiki/Dialectic)
 113. [Panpsychism](https://plato.stanford.edu/entries/panpsychism/)
+114. [Quine–Putnam indispensability argument](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument)
+115. [Benacerrafs Identification Problem](https://en.wikipedia.org/wiki/Benacerraf%27s_identification_problem)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 

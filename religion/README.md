@@ -33,6 +33,7 @@
 7. [List of Ontological Arguments](https://plato.stanford.edu/entries/ontological-arguments/)
 8. [Ontological](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/) [Argument](https://www.thetablet.co.uk/student-zone/philosophy-of-religion/ontological/kant) 
 	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
+	* [Kants Criticism](http://www.scandalon.co.uk/philosophy/ontological_kant.htm)
 9.  [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
 10. [Argument from a Proper Basis](https://en.wikipedia.org/wiki/Argument_from_a_proper_basis)
 11. [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
@@ -76,6 +77,8 @@
 	* [Did God Create Evil? | Episode 408 | Closer To Truth](https://www.youtube.com/watch?v=gMoyHuUsKiY)
 	* [Logical Problem of Evil](https://iep.utm.edu/evil-log/)
 	* [Evidential Argument of Evil](https://iep.utm.edu/evil-evi/)
+	* [Suffering Evil](https://www.amazon.com/Suffering-Belief-Anglo-American-Defense-Religion/dp/0820439754)
+	* [Theodicy](https://en.wikipedia.org/wiki/Theodicy)
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
 	* [Overview](https://www.qcc.cuny.edu/socialsciences/ppecorino/intro_text/Chapter%203%20Religion/Cosmological.htm)
@@ -114,7 +117,9 @@
 39. [Stephen Fry & Jordan Peterson on Morality](https://www.youtube.com/watch?v=-0lD3krLcK0)
 40. [God of the Gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
 41. [Unmoved Mover](https://en.wikipedia.org/wiki/Unmoved_mover)
-42. [A Divine Conceptualist Argument for God’s Existence](https://philosophicaleggs.com/185-a-divine-conceptualist-argument-for-gods-existence/), [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/), [Do Divine Conceptualist Accounts Fail?](https://philpapers.org/rec/WELDDC), and [Beyond the Control of God?: Six Views on the Problem of God and Abstract Objects](https://ndpr.nd.edu/reviews/beyond-the-control-of-god-six-views-on-the-problem-of-god-and-abstract-objects/)
+42. [A Divine Conceptualist Argument for God’s Existence](https://philosophicaleggs.com/185-a-divine-conceptualist-argument-for-gods-existence/)
+	* [Do Divine Conceptualist Accounts Fail?](https://philpapers.org/rec/WELDDC)
+	* [Beyond the Control of God?: Six Views on the Problem of God and Abstract Objects](https://ndpr.nd.edu/reviews/beyond-the-control-of-god-six-views-on-the-problem-of-god-and-abstract-objects/)
 43. [Divine Command](https://en.wikipedia.org/wiki/Divine_command_theory) & [Resources](https://www.qcc.cuny.edu/socialsciences/ppecorino/ethics_text/chapter_7_deontological_theories_natural_law/divine_command_theory.htm)
 	* [Epistemological Objection](https://philosophicaldisquisitions.blogspot.com/2014/11/the-epistemological-objection-to-divine.html)
 	* [Critique of Grabers Divine Command Theory](https://www.jstor.org/stable/40017722)
@@ -164,6 +169,8 @@
 67. [Arguments for God Tier List](https://www.youtube.com/watch?v=cpC8WtufJbo)
 68. [Goldstein: 36 ARGUMENTS FOR THE EXISTENCE OF GOD](https://www.edge.org/conversation/rebecca_newberger_goldstein-36-arguments-for-the-existence-of-god)
 69. [500 Arguments Against Christianity](https://www.youtube.com/watch?v=Anc_puK9arE)
+70. [Practical Arguments for Belief](https://plato.stanford.edu/entries/pragmatic-belief-god/)
+71. [Salvation in Heaven](https://www.ajol.info/index.php/pp/article/view/29480)
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
@@ -243,6 +250,7 @@
 74. [Original Sin](https://en.wikipedia.org/wiki/Original_sin)
 75. [Religious Language](https://plato.stanford.edu/entries/religious-language/)
 76. [Lewis Trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma)
+77. [Platonism and Theism](https://iep.utm.edu/pla-thei/)
 
 ## [History of Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
 1. [Christian_denominational_families](https://en.wikipedia.org/wiki/Category:Christian_denominational_families)
@@ -421,6 +429,7 @@
 60. [Are Science & Religion at War? | Episode 611 | Closer To Truth](https://www.youtube.com/watch?v=zyKnNQaEGSE)
 61. [Critical Realism in Science and Religion? | Episode 1802 | Closer To Truth](https://www.youtube.com/watch?v=yRJmd6pWgl4&t=460s)
 62. [What is Analytic Theology? | Episode 1808 | Closer To Truth](https://www.youtube.com/watch?v=eyUNmkT5bzU)
+63. [Quentin Smith Interviews](https://www.youtube.com/watch?v=rEvzGSx9JN0&list=PLFJr3pJl27pKk7_zA7ohD4u1f0G60OWZN)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
