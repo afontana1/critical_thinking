@@ -180,6 +180,8 @@
 113. [Panpsychism](https://plato.stanford.edu/entries/panpsychism/)
 114. [Quine–Putnam indispensability argument](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument)
 115. [Benacerrafs Identification Problem](https://en.wikipedia.org/wiki/Benacerraf%27s_identification_problem)
+116. [Underdetermination](https://en.wikipedia.org/wiki/Underdetermination)
+117. [Raven Paradox](https://en.wikipedia.org/wiki/Raven_paradox)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 

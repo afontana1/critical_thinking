@@ -34,6 +34,8 @@
 8. [Ontological](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/) [Argument](https://www.thetablet.co.uk/student-zone/philosophy-of-religion/ontological/kant) 
 	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
 	* [Kants Criticism](http://www.scandalon.co.uk/philosophy/ontological_kant.htm)
+	* [Godels Ontological](https://www.youtube.com/watch?v=LS3S2FNqxV4) [Proof](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof) and [Objections to Godel's Ontological Argument](https://www.youtube.com/watch?v=XfXAs66GW70&t=136s)
+	* [Anselm's Ontological Argument](https://www.youtube.com/watch?v=CP5Lgj9_oj8) and [Gaunilo's Objection to the Ontological Argument](https://www.youtube.com/watch?v=20ZYq8ux0pw)
 9.  [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
 10. [Argument from a Proper Basis](https://en.wikipedia.org/wiki/Argument_from_a_proper_basis)
 11. [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
@@ -328,6 +330,9 @@
 	* [Richard Friedman - The Exodus Based on the Sources Themselves](https://www.youtube.com/watch?v=H-YlzpUhnxQ)
 	* [Dig This: Richard Elliott Friedman](https://www.youtube.com/watch?v=cYt3oom0pJg)
 18. [Bill Warren](https://www.nobts.edu/faculty/warren-bill.html)
+19. [Carol Meyers](https://en.wikipedia.org/wiki/Carol_Meyers)
+20. [Jan Assmann](https://en.wikipedia.org/wiki/Jan_Assmann)
+21. [Philip R Davies](https://en.wikipedia.org/wiki/Philip_R._Davies)
 
 ## [Conceptions of God](https://en.wikipedia.org/wiki/Conceptions_of_God)
 1. [Alternative Conceptions](https://www.closertotruth.com/series/alternative-concepts-god-part-1)
