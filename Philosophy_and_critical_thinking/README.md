@@ -41,6 +41,8 @@
 	- [Constructive Empiricism](https://plato.stanford.edu/entries/constructive-empiricism/)
 	- [Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
 	- [Fallibilism](https://en.wikipedia.org/wiki/Fallibilism)
+	- [Epistemic Paradoxes](https://plato.stanford.edu/entries/epistemic-paradoxes/)
+	- [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
@@ -182,6 +184,10 @@
 115. [Benacerrafs Identification Problem](https://en.wikipedia.org/wiki/Benacerraf%27s_identification_problem)
 116. [Underdetermination](https://en.wikipedia.org/wiki/Underdetermination)
 117. [Raven Paradox](https://en.wikipedia.org/wiki/Raven_paradox)
+118. [De Dicto - De Re](https://plato.stanford.edu/entries/prop-attitude-reports/dere.html)
+119. [Problem of the Criterion](https://en.wikipedia.org/wiki/Problem_of_the_criterion)
+120. [Incompleteness Theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+121. [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 

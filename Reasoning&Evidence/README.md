@@ -44,7 +44,8 @@
 23. [Practical Reason](https://plato.stanford.edu/entries/practical-reason/)
 24. [Legal Reasoning](https://en.wikipedia.org/wiki/Category:Legal_reasoning)
 25. [Statutory Interpretation](https://en.wikipedia.org/wiki/Statutory_interpretation)
-26. [Evidence of Absence](https://en.wikipedia.org/wiki/Evidence_of_absence)
+26. [Evidence of Absence](https://en.wikipedia.org/wiki/Evidence_of_absence) and [Absent Evidence](https://www.lesswrong.com/tag/evidence-of-absence)
+27. [Commonsense Reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 
@@ -88,6 +89,7 @@
 35. [Logic of Conditionals](https://plato.stanford.edu/entries/logic-conditionals/)
 36. [Conditionals](https://plato.stanford.edu/entries/conditionals/)
 37. [Self](https://en.wikipedia.org/wiki/Category:Self-reference) [Reference](https://plato.stanford.edu/entries/self-reference/)
+38. [Non Classical Logic](https://en.wikipedia.org/wiki/Category:Non-classical_logic)
 
 ## [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 

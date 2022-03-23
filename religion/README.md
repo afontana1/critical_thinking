@@ -137,6 +137,8 @@
 47. [Argument from Miracles](https://plato.stanford.edu/entries/miracles/)
 	* [Humes](https://en.wikipedia.org/wiki/Of_Miracles) [Refutation](https://www3.nd.edu/~afreddos/courses/43811/hume-on-miracles.htm)
 	* [Wittgensteins Perspective](https://iep.utm.edu/miracles/#H11)
+	* [Epistemic Theory of Miracles](https://en.wikipedia.org/wiki/Epistemic_theory_of_miracles)
+	* [Miracles and Anomalies: Or, Your Religion is False](https://entirelyuseless.com/2018/07/30/miracles-and-anomalies-or-your-religion-is-false/)
 48. [Consciousness regained? Philosophical arguments for and against reductive physicalism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341650/)
 49. [Cumulative_case_argument](https://religions.wiki/index.php/Cumulative_case_argument)
 	* [Criticism](http://stephenlaw.blogspot.com/2017/05/a-cumulative-case-for-existence-of-god.html)
