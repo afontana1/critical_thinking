@@ -84,6 +84,8 @@
 22. [Literary Theory](https://en.wikipedia.org/wiki/Category:Literary_theory)
 23. [Literary Criticism](https://en.wikipedia.org/wiki/Category:Literary_criticism)
 24. [Ambiguity](https://en.wikipedia.org/wiki/Category:Ambiguity)
+25. [Glossary_of_literary_terms](https://en.wikipedia.org/wiki/Glossary_of_literary_terms)
+26. [List_of_narrative_techniques](https://en.wikipedia.org/wiki/List_of_narrative_techniques)
 
 ## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
 
