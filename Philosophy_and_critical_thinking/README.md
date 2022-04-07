@@ -47,6 +47,7 @@
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
 3. [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)
+	- [The Metaphysics Project](https://mally.stanford.edu/index.html)
 4. [Philosophy of Language](https://en.wikipedia.org/wiki/Category:Philosophy_of_language)
 	- [Meaning](https://en.wikipedia.org/wiki/Category:Meaning_(philosophy_of_language))
 	- [Formal Semantics](https://en.wikipedia.org/wiki/Category:Formal_semantics_(natural_language))
