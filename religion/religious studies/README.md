@@ -46,3 +46,4 @@
 21. [Philip R Davies](https://en.wikipedia.org/wiki/Philip_R._Davies)
 22. [George E Mendenhall](https://en.wikipedia.org/wiki/George_E._Mendenhall)
 23. [John Mill](https://en.wikipedia.org/wiki/John_Mill_(theologian))
+24. [Redaction Criticism](https://en.wikipedia.org/wiki/Redaction_criticism)

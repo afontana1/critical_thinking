@@ -1,0 +1,20 @@
+# concepts
+
+- https://en.wikipedia.org/wiki/Probability_interpretations
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996198/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2998589/
+- https://en.wikipedia.org/wiki/Observational_study
+- https://en.wikipedia.org/wiki/Metadata
+- https://bookdown.org/cristobalmoya/iscs_materials/data-generation.html
+- https://en.wikipedia.org/wiki/Sampling_(statistics)
+- https://en.wikipedia.org/wiki/Stochastic_process
+- https://en.wikipedia.org/wiki/Category:Indicators
+- https://en.wikipedia.org/wiki/Random_variable
+- https://en.wikipedia.org/wiki/Probability_density_function
+- https://stats.stackexchange.com/questions/443320/what-does-a-data-generating-process-dgp-actually-mean
+- http://sfb649.wiwi.hu-berlin.de/fedc_homepage/xplore/tutorials/xegbohtmlnode5.html
+- https://link.springer.com/chapter/10.1007/978-981-32-9019-8_9
+- https://towardsdatascience.com/understanding-random-variables-and-probability-distributions-1ed1daf2e66
+- https://mladenjovanovic.github.io/bmbstats-book/rct-analysis-and-prediction-in-bmbstats.html
+- https://goodboychan.github.io/python/datacamp/statistics/modeling/2020/06/21/03-Probability-and-data-generation-process.html
+- https://www.researchgate.net/figure/Schematic-of-the-data-generating-process-for-25-locations-from-2000-to-2013-AUDPC-area_fig1_327352564

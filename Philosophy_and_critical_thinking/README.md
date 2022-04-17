@@ -189,6 +189,8 @@
 119. [Problem of the Criterion](https://en.wikipedia.org/wiki/Problem_of_the_criterion)
 120. [Incompleteness Theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 121. [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
+122. [Underdetermination](https://plato.stanford.edu/entries/scientific-underdetermination/)
+123. [Correspondence Theory of Truth](https://plato.stanford.edu/entries/truth-correspondence/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
