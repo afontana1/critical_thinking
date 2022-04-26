@@ -57,6 +57,7 @@
 7. [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
 8. [Philosophy of Science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
 9. [Linguistic Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
+10. [Concepts](https://en.wikipedia.org/wiki/Category:Concepts)
 
 ## List of Concepts
 
@@ -191,6 +192,8 @@
 121. [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
 122. [Underdetermination](https://plato.stanford.edu/entries/scientific-underdetermination/)
 123. [Correspondence Theory of Truth](https://plato.stanford.edu/entries/truth-correspondence/)
+124. [Universal Constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
+125. [Impossibility Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -205,6 +208,7 @@
 7. [Epilogism](https://en.wikipedia.org/wiki/Epilogism)
 8. [Milesian School](https://en.wikipedia.org/wiki/Milesian_school)
 9. [Eleatic School](https://en.wikipedia.org/wiki/Category:Eleatic_school)
+10. [Atomism](https://en.wikipedia.org/wiki/Atomism)
 
 #### [Classical](https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers) and [Presocratic](https://en.wikipedia.org/wiki/Category:Presocratic_philosophers) Philosophers
 
@@ -243,6 +247,8 @@
 33. [Archytas](https://en.wikipedia.org/wiki/Archytas)
 34. [Anaxagoras](https://en.wikipedia.org/wiki/Anaxagoras)
 35. [Archelaus](https://en.wikipedia.org/wiki/Archelaus_(philosopher))
+36. [Xenophon](https://en.wikipedia.org/wiki/Xenophon)
+37. [Polybius](https://en.wikipedia.org/wiki/Polybius)
 
 #### Historical Information
 
@@ -306,7 +312,7 @@
 	* [Scotism](https://en.wikipedia.org/wiki/Scotism)
 	* [Neo Scholasticism](https://en.wikipedia.org/wiki/Neo-scholasticism)
 
-### Enlightenment
+### [Enlightenment](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_18th_century)
 
 1. [Mill](https://plato.stanford.edu/entries/mill/)
 2. [Locke](https://plato.stanford.edu/entries/locke/)
@@ -325,8 +331,16 @@
 15. [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
 16. [Gottfried_Wilhelm_Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
 17. [Pierre Bayle](https://plato.stanford.edu/entries/bayle/)
+18. 
+19. [Giordano Bruno](https://en.wikipedia.org/wiki/Giordano_Bruno)
+20. [Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal)
+21. [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
+22. [Juana Inés de la Cruz](https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz)
+23. [Giambattista_Vico](https://en.wikipedia.org/wiki/Giambattista_Vico)
+24. [Thomas Browne](https://en.wikipedia.org/wiki/Thomas_Browne)
+25. [Pierre_Gassendi](https://en.wikipedia.org/wiki/Pierre_Gassendi)
 
-### 18th Century
+### [18th-19th Century](https://en.wikipedia.org/wiki/19th-century_philosophy)
 
 1. [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
 2. [Arthur_Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
@@ -339,8 +353,13 @@
 9. [Schutz](https://en.wikipedia.org/wiki/Alfred_Sch%C3%BCtz)
 10. [Kierkegaard)](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 11. [Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)
+12. [Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
+13. [Thomas Reid](https://en.wikipedia.org/wiki/Thomas_Reid)
+14. [Mary_Wollstonecraft](https://en.wikipedia.org/wiki/Mary_Wollstonecraft)
+15. [Comte](https://plato.stanford.edu/entries/comte/)
+16. [Charles_Sanders_Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 
-### 19th Century
+### [19th-20th Century](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_19th_century)
 
 1. [Peirce](https://en.wikipedia.org/wiki/Category:Charles_Sanders_Peirce)
 2. [William James](https://en.wikipedia.org/wiki/William_James)
@@ -364,8 +383,12 @@
 20. [F.P. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson)
 21. [Thomas Nagel](https://en.wikipedia.org/wiki/Thomas_Nagel)
 22. [Paul Grice](https://plato.stanford.edu/entries/grice/)
+23. [Popper](https://en.wikipedia.org/wiki/Karl_Popper)
+24. [William James](https://en.wikipedia.org/wiki/William_James)
+25. [Wilfrid Sellars](https://en.wikipedia.org/wiki/Wilfrid_Sellars)
+26. [Frank Ramsey](https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician))
 
-### [20th Century](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
+### [20th Century-Present](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 
 1. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
 	- [papers](https://scholar.google.ca/citations?user=iRzoJwcAAAAJ&hl=en)
@@ -399,3 +422,4 @@
 29. [Hannah Arendt](https://plato.stanford.edu/entries/arendt/)
 30. [Kenneth Burke](https://en.wikipedia.org/wiki/Kenneth_Burke)
 31. [Rebecca Goldstein](https://en.wikipedia.org/wiki/Rebecca_Goldstein)
+32. [Hilary_Putnam](https://en.wikipedia.org/wiki/Hilary_Putnam)
