@@ -57,6 +57,7 @@
 41. [Category Mistakes](https://plato.stanford.edu/entries/category-mistakes/)
 42. [Essentialism Bias](https://en.shortcogs.com/bias/essentialism-bias)
 43. [Self Refuting Idea](https://en.wikipedia.org/wiki/Self-refuting_idea)
+44. [Argument from SilenceS](https://en.wikipedia.org/wiki/Argument_from_silence)
 
 ## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 

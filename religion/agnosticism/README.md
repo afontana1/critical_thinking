@@ -159,3 +159,4 @@
 48. [Ludwig Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
 49. [Charvaka](https://en.wikipedia.org/wiki/Charvaka)
 50. [Voltaire](https://plato.stanford.edu/entries/voltaire/)
+51. [John W Loftus](https://en.wikipedia.org/wiki/John_W._Loftus)

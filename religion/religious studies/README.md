@@ -47,3 +47,5 @@
 22. [George E Mendenhall](https://en.wikipedia.org/wiki/George_E._Mendenhall)
 23. [John Mill](https://en.wikipedia.org/wiki/John_Mill_(theologian))
 24. [Redaction Criticism](https://en.wikipedia.org/wiki/Redaction_criticism)
+25. [Raphael Lataster](http://www.raphaellataster.com/)
+26. [John Dominic Crossan](https://en.wikipedia.org/wiki/John_Dominic_Crossan)

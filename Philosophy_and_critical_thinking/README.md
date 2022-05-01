@@ -312,7 +312,11 @@
 	* [Scotism](https://en.wikipedia.org/wiki/Scotism)
 	* [Neo Scholasticism](https://en.wikipedia.org/wiki/Neo-scholasticism)
 
-### [Enlightenment](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_18th_century)
+### [Islamic Philosophy](https://en.wikipedia.org/wiki/Category:Islamic_philosophy)
+
+1. [Ibn_Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun)
+
+### [Enlightenment](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_18th_century) and [Renaissance](https://en.wikipedia.org/wiki/Renaissance_philosophy)
 
 1. [Mill](https://plato.stanford.edu/entries/mill/)
 2. [Locke](https://plato.stanford.edu/entries/locke/)
@@ -328,10 +332,10 @@
 12. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
 13. [Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
 14. [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)
-15. [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
+15. [Jean Charles Léonard de Sismondi](https://en.wikipedia.org/wiki/Jean_Charles_L%C3%A9onard_de_Sismondi)
 16. [Gottfried_Wilhelm_Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
 17. [Pierre Bayle](https://plato.stanford.edu/entries/bayle/)
-18. 
+18. [Jean Baptiste Say](https://en.wikipedia.org/wiki/Jean-Baptiste_Say)
 19. [Giordano Bruno](https://en.wikipedia.org/wiki/Giordano_Bruno)
 20. [Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal)
 21. [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
@@ -339,6 +343,9 @@
 23. [Giambattista_Vico](https://en.wikipedia.org/wiki/Giambattista_Vico)
 24. [Thomas Browne](https://en.wikipedia.org/wiki/Thomas_Browne)
 25. [Pierre_Gassendi](https://en.wikipedia.org/wiki/Pierre_Gassendi)
+26. [Marsilio Ficino](https://en.wikipedia.org/wiki/Marsilio_Ficino)
+27. [Gemistos_Plethon](https://en.wikipedia.org/wiki/Gemistos_Plethon)
+28. [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo)
 
 ### [18th-19th Century](https://en.wikipedia.org/wiki/19th-century_philosophy)
 
@@ -357,7 +364,18 @@
 13. [Thomas Reid](https://en.wikipedia.org/wiki/Thomas_Reid)
 14. [Mary_Wollstonecraft](https://en.wikipedia.org/wiki/Mary_Wollstonecraft)
 15. [Comte](https://plato.stanford.edu/entries/comte/)
-16. [Charles_Sanders_Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
+16. [Henry Sidgwick](https://en.wikipedia.org/wiki/Henry_Sidgwick)
+17. [Alfred Marshall](https://en.wikipedia.org/wiki/Alfred_Marshall)
+18. [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger)
+19. [George Boole](https://en.wikipedia.org/wiki/George_Boole)
+20. [Augustus De Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan)
+21. [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)
+22. [Leon Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras)
+23. [Joseph_Schumpeter](https://en.wikipedia.org/wiki/Joseph_Schumpeter)
+24. [Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto)
+25. [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
+26. [Herbert Spencer](https://en.wikipedia.org/wiki/Herbert_Spencer)
+27. [Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus)
 
 ### [19th-20th Century](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_19th_century)
 
@@ -387,6 +405,10 @@
 24. [William James](https://en.wikipedia.org/wiki/William_James)
 25. [Wilfrid Sellars](https://en.wikipedia.org/wiki/Wilfrid_Sellars)
 26. [Frank Ramsey](https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician))
+27. [Irving Fisher](https://en.wikipedia.org/wiki/Irving_Fisher)
+28. [Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)
+29. [Wassily_Leontief](https://en.wikipedia.org/wiki/Wassily_Leontief)
+30. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams)
 
 ### [20th Century-Present](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
 

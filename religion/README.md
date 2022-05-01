@@ -94,3 +94,4 @@
 76. [Lewis Trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma)
 77. [Platonism and Theism](https://iep.utm.edu/pla-thei/)
 78. [On Jews and their Lies](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
+79. [Asimovs Guide to the Bible](https://en.wikipedia.org/wiki/Asimov%27s_Guide_to_the_Bible)
