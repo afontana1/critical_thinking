@@ -95,3 +95,5 @@
 77. [Platonism and Theism](https://iep.utm.edu/pla-thei/)
 78. [On Jews and their Lies](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
 79. [Asimovs Guide to the Bible](https://en.wikipedia.org/wiki/Asimov%27s_Guide_to_the_Bible)
+80. [Textual Variants in NT](https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament)
+81. [Miracle of the Sun](https://en.wikipedia.org/wiki/Miracle_of_the_Sun)

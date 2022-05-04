@@ -260,3 +260,4 @@
 176. [Why God Won’t Go Away | Alister McGrath](https://www.youtube.com/watch?v=creNs9-Ui6A)
 177. [No God but Spinoza’s: Spiritual and Philosophical Influences on Einstein’s Thought](https://www.youtube.com/watch?v=5aNodVyDHYU)
 178. [David Ray Griffin - An Introduction to Process Theology](https://www.youtube.com/watch?v=iMXdslMn2x0)
+179. [Dan Barker - Thomas Ross Rebates](https://www.youtube.com/playlist?list=PLo8hPX0f2leYiB42-k5lWiNIg_rzPeILT)
