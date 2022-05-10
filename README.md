@@ -59,6 +59,7 @@
 43. [Self Refuting Idea](https://en.wikipedia.org/wiki/Self-refuting_idea)
 44. [Argument from Silence](https://en.wikipedia.org/wiki/Argument_from_silence)
 45. [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
+46. [Conjunction Fallacy](https://en.wikipedia.org/wiki/Conjunction_fallacy)
 
 ## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
 
