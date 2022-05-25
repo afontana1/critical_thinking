@@ -48,6 +48,7 @@
 19. [Redaction Criticism](https://en.wikipedia.org/wiki/Redaction_criticism)
 20. [Raphael Lataster](http://www.raphaellataster.com/)
 21. [John Dominic Crossan](https://en.wikipedia.org/wiki/John_Dominic_Crossan)
+22. [Tom Harpur](https://en.wikipedia.org/wiki/Tom_Harpur)
 
 ## Methods
 
