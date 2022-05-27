@@ -9,6 +9,7 @@
 7. [Processes](https://en.wikipedia.org/wiki/Process)
 8. [Recognizing Fallacies](https://en.wikiversity.org/wiki/Recognizing_Fallacies)
 9. [Skillful Reasoning](http://www.skillfulreasoning.com/)
+10. [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 

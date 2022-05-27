@@ -194,6 +194,8 @@
 123. [Correspondence Theory of Truth](https://plato.stanford.edu/entries/truth-correspondence/)
 124. [Universal Constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
 125. [Impossibility Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
+126. [Self Reference](https://plato.stanford.edu/entries/self-reference/)
+127. [Self Referential Paradoxes](https://en.wikipedia.org/wiki/Category:Self-referential_paradoxes)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 

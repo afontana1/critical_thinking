@@ -71,6 +71,9 @@
 37. [History of Science](https://en.wikipedia.org/wiki/History_of_science)
 38. [Design of Experiments](https://en.wikipedia.org/wiki/Category:Design_of_experiments)
 39. [Scientific Law](https://en.wikipedia.org/wiki/Scientific_law)
+40. [Functions and Mappings](https://en.wikipedia.org/wiki/Category:Functions_and_mappings)
+41. [Basic Concepts in Set Theory](https://en.wikipedia.org/wiki/Category:Basic_concepts_in_set_theory)
+42. [Matheatical Relations](https://en.wikipedia.org/wiki/Category:Mathematical_relations)
 
 ## [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty), [Probability](https://en.wikipedia.org/wiki/Category:Probability), and [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
 
