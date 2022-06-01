@@ -153,6 +153,8 @@
 	- [Determinism](https://en.wikipedia.org/wiki/Category:Determinism)
 	- [Incompatibilism Theories](https://plato.stanford.edu/entries/incompatibilism-theories/)
 	- [Compatibalism](https://plato.stanford.edu/entries/compatibilism/)
+	- [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty)
+	- [Agency](https://plato.stanford.edu/entries/agency/)
 85. [Hypothetical Impertive](https://en.wikipedia.org/wiki/Hypothetical_imperative)
 86. [Categorical Imperitive](https://en.wikipedia.org/wiki/Categorical_imperative)
 87. [Sophisttry](https://en.wikipedia.org/wiki/Sophist)
@@ -251,6 +253,7 @@
 35. [Archelaus](https://en.wikipedia.org/wiki/Archelaus_(philosopher))
 36. [Xenophon](https://en.wikipedia.org/wiki/Xenophon)
 37. [Polybius](https://en.wikipedia.org/wiki/Polybius)
+38. [Epictetus](https://en.wikipedia.org/wiki/Epictetus)
 
 #### Historical Information
 
