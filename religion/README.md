@@ -97,3 +97,4 @@
 79. [Asimovs Guide to the Bible](https://en.wikipedia.org/wiki/Asimov%27s_Guide_to_the_Bible)
 80. [Textual Variants in NT](https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament)
 81. [Miracle of the Sun](https://en.wikipedia.org/wiki/Miracle_of_the_Sun)
+82. [Quest_for_the_historical_Jesus](https://en.wikipedia.org/wiki/Quest_for_the_historical_Jesus)

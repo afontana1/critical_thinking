@@ -157,6 +157,7 @@
 	- [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty)
 	- [Agency](https://plato.stanford.edu/entries/agency/)
 	- [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism_(metaphysics))
+	- [Philosophy](https://plato.stanford.edu/entries/action/) of [Action](https://en.wikipedia.org/wiki/Category:Action_(philosophy))
 85. [Hypothetical Impertive](https://en.wikipedia.org/wiki/Hypothetical_imperative)
 86. [Categorical Imperitive](https://en.wikipedia.org/wiki/Categorical_imperative)
 87. [Sophisttry](https://en.wikipedia.org/wiki/Sophist)
@@ -200,6 +201,9 @@
 125. [Impossibility Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
 126. [Self Reference](https://plato.stanford.edu/entries/self-reference/)
 127. [Self Referential Paradoxes](https://en.wikipedia.org/wiki/Category:Self-referential_paradoxes)
+128. [Deflationary Theory of Truth](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth)
+129. [Irreducible Complexity](https://en.wikipedia.org/wiki/Irreducible_complexity)
+120. [Computational Irreducibility](https://en.wikipedia.org/wiki/Computational_irreducibility)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
