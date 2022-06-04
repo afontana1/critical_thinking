@@ -204,6 +204,7 @@
 128. [Deflationary Theory of Truth](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth)
 129. [Irreducible Complexity](https://en.wikipedia.org/wiki/Irreducible_complexity)
 120. [Computational Irreducibility](https://en.wikipedia.org/wiki/Computational_irreducibility)
+121. [Church Turing Thesis](https://plato.stanford.edu/entries/church-turing/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 

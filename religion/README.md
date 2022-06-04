@@ -98,3 +98,8 @@
 80. [Textual Variants in NT](https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament)
 81. [Miracle of the Sun](https://en.wikipedia.org/wiki/Miracle_of_the_Sun)
 82. [Quest_for_the_historical_Jesus](https://en.wikipedia.org/wiki/Quest_for_the_historical_Jesus)
+83. [Predestination](https://en.wikipedia.org/wiki/Predestination)
+84. [On the Jews and their Lies](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
+85. [Martin Luther](https://www.crossway.org/articles/martin-luthers-controversial-view-of-women/ )[About Weeds](http://www.juliahughesjones.com/aboutweeds.html)
+86. [Tertullian](https://en.wikipedia.org/wiki/Tertullian)
+87. [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism)
