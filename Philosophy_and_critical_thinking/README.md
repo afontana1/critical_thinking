@@ -202,9 +202,11 @@
 126. [Self Reference](https://plato.stanford.edu/entries/self-reference/)
 127. [Self Referential Paradoxes](https://en.wikipedia.org/wiki/Category:Self-referential_paradoxes)
 128. [Deflationary Theory of Truth](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth)
-129. [Irreducible Complexity](https://en.wikipedia.org/wiki/Irreducible_complexity)
-120. [Computational Irreducibility](https://en.wikipedia.org/wiki/Computational_irreducibility)
-121. [Church Turing Thesis](https://plato.stanford.edu/entries/church-turing/)
+129. [Conways Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+130. [Computational Irreducibility](https://en.wikipedia.org/wiki/Computational_irreducibility)
+131. [Church Turing Thesis](https://plato.stanford.edu/entries/church-turing/)
+132. [Self Replicating Machine](https://en.wikipedia.org/wiki/Self-replicating_machine)
+133. [Self Organization](https://en.wikipedia.org/wiki/Self-organization) 
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -457,3 +459,7 @@
 30. [Kenneth Burke](https://en.wikipedia.org/wiki/Kenneth_Burke)
 31. [Rebecca Goldstein](https://en.wikipedia.org/wiki/Rebecca_Goldstein)
 32. [Hilary_Putnam](https://en.wikipedia.org/wiki/Hilary_Putnam)
+33. [Stanislaw Ulam](https://en.wikipedia.org/wiki/Stanislaw_Ulam)
+34. [Andrey_Markov](https://en.wikipedia.org/wiki/Andrey_Markov)
+35. [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
+36. [Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)

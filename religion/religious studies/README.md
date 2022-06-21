@@ -60,3 +60,4 @@
 6. [Presupposition of Critical History](https://www.cambridge.org/core/books/presuppositions-of-critical-history/33A25DDB43868BAB3C48D74AFB23F964)
 7. [Example of Historical Method Applied](https://www.youtube.com/watch?v=ptYz-Vu0dxY)
 8. [Another Application](https://www.youtube.com/watch?v=W9XryKMRATE)
+9. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)
