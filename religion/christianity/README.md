@@ -30,6 +30,7 @@
 27. [Christian Fundamentalism](https://en.wikipedia.org/wiki/Category:Christian_fundamentalism)
 28. [Christian Reconstructionism](https://en.wikipedia.org/wiki/Christian_reconstructionism)
 29. [List_of_Christian_denominations_by_number_of_members](https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members)
+30. [4_Maccabees](https://en.wikipedia.org/wiki/4_Maccabees)
 
 
 ## Apologists, Theologians, Philosophers

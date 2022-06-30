@@ -49,6 +49,7 @@
 20. [Raphael Lataster](http://www.raphaellataster.com/)
 21. [John Dominic Crossan](https://en.wikipedia.org/wiki/John_Dominic_Crossan)
 22. [Tom Harpur](https://en.wikipedia.org/wiki/Tom_Harpur)
+23. [Christine_Hayes](https://en.wikipedia.org/wiki/Christine_Hayes)
 
 ## Methods
 

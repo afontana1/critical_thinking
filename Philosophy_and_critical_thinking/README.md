@@ -206,7 +206,10 @@
 130. [Computational Irreducibility](https://en.wikipedia.org/wiki/Computational_irreducibility)
 131. [Church Turing Thesis](https://plato.stanford.edu/entries/church-turing/)
 132. [Self Replicating Machine](https://en.wikipedia.org/wiki/Self-replicating_machine)
-133. [Self Organization](https://en.wikipedia.org/wiki/Self-organization) 
+133. [Self Organization](https://en.wikipedia.org/wiki/Self-organization)
+134. [Felicity Conditions](https://en.wikipedia.org/wiki/Felicity_(pragmatics))
+135. [Mills Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
+136. [Pragmatic_maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -222,6 +225,8 @@
 8. [Milesian School](https://en.wikipedia.org/wiki/Milesian_school)
 9. [Eleatic School](https://en.wikipedia.org/wiki/Category:Eleatic_school)
 10. [Atomism](https://en.wikipedia.org/wiki/Atomism)
+11. [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
+12. [Stoicism](https://en.m.wikipedia.org/wiki/Category:Stoicism)
 
 #### [Classical](https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers) and [Presocratic](https://en.wikipedia.org/wiki/Category:Presocratic_philosophers) Philosophers
 
@@ -254,7 +259,7 @@
 27. [Anaxagoras](https://plato.stanford.edu/entries/anaxagoras/)
 28. [Aristippus](https://en.wikipedia.org/wiki/Aristippus)
 29. [Hypatia](https://en.wikipedia.org/wiki/Hypatia)
-30. [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
+30. [Marcus_Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 31. [Diagoras of Melos](https://en.wikipedia.org/wiki/Diagoras_of_Melos)
 32. [Theodorus of Cyrene](https://en.wikipedia.org/wiki/Theodorus_of_Cyrene)
 33. [Archytas](https://en.wikipedia.org/wiki/Archytas)
@@ -278,6 +283,7 @@
 	- [Neo Confucianism](https://en.wikipedia.org/wiki/Neo-Confucianism)
 	- [Four_Books_and_Five_Classics](https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics)
 	- [Confucian Thought](https://en.wikipedia.org/wiki/Category:Confucian_thought)
+	- [Confucianism](https://en.m.wikipedia.org/wiki/Category:Confucianism)
 2. [Chinese_logicians](https://en.wikipedia.org/wiki/Category:Chinese_logicians)
 	- [School of Names](https://en.wikipedia.org/wiki/Category:School_of_Names)
 3. [Mohism](https://en.wikipedia.org/wiki/Category:Mohism)

@@ -6,3 +6,5 @@
 - https://en.wikipedia.org/wiki/Causation_(law)
 - https://plato.stanford.edu/entries/causation-law/
 - https://harvardlawreview.org/2017/06/rethinking-actual-causation-in-tort-law/ (NESS Test)
+- https://en.wikipedia.org/wiki/MAGIC_criteria
+- https://en.wikipedia.org/wiki/Mill%27s_Methods

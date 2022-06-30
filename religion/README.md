@@ -105,3 +105,6 @@
 87. [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism)
 88. [Augustinians](https://en.wikipedia.org/wiki/Augustinians)
 89. [Order of Saint Augustine](https://en.wikipedia.org/wiki/Order_of_Saint_Augustine)
+90. [Substitution_hypothesis](https://en.wikipedia.org/wiki/Substitution_hypothesis)
+91. [Language_of_Jesus](https://en.wikipedia.org/wiki/Language_of_Jesus)
+92. [Miraculous_births](https://en.m.wikipedia.org/wiki/Miraculous_births) in [Ancient times](https://www.richardcarrier.info/archives/11161)

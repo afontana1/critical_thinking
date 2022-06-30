@@ -23,6 +23,7 @@
 8. [Michael Sugrue: The Bible and Western Culture](https://www.youtube.com/watch?v=fZVcI94EKQg&list=PLYYQ4XdZeLuAm7D-neqaxHEhWrnOCXdg)
 9. [Paula Fredriksen: Early Christianity](https://www.youtube.com/watch?v=53PDO7OQSTs&list=PLNslttMCi6BWqj_5TiWJ6YLVN0nQqBzti)
 10. [Christianity & Platonism](https://www.youtube.com/watch?v=y32kGGlGQac&list=PLkrkT-0Dit2m26P8m3iz3uYZBcy9pvd4r)
+11. [Introduction to Old Testament](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
 
 ### Atheist / Agnostic
 1. [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)
