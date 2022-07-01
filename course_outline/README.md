@@ -1,4 +1,4 @@
-# Become a Critical Thinker
+# Become a [Critical Thinker](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies), [Biases](https://en.wikipedia.org/wiki/Category:Bias), and [Error](https://en.wikipedia.org/wiki/Category:Error)
 
