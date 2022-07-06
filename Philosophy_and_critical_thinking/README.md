@@ -210,6 +210,7 @@
 134. [Felicity Conditions](https://en.wikipedia.org/wiki/Felicity_(pragmatics))
 135. [Mills Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
 136. [Pragmatic_maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim)
+137. [Truthmakers](https://plato.stanford.edu/entries/truthmakers/) and [Truthmaker_theory](https://en.wikipedia.org/wiki/Truthmaker_theory)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
