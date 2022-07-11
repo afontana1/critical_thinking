@@ -46,6 +46,8 @@
 25. [Statutory Interpretation](https://en.wikipedia.org/wiki/Statutory_interpretation)
 26. [Evidence of Absence](https://en.wikipedia.org/wiki/Evidence_of_absence) and [Absent Evidence](https://www.lesswrong.com/tag/evidence-of-absence)
 27. [Commonsense Reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
+28. [Facts](https://en.wikipedia.org/wiki/Fact) and [Factoid](https://en.wikipedia.org/wiki/Factoid)
+29. [Presupposition](https://en.wikipedia.org/wiki/Presupposition)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 

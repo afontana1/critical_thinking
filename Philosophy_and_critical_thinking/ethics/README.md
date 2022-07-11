@@ -98,6 +98,7 @@
 73. [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/)
 74. [Bernard Williams on Morality](https://www.britannica.com/biography/Bernard-Williams/Morality-and-the-limits-of-objectivity)
 75. [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
+76. [Value System](https://en.wikipedia.org/wiki/Value_(ethics_and_social_sciences)#Value_system)
 
 ## People
 

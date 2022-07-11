@@ -19,6 +19,7 @@
 9. [Computational Philosophy](https://plato.stanford.edu/entries/computational-philosophy/)
 10. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
 11. [Philosophical Interpretation](https://en.wikipedia.org/wiki/Category:Interpretation_(philosophy))
+12. [Thought Experiments](https://en.wikipedia.org/wiki/Category:Thought_experiments) and [Thought Experiments in Philosophy](https://en.wikipedia.org/wiki/Category:Thought_experiments_in_philosophy)
 
 ## Categories
 
@@ -211,6 +212,23 @@
 135. [Mills Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
 136. [Pragmatic_maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim)
 137. [Truthmakers](https://plato.stanford.edu/entries/truthmakers/) and [Truthmaker_theory](https://en.wikipedia.org/wiki/Truthmaker_theory)
+138. [Basic Belief](https://en.wikipedia.org/wiki/Basic_belief)
+139. [Collective Consciousness](https://en.wikipedia.org/wiki/Collective_consciousness)
+140. [Aberrant_decoding](https://en.wikipedia.org/wiki/Aberrant_decoding)
+141. [Context_principle](https://en.wikipedia.org/wiki/Context_principle)
+142. [Deixis](https://en.wikipedia.org/wiki/Deixis)
+143. [Principle_of_humanity](https://en.wikipedia.org/wiki/Principle_of_humanity)
+144. [Precautionary_principle](https://en.wikipedia.org/wiki/Precautionary_principle)
+145. [Cooperative_principle](https://en.wikipedia.org/wiki/Cooperative_principle)
+146. [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
+147. [Meme](https://en.wikipedia.org/wiki/Meme)
+148. [Metanarrative](https://en.wikipedia.org/wiki/Metanarrative)
+149. [Social Norm](https://en.wikipedia.org/wiki/Social_norm)
+150. [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
+151. [Theory of Everything](https://en.wikipedia.org/wiki/Theory_of_everything)
+152. [Worldview](https://en.wikipedia.org/wiki/Worldview)
+153. [Qualia](https://en.wikipedia.org/wiki/Qualia)
+154. [Harm Principle](https://en.wikipedia.org/wiki/Harm_principle)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 

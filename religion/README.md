@@ -13,6 +13,8 @@
 11. [Cognitive Science of Religion](https://en.wikipedia.org/wiki/Cognitive_science_of_religion)
 12. [Neuroscience of Religion](https://en.wikipedia.org/wiki/Neuroscience_of_religion)
 13. [Neurotheology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968360/)
+14. [RationalWiki: Religion](https://rationalwiki.org/wiki/Category:Religion)
+15. [Irreligion](https://commons.wikimedia.org/wiki/Category:Irreligion) [Category](https://en.wikipedia.org/wiki/Category:Irreligion)
 
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
@@ -108,3 +110,5 @@
 90. [Substitution_hypothesis](https://en.wikipedia.org/wiki/Substitution_hypothesis)
 91. [Language_of_Jesus](https://en.wikipedia.org/wiki/Language_of_Jesus)
 92. [Miraculous_births](https://en.m.wikipedia.org/wiki/Miraculous_births) in [Ancient times](https://www.richardcarrier.info/archives/11161)
+93. [Epic_poetry](https://en.wikipedia.org/wiki/Epic_poetry)
+94. [Josephus_on_Jesus](https://en.wikipedia.org/wiki/Josephus_on_Jesus)
