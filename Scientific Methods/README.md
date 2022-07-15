@@ -110,3 +110,5 @@
 6. [Metascience](https://en.wikipedia.org/wiki/Category:Metascience)
 7. [Evidence based practices](https://en.wikipedia.org/wiki/Category:Evidence-based_practices)
 8. [Research](https://en.wikipedia.org/wiki/Category:Research)
+9. [Research Methods](https://en.wikipedia.org/wiki/Category:Research_methods)
+10. [Scientific](https://commons.wikimedia.org/wiki/Category:Scientific_method) [Methods](https://en.wikipedia.org/wiki/Category:Scientific_method)

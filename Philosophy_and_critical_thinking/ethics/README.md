@@ -99,6 +99,7 @@
 74. [Bernard Williams on Morality](https://www.britannica.com/biography/Bernard-Williams/Morality-and-the-limits-of-objectivity)
 75. [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
 76. [Value System](https://en.wikipedia.org/wiki/Value_(ethics_and_social_sciences)#Value_system)
+77. [Axiology](https://en.wikipedia.org/wiki/Category:Axiology)
 
 ## People
 
