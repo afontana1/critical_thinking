@@ -31,7 +31,12 @@
 28. [Christian Reconstructionism](https://en.wikipedia.org/wiki/Christian_reconstructionism)
 29. [List_of_Christian_denominations_by_number_of_members](https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members)
 30. [4_Maccabees](https://en.wikipedia.org/wiki/4_Maccabees)
-
+31. [On Jews and their Lies](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
+	- [Christianity and the Holocaust](https://www.ushmm.org/collections/bibliography/christianity-and-the-holocaust)
+	- [Failure of Christian Love](https://cct.biola.edu/failure-christian-love-holocaust/)
+	- [Protestand Churches and the Nazi State](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-5/protestant-churches-and-nazi-state)
+	- [Religious_views_of_Adolf_Hitler](https://en.wikipedia.org/wiki/Religious_views_of_Adolf_Hitler)
+	- [Religion_in_Nazi_Germany](https://en.wikipedia.org/wiki/Religion_in_Nazi_Germany)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
@@ -55,3 +60,7 @@
 18. [Pietro Pomponazzi](https://plato.stanford.edu/entries/pomponazzi/)
 19. [Kevin Hector](https://divinity.uchicago.edu/directory/kevin-hector)
 20. [NT Wright](https://en.wikipedia.org/wiki/N._T._Wright)
+21. [Ravi_Zacharias](https://en.wikipedia.org/wiki/Ravi_Zacharias)
+22. [Mark_Driscoll](https://en.wikipedia.org/wiki/Mark_Driscoll)
+23. [Bill_Hybels](https://en.wikipedia.org/wiki/Bill_Hybels)
+24. [Sye_Ten_Bruggencate](https://rationalwiki.org/wiki/Sye_Ten_Bruggencate)

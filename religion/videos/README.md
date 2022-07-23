@@ -24,6 +24,7 @@
 9. [Paula Fredriksen: Early Christianity](https://www.youtube.com/watch?v=53PDO7OQSTs&list=PLNslttMCi6BWqj_5TiWJ6YLVN0nQqBzti)
 10. [Christianity & Platonism](https://www.youtube.com/watch?v=y32kGGlGQac&list=PLkrkT-0Dit2m26P8m3iz3uYZBcy9pvd4r)
 11. [Introduction to Old Testament](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
+12. [History of Christian Philosophy](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3Qi6k4d6srF55OUpNSu8av3)
 
 ### Atheist / Agnostic
 1. [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)

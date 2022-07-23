@@ -229,6 +229,9 @@
 152. [Worldview](https://en.wikipedia.org/wiki/Worldview)
 153. [Qualia](https://en.wikipedia.org/wiki/Qualia)
 154. [Harm Principle](https://en.wikipedia.org/wiki/Harm_principle)
+155. [Gettier Problem](https://iep.utm.edu/gettier/)
+156. [Contextualism](https://en.wikipedia.org/wiki/Contextualism)
+157. [Problem_of_the_criterion](https://en.wikipedia.org/wiki/Problem_of_the_criterion)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -254,6 +257,10 @@
 3. [PreSocratics](https://plato.stanford.edu/entries/presocratics/)
 4. [Democritus](https://en.wikipedia.org/wiki/Democritus)
 5. [Epicurus](https://plato.stanford.edu/entries/epicurus/)
+	- [epicurus website](https://epicurus.net/)
+	- [epicurism](https://epicurism.info/)
+	- [epicurusphilosophy](https://epicurusphilosophy.com/)
+	- [newepicurean](https://newepicurean.com/)
 6. [Lucretius](https://plato.stanford.edu/entries/lucretius/)
 7. [parmenides](https://plato.stanford.edu/entries/parmenides/)
 8. [Protagoras](https://en.wikipedia.org/wiki/Protagoras)
@@ -488,3 +495,4 @@
 34. [Andrey_Markov](https://en.wikipedia.org/wiki/Andrey_Markov)
 35. [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
 36. [Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
+37. [Christopher Hitchcock](https://philpeople.org/profiles/christopher-hitchcock) [research](https://scholar.google.com/citations?user=YSCfVlkAAAAJ&hl=en)

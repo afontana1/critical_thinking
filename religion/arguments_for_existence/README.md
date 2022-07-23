@@ -254,3 +254,6 @@
 	- [Refutation](https://rationalwiki.org/wiki/Lewis_Trilemma)
 	- [Muslim Examination](https://www.call-to-monotheism.com/examining_c_s__lewis__trilemma)
 	- [Lord Liar or Lunatic](https://www.learnreligions.com/lord-liar-or-lunatic-c-s-lewis-249782)
+
+75. [Incinerating Presuppositionalism](http://bahnsenburner.blogspot.com/)
+	- [Presuppositional_apologetics](https://en.wikipedia.org/wiki/Presuppositional_apologetics)
