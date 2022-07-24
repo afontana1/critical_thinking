@@ -40,6 +40,9 @@
 12. [Theological Non Cognitivism](https://en.wikipedia.org/wiki/Theological_noncognitivism)
 	* [Problem of Religious Language](https://en.wikipedia.org/wiki/Problem_of_religious_language)
 	* [Newtons Flaming Laser Sword](https://en.wikipedia.org/wiki/Mike_Alder#Newton's_Flaming_Laser_Sword)
+	* [An Assessment of Religious Language in Philosophy of Religion](http://article.sapub.org/10.5923.j.ijas.20120201.01.html)
+	* [Religious Language](https://iep.utm.edu/rel-lang/)
+	* [Aquinas views on Religious Language](https://www.mytutor.co.uk/answers/20487/A-Level/Philosophy-and-Ethics/Explain-Aquinas-views-surrounding-religious-language-as-analogical/)
 
 13. [Argument from Reason](https://en.wikipedia.org/wiki/Argument_from_reason)
 	* [Anscombe Debate about Naturalism](https://en.wikipedia.org/wiki/G._E._M._Anscombe)

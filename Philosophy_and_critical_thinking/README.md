@@ -1,4 +1,9 @@
-# [Philosophical Concepts](https://plato.stanford.edu/index.html), [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions), [Conceptual Systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems), [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments), [Philosophical Methodology](https://en.wikipedia.org/wiki/Category:Philosophical_methodology), [Concepts in Metaphysics](https://en.wikipedia.org/wiki/Category:Concepts_in_metaphysics)
+# [Philosophical Concepts](https://plato.stanford.edu/index.html)
+	- [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
+	- [Conceptual Systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems)
+	- [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments)
+	- [Philosophical Methodology](https://en.wikipedia.org/wiki/Category:Philosophical_methodology]
+	- [Concepts in Metaphysics](https://en.wikipedia.org/wiki/Category:Concepts_in_metaphysics)
 
 ## Classics
 
@@ -60,6 +65,7 @@
 8. [Philosophy of Science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
 9. [Linguistic Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
 10. [Concepts](https://en.wikipedia.org/wiki/Category:Concepts)
+11. [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 ## List of Concepts
 
@@ -240,7 +246,7 @@
 1. [Ancient_Greek_philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
 2. [Presocratic_philosophy](https://en.wikipedia.org/wiki/Category:Presocratic_philosophy)
 3. [Hellenistic_philosophy](https://en.wikipedia.org/wiki/Category:Hellenistic_philosophy)
-4. [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
+4. [Pyrrhonism](https://en.wikipedia.org/wiki/Category:Pyrrhonism)
 5. [Hellenistic_period](https://en.wikipedia.org/wiki/Hellenistic_period)
 6. [Gorgias](https://en.wikipedia.org/wiki/Gorgias_(dialogue))
 7. [Epilogism](https://en.wikipedia.org/wiki/Epilogism)
