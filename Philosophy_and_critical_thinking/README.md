@@ -1,9 +1,10 @@
 # [Philosophical Concepts](https://plato.stanford.edu/index.html)
-	- [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
-	- [Conceptual Systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems)
-	- [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments)
-	- [Philosophical Methodology](https://en.wikipedia.org/wiki/Category:Philosophical_methodology]
-	- [Concepts in Metaphysics](https://en.wikipedia.org/wiki/Category:Concepts_in_metaphysics)
+
+1. [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
+2. [Conceptual Systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems)
+3. [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments)
+4. [Philosophical Methodology](https://en.wikipedia.org/wiki/Category:Philosophical_methodology)
+5. [Concepts in Metaphysics](https://en.wikipedia.org/wiki/Category:Concepts_in_metaphysics)
 
 ## Classics
 
