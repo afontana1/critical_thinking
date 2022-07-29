@@ -55,6 +55,7 @@
 23. [Christine_Hayes](https://en.wikipedia.org/wiki/Christine_Hayes)
 24. [Jason_BeDuhn](https://en.wikipedia.org/wiki/Jason_BeDuhn)
 25. [Ian N. Mills](https://scholar.google.com/citations?user=mf9HdJ4AAAAJ&hl=en) [New Testament Review](https://www.youtube.com/channel/UCR8SeIgZf4x0-wUMWVvWchw)
+26. [John_Dominic_Crossan](https://en.wikipedia.org/wiki/John_Dominic_Crossan)
 
 ## Methods
 

@@ -37,6 +37,9 @@
 	- [Protestand Churches and the Nazi State](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-5/protestant-churches-and-nazi-state)
 	- [Religious_views_of_Adolf_Hitler](https://en.wikipedia.org/wiki/Religious_views_of_Adolf_Hitler)
 	- [Religion_in_Nazi_Germany](https://en.wikipedia.org/wiki/Religion_in_Nazi_Germany)
+	- [Clerical_fascism](https://en.wikipedia.org/wiki/Clerical_fascism)
+	- [The_Pope_and_Mussolini](https://en.wikipedia.org/wiki/The_Pope_and_Mussolini)
+	- [Franco and the Catholic Church](https://www.spainthenandnow.com/spanish-history/franco-and-the-catholic-church)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
